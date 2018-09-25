@@ -1,0 +1,20 @@
+{{ define "main" }}
+<div class="section section-contents section-pad">
+    <div class="container">
+        <div class="content row">
+            <div class="col-md-12 col-lg-12">
+                {{.Content}}
+                <ul>
+                    {{ range .Paginator.Pages }}
+                    <li>
+                        <a href="{{.Permalink}}">{{.Date.Format "2006-01-02"}} | {{.Title}}</a>
+                    </li>
+                    {{ end }}
+                </ul>
+                
+                {{ template "_internal/pagination.html" . }}
+            </div>
+        </div>
+    </div>
+</div>
+{{ end }}

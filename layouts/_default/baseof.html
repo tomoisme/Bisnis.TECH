@@ -1,5 +1,7 @@
 {{ partial "header-default" . }}
 
-{{ .Content }}
+{{ block "main" . }}
+
+{{ end }}
 
 {{ partial "footer" . }}

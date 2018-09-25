@@ -1,4 +1,9 @@
 baseURL = ""
 languageCode = "en-us"
 title = "Bisnis.TECH"
-disableKinds = "RSS"
+disableKinds = ["RSS"]
+
+paginate = 1
+
+[taxonomies]
+    tag = "tagar"
