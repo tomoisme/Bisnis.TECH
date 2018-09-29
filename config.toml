@@ -1,4 +1,4 @@
-baseURL = ""
+baseURL = "https://www.bisnis.tech/"
 languageCode = "en-us"
 title = "Bisnis.TECH"
 disableKinds = ["RSS"]
@@ -7,3 +7,8 @@ paginate = 1
 
 [taxonomies]
     tag = "tagar"
+
+[outputs]
+  home = ["HTML", "AMP"]
+  page = ["HTML", "AMP"]
+  section = ["HTML", "AMP"]

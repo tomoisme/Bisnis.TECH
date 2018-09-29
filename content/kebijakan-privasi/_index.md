@@ -5,8 +5,6 @@ draft: false
 layout: "single"
 ---
 
-# Kebijakan Privasi Bisnis.TECH
-
 Jika Anda memerlukan informasi lebih lanjut atau memiliki pertanyaan tentang kebijakan privasi kami, jangan ragu untuk menghubungi kami melalui email di info@bisnis.tech.
 
 Di bisnis.tech, privasi pengunjung kami sangat penting bagi kami. Dokumen kebijakan privasi ini menguraikan jenis informasi pribadi yang diterima dan dikumpulkan oleh bisnis.tech dan bagaimana ia digunakan.

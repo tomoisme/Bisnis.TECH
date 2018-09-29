@@ -1,11 +1,14 @@
-{{ define "main" }}
-    <div class="section section-contents section-pad">
-        <div class="container">
-            <div class="content row">
-                <div class="col-md-12 col-lg-12">
-                    {{ .Content }}
-                </div>
+{{ partial "header-default" . }}
+
+<div class="section section-contents section-pad">
+    <div class="container">
+        <div class="content row">
+            <div class="col-md-12 col-lg-12">
+                <h3>{{ .Title }}</h3>
+                {{ .Content }}
             </div>
         </div>
     </div>
-{{ end }}
+</div>
+
+{{ partial "footer" . }}

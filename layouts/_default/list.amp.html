@@ -1,0 +1,26 @@
+{{ partial "amp/header" . }}
+
+
+<div class="page-content">
+    <div class="page-content-scroll">
+        <div class="heading-block">
+            <h4>{{ .Title }}</h4>
+            <div class="overlay"></div>
+        </div>
+
+        <div class="content">
+            <ul>
+                {{ range .Paginator.Pages }}
+                <li>
+                    <a href="{{.Permalink}}">{{.Date.Format "01-02-2006"}} | {{.Title}}</a>
+                </li>
+                {{ end }}
+            </ul>
+            {{ partial "amp/paginator" . }}
+        </div>
+    </div>
+</div>
+
+
+
+{{ partial "amp/footer" . }}
