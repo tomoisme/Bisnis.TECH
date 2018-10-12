@@ -3,12 +3,8 @@ languageCode = "en-us"
 title = "Bisnis.TECH"
 disableKinds = ["RSS"]
 
-paginate = 1
+paginate = 5
 
 [taxonomies]
     tag = "tagar"
 
-[outputs]
-  home = ["HTML", "AMP"]
-  page = ["HTML", "AMP"]
-  section = ["HTML", "AMP"]
