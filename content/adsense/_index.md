@@ -1,11 +1,18 @@
 ---
 title: "Cara Mendapatkan Uang Dari Internet Lewat Adsense"
-date: 2018-10-19T11:27:12+07:00
+date: 2018-10-10T11:27:12+07:00
 draft: false
 description: "Panduan lengkap langkah demi langkah cara menghasilkan uang dari internet dengan blog atau youtube. Gratis, dibantu sampai bisa."
+layout: "single"
 ---
 
-#### Langkah-langkah Mendapatkan Uang Dari AdSense Dengan Blogging
+AdSense adalah program periklanan dari Google dimana anda dapat mendaftar sebagai publisher (penayang iklan) dan mendapatkan penghasilan dengan cara menayangkan iklan dari jaringan periklanan Google. Saat ini ada 3 cara untuk mendapatkan uang dari AdSense, yaitu dengan **blogging** (menampilkan iklan di website/blog), **vlogging** (menayangkan iklan di video YouTube) dan **developing** (menampilkan iklan AdMob di aplikasi Android).
+
+### Wajib Punya Akun AdSense!
+
+Apapun jalan yang anda pilih untuk menghasilkan uang dari AdSense, anda harus memiliki sebuah akun AdSense yang aktif untuk mendapatkan penghasilan dari AdSense. Silahkan ikuti panduan cara mendaftarkan akun AdSense di bawah ini apabila anda belum memilikinya. Atau anda juga dapat membeli akun AdSense yang saat ini sudah mulai marak diperdagangkan oleh banyak pelaku bisnis online di Indonesia.
+
+### Langkah-langkah Mendapatkan Uang Dari AdSense Dengan Blogging
 
 1. Buat blog
     
@@ -41,3 +48,10 @@ description: "Panduan lengkap langkah demi langkah cara menghasilkan uang dari i
 4. Update konten anda secara konsisten
 5. Setelah mencapai persyaratan monetisasi, daftarkan channel anda di program AdSense for YouTube.
 6. Cairkan saldo setelah mencapai ambang batas pembayaran
+
+### Langkah-Langkah Mendapatkan Uang Dari Internet Lewat AdMob (AdSense untuk aplikasi Android)
+
+1. Jika sudah memiliki akun AdSense, anda hanya perlu mengaktifkan akun AdMob dan menghubungkannya ke akun AdSense anda.
+2. Masukkan kode iklan anda pada aplikasi Android anda.
+3. Upload aplikasi anda ke Google Play.
+4. Promosikan aplikasi anda.

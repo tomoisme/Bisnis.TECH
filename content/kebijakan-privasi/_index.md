@@ -1,6 +1,6 @@
 ---
 title: "Kebijakan Privasi Bisnis.TECH"
-date: 2018-09-25T18:51:25+07:00
+date: 2018-01-01T18:51:25+07:00
 draft: false
 layout: "single"
 ---
