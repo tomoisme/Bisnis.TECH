@@ -1,6 +1,6 @@
-baseURL = "https://moxserum.com"
+baseURL = "https://www.bisnis.tech/"
 languageCode = "en-us"
-title = "Mox Serum"
+title = "Bisnis.TECH"
 disableKinds = ["RSS"]
 
 paginate = 5
