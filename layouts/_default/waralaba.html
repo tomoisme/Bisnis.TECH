@@ -11,7 +11,7 @@
                     Tagar: 
                     {{ $siteurl := .Site.BaseURL }}
                     {{ range .Params.tagar }}
-                    #<a href="{{ $siteurl }}tagar/{{ . | urlize }}">{{ . }}</a>, 
+                    #<a href="{{ $siteurl }}tagar/{{ . | urlize }}">{{ . }}</a>  
                     {{ end }}
                 </p>                
             </div>
