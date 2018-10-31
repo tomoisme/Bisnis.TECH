@@ -3,6 +3,10 @@ title: "Peluang Usaha Waralaba Chicken Popop"
 date: 2018-10-30T19:42:34+07:00
 draft: false
 layout: "waralaba"
+tagar:
+- bisnis kuliner
+- waralaba kuliner
+- chicken popop
 ---
 
 ![chicken popop kemasan baru](../chicken-popop/waralaba-chicken-popop-kemasan-baru.jpg)

@@ -3,6 +3,10 @@ title: "Peluang Usaha Franchise Cheese Tea Go Cheers"
 date: 2018-10-23T00:44:08+07:00
 draft: false
 layout: "waralaba"
+tagar:
+- bisnis kuliner
+- cheese tea
+- waralaba kuliner
 ---
 
 ### Tentang Gocheers - Cheese Tea Specialist
