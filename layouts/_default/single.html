@@ -6,6 +6,15 @@
             <div class="col-md-12 col-lg-12">
                 <h2>{{ .Title }}</h2>
                 {{ .Content }}
+
+                <hr />
+                <p>
+                    Tagar: 
+                    {{ $siteurl := .Site.BaseURL }}
+                    {{ range .Params.tagar }}
+                    #<a href="{{ $siteurl }}tagar/{{ . | urlize }}">{{ . }}</a>  
+                    {{ end }}
+                </p>
             </div>
         </div>
     </div>

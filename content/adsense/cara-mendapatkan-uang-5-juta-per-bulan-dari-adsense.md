@@ -2,7 +2,17 @@
 title: "Cara Mendapatkan Uang 5 Juta per Bulan Dari Adsense"
 date: 2018-10-23T13:45:10+07:00
 draft: false
+layout: "single"
 description: "Panduan mendapatkan penghasilan pasif Rp 5 juta per bulan dari AdSense. Dijelaskan langkah demi langkah, siapapun saja bisa."
+tagar:
+- bisnis online
+- tips bisnis online
+- panduan bisnis online
+- uang dari adsense
+- uang adsense
+- uang dari blogging
+- uang dari youtube
+- cara mendapatkan uang dari internet
 ---
 
 #### Mencari Penghasilan Dari Internet Tidak Semudah Yang Dibayangkan

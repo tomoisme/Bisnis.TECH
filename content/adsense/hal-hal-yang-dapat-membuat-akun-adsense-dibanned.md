@@ -4,6 +4,12 @@ date: 2018-10-23T14:13:04+07:00
 draft: false
 description: "Jangan melakukan hal-hal ini jika kamu tidak mau akun AdSense kamu kena ban. Baca panduan AdSense dan cara mendapatkan uang dari internet di bisnis.tech"
 layout: "single"
+tagar:
+- bisnis online
+- tips bisnis online
+- panduan bisnis online
+- kebijakan adsense
+- tos adsense
 ---
 
 Bagi setiap blogger yang menjadi publisher AdSense untuk mendapatkan penghasilan dari internet, ada satu hal yang sangat ditakuti dan sebisa mungkin tidak terjadi pada dirinya. Hal tersebut adalah kena banned oleh Google AdSense.

@@ -3,6 +3,7 @@ title: "Peluang Usaha Franchise Cheese Tea Go Cheers"
 date: 2018-10-23T00:44:08+07:00
 draft: false
 layout: "waralaba"
+description: "Ayo ikut bergabung meraih keuntungan dan omzet lewat waralaba minuman cheese tea yang sedang laris manis."
 tagar:
 - bisnis kuliner
 - cheese tea

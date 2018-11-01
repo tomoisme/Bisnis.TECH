@@ -3,7 +3,14 @@ title: "Cara Meningkatkan Follower Instagram"
 date: 2018-10-21T11:19:02+07:00
 draft: false
 layout: "single"
-tagar: ["instagram marketing", "panduan instagram"]
+description: "Cara meningkatkan follower Instagram hingga ratusan ribu secara cepat, tepat dan mudah. Tanpa biaya"
+tagar: 
+- bisnis online
+- tips bisnis online
+- panduan bisnis online
+- instagram marketing
+- tips instagram
+- panduan instagram
 ---
 
 ### Follow-Unfollow

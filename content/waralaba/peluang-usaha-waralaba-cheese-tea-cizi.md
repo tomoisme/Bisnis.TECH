@@ -3,6 +3,7 @@ title: "Peluang Usaha Waralaba Cheese Tea Cizi"
 date: 2018-10-31T12:03:26+07:00
 draft: false
 layout: "waralaba"
+description: "Mau buka usaha cheese tea yang lagi booming? Pilih CIZI tea aja, cheese tea populer dari Taiwan."
 tagar: 
 - bisnis kuliner
 - cheese tea

@@ -12,6 +12,18 @@ AdSense adalah program periklanan dari Google dimana anda dapat mendaftar sebaga
 
 Apapun jalan yang anda pilih untuk menghasilkan uang dari AdSense, anda harus memiliki sebuah akun AdSense yang aktif untuk mendapatkan penghasilan dari AdSense. Silahkan ikuti panduan cara mendaftarkan akun AdSense di bawah ini apabila anda belum memilikinya. Atau anda juga dapat membeli akun AdSense yang saat ini sudah mulai marak diperdagangkan oleh banyak pelaku bisnis online di Indonesia.
 
+Untuk dapat menghasilkan uang dari AdSense, anda harus mengikuti aturan yang dibuat oleh Google. Simak disini: 
+
+[**Perhatikan Hal Ini Jika Tidak Mau Akun AdSense Anda Diblokir**](./hal-hal-yang-dapat-membuat-akun-adsense-dibanned)
+
+Kenapa penghasilan saya kok segitu-segitu aja? Apa aja sih yang mempengaruhi penghasilan AdSense? Simak disini: 
+
+[**Hal-Hal Yang Mempengaruhi Penghasilan AdSense Anda**](./hal-hal-yang-mempengaruhi-penghasilan-adsense)
+
+Simak tips dibawah ini untuk meningkatkan penghasilan AdSense anda.
+
+[**Cara Mendapatkan Uang Rp 5 Juta Per Bulan Dari AdSense**](./cara-mendapatkan-uang-5-juta-per-bulan-dari-adsense)
+
 ### Langkah-langkah Mendapatkan Uang Dari AdSense Dengan Blogging
 
 1. Buat blog
