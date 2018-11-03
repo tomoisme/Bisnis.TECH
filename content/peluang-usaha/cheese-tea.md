@@ -31,8 +31,6 @@ Seperti halnya makan, minum adalah salah satu kebutuhan primer. Kita lihat aja d
 
 Lho, tapi kan minuman siap saji ini harganya jauh lebih mahal ketimbang minuman botolan di minimarket? Apa iya bisa bersaing? 
 
-{{< adsense-responsive >}}
-
 Faktanya bisa. Dan tidak sedikit pula merk-merk minuman kekinian yang masih bertahan hingga saat ini walaupun trend dari jenis minuman tersebut sudah pudar. Asalkan anda benar-benar mengerti pangsa pasar dari minuman kekinian ini dan memilih lokasi usaha yang pas, dijamin anda pasti akan terus mencetak omzet dari waktu ke waktu dengan stabil.
 
 **Kenapa gerai minuman kekinian seperti cheese tea bisa bertahan?**
@@ -57,8 +55,16 @@ HINDARI LOKASI USAHA SEPERTI INI
 
 Sedangkan lokasi yang kurang disarankan untuk berjualan minuman ini adalah seperti ruko di kompleks perumahan (terkecuali outlet di desain menjadi kafe), lokasi dekat dengan perkantoran (walaupun mungkin bisa saja sukses mencetak penjualan, rata-rata orang kantoran masih banyak yang berpikir soal budget makan siang) dan lokasi lainnya yang berpotensi memiliki tingkat persaingan tinggi seperti di depan minimarket.
 
+{{< adsense-responsive >}}
+
 #### Pilihan Waralaba Cheese Tea
 
 [**Go Cheers**](../../waralaba/peluang-usaha-franchise-cheese-tea-go-cheers)
 
 [**CIZI**](../../waralaba/peluang-usaha-waralaba-cheese-tea-cizi)
+
+### Berapa Omzet Rata-Rata Dari Usaha Cheese Tea?
+
+Ngomong-ngomong soal penghasilan bisnis minuman kekinian memang tidak bisa dipukul rata. Banyak faktor yang menentukan jumlah pemasukan harian di bisnis ini, seperti misalnya lokasi usaha, rasa minuman dan variasi menu dari tiap vendor, popularitas brand (waralaba), kompetisi usaha dan juga manajemen usaha yang dikelola. Jika kita melihat gerai penjualan minuman cheese tea yang dapat bertahan bulanan di mall-mall maupun lokasi usaha strategis lainnya, bisa diperkirakan bahwa omzet minimal untuk biaya operasional sudah mencukupi.
+
+Rata-rata penyedia kemitraan minuman cheese tea memberikan ilustrasi pendapatan kotor mulai dari Rp 10 jutaan per bulannya hingga Rp 20 jutaan. Namun tentu saja pemasukan riil dari bisnis minuman kekinian ini bisa berbeda dari yang dilukiskan pada analisa usaha yang disodorkan oleh penyedia kemitraan. Kemungkinan bisa lebih kecil, namun tidak mustahil juga dapat lebih besar dari yang diperkirakan.
