@@ -13,7 +13,7 @@ tagar:
 ![logo tahu gila](../tahu-gila/logo-tahu-gila.jpg)
 ### TAHU GILA
 Siapa sih di negri Ibu pertiwi Indonesia ini yang tidak suka makan tahu. Tahu sudah menjadi makanan yang sangat merakyat dan dicintai oleh berbagai kalangan masyarakat, mulai dari kalangan bawah hingga kalangan atas.
-Sudah Coba belum racikan Tahu yang kekinian, tahu yang satu ini bukan sembarang tahu, tapi GILA enaknya juga GILA banget bisnisnya!
+Sudah coba belum racikan Tahu yang kekinian, tahu yang satu ini bukan sembarang tahu, tapi GILA enaknya juga GILA banget bisnisnya!
 
 GABUNG JADI MITRA DAN RAIH OMZET HINGGA 45 JT SEIAP BULAN!
 
@@ -32,7 +32,7 @@ Denpasar, Bali
 
 Penjualan 200-250 porsi/ hari FANTASTIS!
 
-Pioner Tahu Gila asal Bali, jadilah seperti beliau menjadi pioner yang sukses di kota Anda & dapakan penjualan tertinggi untuk meraih kehidupan yang lebih baik.
+Pioner Tahu Gila asal Bali, jadilah seperti beliau menjadi pioner yang sukses di kota Anda & dapatkan penjualan tertinggi untuk meraih kehidupan yang lebih baik.
 
 ![stevany](../tahu-gila/stevany.jpg)
 
@@ -40,7 +40,7 @@ Pioner Tahu Gila asal Bali, jadilah seperti beliau menjadi pioner yang sukses di
 
 Palu
 
-Stevany, mitra Tahu Gila baru saja membeli tanah seharga 56jt ukuran 20x26m, tentu saja Ibu Stevany dapat membeli tanah karena hasil penjualan sangat spektakuler yaiut 200-300 poersi dalam sehari.Hasil penjualan yang maksimal tentu tak lupt dari usaha dan ketekunan dalam suatu usaha. Dan kini ibu Stevany berhasil membangun 1 buah rumah idamannya.
+Stevany, mitra Tahu Gila baru saja membeli tanah seharga 56jt ukuran 20x26m, tentu saja Ibu Stevany dapat membeli tanah karena hasil penjualan sangat spektakuler yaitu 200-300 porsi dalam sehari.Hasil penjualan yang maksimal tentu tak lupt dari usaha dan ketekunan dalam suatu usaha. Dan kini ibu Stevany berhasil membangun 1 buah rumah idamannya.
 
 ![regi](../tahu-gila/regi.jpg)
 
@@ -48,7 +48,7 @@ Stevany, mitra Tahu Gila baru saja membeli tanah seharga 56jt ukuran 20x26m, ten
 
 Garut Selatan
 
-Regi Fauzan mitra asal Garut Selatan ini dalam seharinya mampu menjual Tahu Gila sebanyak 150-250 porsi seharinya. Dalam tiap harinya gerai Regi sangat ramai dipadati oleh pembeli, mulai dari siswa sekalah higga pegawai negeri. Untuk saat ini omzet dari penjualan tersebut dipakai untuk pengembangan usaha beliau dan kini Bapak Regi dapat membeli 1 buah unit mobil baru.
+Regi Fauzan mitra asal Garut Selatan ini dalam seharinya mampu menjual Tahu Gila sebanyak 150-250 porsi seharinya. Dalam tiap harinya gerai Regi sangat ramai dipadati oleh pembeli, mulai dari siswa sekalah hingga pegawai negeri. Untuk saat ini omzet dari penjualan tersebut dipakai untuk pengembangan usaha beliau dan kini Bapak Regi dapat membeli 1 buah unit mobil baru.
 
 ![elvin](../tahu-gila/elvin.jpg)
 
@@ -72,7 +72,7 @@ Tidak hanya menjalani satu buah usaha franchise saja mitra kami yang satu ini Sy
 
 Pekanbaru
 
-Mitra kami asal pekanbaru ini yakni Darussman, beliau mebuka outletnya di pusat perbelanjaan di kota Pekanbaru, dengan konsep booth yang menarik dan kerja keras beliau dalam mempromosikan outletnya kini dalam satu harinya beliau mampu menjual lebih dari 150 porsi Tahu Gila.
+Mitra kami asal Pekanbaru ini yakni Darussman, beliau membuka outletnya di pusat perbelanjaan di kota Pekanbaru, dengan konsep booth yang menarik dan kerja keras beliau dalam mempromosikan outletnya kini dalam satu harinya beliau mampu menjual lebih dari 150 porsi Tahu Gila.
 
 ![imam](../tahu-gila/imam.jpg)
 
@@ -80,8 +80,7 @@ Mitra kami asal pekanbaru ini yakni Darussman, beliau mebuka outletnya di pusat 
 
 Sangata
 
-Melalui proses jatuh bangun yang sulit mitra kami asal Sangata yakni Imam Maksum, berkat kerja kerasnya dan konsistensi beliau 
-menjalankan usahanya, kini outlet beliau sudah berkembang dalam satu harinya beliau mampu menjual lebih dari 120 porsi per harinya. Dengan hasil penjualan yang stabil kini beliau berencana untuk menambahkan outlet baru.
+Melalui proses jatuh bangun yang sulit mitra kami asal Sangata yakni Imam Maksum, berkat kerja kerasnya dan konsistensi beliau menjalankan usahanya, kini outlet beliau sudah berkembang dalam satu harinya beliau mampu menjual lebih dari 120 porsi per harinya. Dengan hasil penjualan yang stabil kini beliau berencana untuk menambahkan outlet baru.
 
 ![testimoni](../tahu-gila/testimoni.jpg)
 
@@ -113,7 +112,7 @@ Racikan varian rasa bumbu buatan chef bintang lima, bumbu yang berkualitas sanga
 
 ### PENGHARGAAN
 
-Dalam kurun waktu kurang dari 3 tahun, Tahu Gila berhasil menyita hati masyarakat Indonesia dengan membuktikan adanya 4 penghargaan yang di raih. Ini adalah suatu bukti bahwa Tahu Gila satu-saunya produk yang sangat menjanjikan.
+Dalam kurun waktu kurang dari 3 tahun, Tahu Gila berhasil menyita hati masyarakat Indonesia dengan membuktikan adanya 4 penghargaan yang diraih. Ini adalah suatu bukti bahwa Tahu Gila satu-saunya produk yang sangat menjanjikan.
 
 TERBUKTI TAHU GILA KUALITAS UNGGULAN!
 
@@ -242,7 +241,7 @@ Majalah Tahu Gila yang berisi strategi penjualan, mitra terbaik kami, tips dan t
 
 * Perusahaan belum jelas & tidak benefit
 * Tidak ada kerjasama dengan instansi besar
-* Masih mengambil tender daripabrik yang masih dijual umum
+* Masih mengambil tender dari pabrik yang masih dijual umum
 * Tidak ada inovasi dan pengembangan untuk mitra
 
 ![team tahu gila](../tahu-gila/team-tahu-gila.jpg)
@@ -250,37 +249,42 @@ Majalah Tahu Gila yang berisi strategi penjualan, mitra terbaik kami, tips dan t
 ### TEAM TAHU GILA 
 
 * MARKETING
+
 Senantiasa membantu calon mitra untuk lebih mudah bergabung
 
 * CUSTOMER SERVICE
+
 Siap membantu memberikan tips & trik dalam meningkatkan penjualan
 
 * DESIGNER 
+
 Membantu meningkatkan penjualan lewat koridor design
 
 * PRODUKSI
+
 Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready sock setiap harinya
 
 * PENGIRIMAN
-Seiap mengirim paket mitra tiba di lokasi dengan tepat waktu
+
+Siap mengirim paket mitra tiba di lokasi dengan tepat waktu
 
 Team management yang bersifat profesional, solid, SDM terbaik dan senantiasa melayani mitra dengan sepenuh hati karena Anda adalah prioritas kami
 
 ### FREQUENTLY ASKED QUESTION
 
-M  = Bagaimana menjadi mitra Toge Gila?
+M  = Bagaimana menjadi mitra Tahu Gila?
 
-TG = Bisa lihat di persyaratan untuk menjadi mitra Toge Gila
+TG = Bisa lihat di persyaratan untuk menjadi mitra Tahu Gila
 
-M  = Apa yang membedakan franchise Toge Gila dengan yang lain?
+M  = Apa yang membedakan franchise Tahu Gila dengan yang lain?
 
-TG = franchise kami bisa dibuka di indoor maupun di outdoor. Dan Toge Gila berbeda dari franchise yang lainnya bukti yang real, bukan hanya testimonial
+TG = franchise kami bisa dibuka di indoor maupun di outdoor. Dan Tahu Gila berbeda dari franchise yang lainnya bukti yang real, bukan hanya testimonial
 
 M  = Apakah dikenai biaya dalam pengiriman booth? 
 
 TG = Biaya pengiriman ditanggung oleh mitra
 
-M  = Berapa ukuran booth Toge Gila?
+M  = Berapa ukuran booth Tahu Gila?
 
 TG = Kurang lebih 60cm x 120cm
 
@@ -292,7 +296,7 @@ M  = Setelah mengisi perjanjian kontrak apa yang harus dilakukan?
 
 TG = Calon mitra bisa melakukan pelunasan dengan mentransfer uang senilai paket franchise yang dipilih ke rekening yang sudah diinformasikan oleh bagian marketing
 
-M  = Bagaimana jika dalam satu kota sudah ada outlet Toge Gila?
+M  = Bagaimana jika dalam satu kota sudah ada outlet Tahu Gila?
 
 TG = Dalam satu kota tidak masalah ada beberapa outlet, asalkan radius antara outlet minimal 1 km
 
@@ -300,7 +304,7 @@ M  = Untuk karwayan apakah disediakan dari pusat?
 
 TG = Tidak,untuk karyawan disediakan oleh mitra
 
-M  = Bagaimana dengan training karyawan dan cara penyajian Toge Gila?
+M  = Bagaimana dengan training karyawan dan cara penyajian Tahu Gila?
 
 TG = Kami mengirim SOP berupa CD yang dikirim bersamaan dengan booth, yang bersifat mudah diterapkan
 
@@ -346,7 +350,8 @@ CARA GABUNG SANGAT MUDAH!
 
 ### CARA & SYARAT GABUNG
 
-SYARAT BERGABUNG MENJADI MITRA TAHU GILA :
+**SYARAT BERGABUNG MENJADI MITRA TAHU GILA :**
+
 1. Memiliki modal yang cukup untuk investasi sesuai harga paket franchise
 2. Memiliki komitmen terhadap bisnis ini untuk maju dan berkembang bersama
 3. Bersedia meluangkan waktu untuk terjun langsung mengawasi perkembangan outlet

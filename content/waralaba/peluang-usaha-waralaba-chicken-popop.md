@@ -29,10 +29,140 @@ Ayo Segera Order!
 8. Layanan free design untuk semua mitra
 
 ### GRATIS LAYANAN DESIGN
-Kami menyediakan layanan free design untuk semua Chicken Popop agar bisa membantu meningkatkan penjualan lewat koridor design.
-Desgin bisa berupa design banner, spanduk, brosur, menu dll.
+Kami menyediakan layanan free design untuk semua mitra Chicken Popop agar bisa membantu meningkatkan penjualan lewat koridor design.
+Atribut design bisa berupa design banner, spanduk, brosur, menu dll.
+
+### PELUANG USAHA OMZET PULUHAN JUTA RUPIAH
+
+![peluang usaha chicken popop](../chicken-popop/peluang-usaha-chicken-popop.jpg)
+
+**LAURENSIUS** BANDUNG
+
+**PENJUALAN 250 PORSI LUARR BIASAAA!**
+
+PIONEER CHICKEN POPOP ASAL BANDUNG, JAWA BARAT. JADILAH SEPERTI BELIAU MENJADI PIONEER DI KOTA ANDA DAN DAPATKAN PENJUALAN TERTINGGI UNTUK MENUNJANG KEHIDUPAN YANG LEBIH BAIK.
+
+### PENGHARGAAN
+
+![penghargaan](../chicken-popop/penghargaan.jpg)
+
+### MITRA SUKSES CHICKEN POPOP
+
+![reka](../chicken-popop/reka.jpg)
+
+**IBU REKA** (BERAU)
+
+Mitra kami asal Berau, Kalimantan Timur rata-rata penjualan 120 porsi lebih perharinya, kini Ibu Reka membeli mobil dengan hasil jerih payahnya selama ini, selamat!
+
+![yuyun](../chicken-popop/yuyun.jpg)
+
+**IBU YUYUN** (MAGELANG)
+
+Mitra kami asal Magelang, Jawa Tengah kini tengah sukses menjalani usahanya, beliau dalam sehari mampu menjual sampai 150 porsi dan keuntungannya bisa dipakai untuk kebutuhan & keperluan keluarganya.
+
+![yesy](../chicken-popop/yesy.jpg)
+
+**IBU YESY** (BANJARMASIN)
+
+Mitra kami asal Banjarmasin mampu menjual Chicken Popop dalam perharinya mencapai 200 porsi, karena lokasinya yang sangat strategis gerai beliau semakin ramai pengunjung
+
+![ida](../chicken-popop/ida.jpg)
+
+**IBU IDA** (FAKFAK)
+
+Ibu Ida adalah salah satu mitra asal Fakfak, Papua Barat yang sukses mencapai target penjualannya, beliau mampu menembus angka penjualan 100 porsi dalam waktu 2 jam saja! WOW sangat Luar Biasaa!
+
+"Jadilah salah satu mitra sukses Chicken Popop"
+
+### GALERI CHICKEN POPOP LOVERS
+![galeri](../chicken-popop/galeri.jpg)
+
+### TESTIMONI CHAT MITRA
+![testimoni](../chicken-popop/testimoni.jpg)
+
+### PILIHAN PAKET PROMO
+
+**PAKET A**  
+
+![paket a](../chicken-popop/paket-a.jpg)
+
+Paket Franchise Booth dengan DEEP FRYER GAS
+
+**PAKET B**
+
+![paket b](../chicken-popop/paket-b.jpg)
+
+Paket Franchise Booth dengan DEEP FRYER LISTRIK
+
+**PAKET C**
+
+![paket c](../chicken-popop/paket-c.jpg)
+
+Paket Franchise Booth dengan KOMPOR GAS
+
+**PAKET D**
+
+![paket d](../chicken-popop/paket-d.jpg)
+
+Paket Franchise Booth Palet dengan KOMPOR GAS
+
+**PAKET E**
+
+![paket e](../chicken-popop/paket-e.jpg)
+
+Paket Franchise Tanpa Booth dengan KOMPOR GAS
+
+![tenda](../chicken-popop/tenda.jpg)
+
+**KAMI SEDIAKAN JUGA TENDA OUTDOOR**
+**MAU? HUBUNGI KAMI SEGERA!**
+
+* SPACE/ DIMENSI 200X200CM
+* MATERIAL TENDA BERKUALITAS
+* DESIGN MENARIK & EYECATCHING
+* HARGA TERJANGKAU
+
+### GRATIS BUKU PANDUAN SUKSES
+![buku panduan](../chicken-popop/buku-panduan.jpg)
+
+### CARA BUAT SANGAT MUDAH
+![cara](../chicken-popop/cara.jpg)
+
+### DETAIL BAHAN BAKU
+
+![bahan](../chicken-popop/bahan.jpg)
+
+* Tepung pencelup 1 kg = Rp 24.000
+* bisa menjadi 40 porsi (Rp 600/porsi)
+* Tepung Pelapis 1 kg = 24.000
+* bisa menjadi 40 porsi (Rp 600/porsi)
+
+* Bumbu : Rp 100.000/kg
+* Kemasan : Rp 800
+* Kemasan Box : Rp 1.200
+* Kemasan Bowl : Rp 1.500
+* HPP : Rp 2.200 + Rp 3.000(ayam) = Rp 5.200
+* Harga Jual : Rp 10.000 sd Rp 20.000
+
+### PERHITUNGAN BALIK MODAL
+
+* Bahan Baku 70 porsi/ hari
+* 70x10.000x30 : Rp 21.000.000
+* 70x5.200x30  : Rp 10.920.000
+* 	             Rp 10.080.000
+* Gaji         : Rp 1.200.000
+* Sewa         : Rp 1.000.000
+* Operasional  : Rp 1.000.000
+* Laba         : Rp 6.880.000
+* BEP          : 2-3 Bulan
+* Booth        : 2-3 Bulan
+* FTB          : 1-2 Bulan
+
 
 ### PERLENGKAPAN YANG DIDAPAT
+
+![perlengkapan](../chicken-popop/perlengkapan.jpg)
+
 
 Fasilitas yang didapat :
 
@@ -113,6 +243,88 @@ CP = Mitra boleh berpindah lokasi asalkan meminta ijin ke pusat dan memberikan a
 M  = Apakah mitra diperbolehkan dalam mengubah harga per porsi?
 
 CP = Kami tidak mematok harga perporsi, kami menyarankan harga perporsi Rp. 8.000 - Rp. 15.000 sesuai daya beli disekitar outlet.
+
+### PERBANDINGAN DENGAN PRODUK LAIN
+
+**CHICKEN POPOP**
+
+* Perusahaan jelas terorganisir
+* Produk diproduksi sendiri
+* Layanan free design
+* Resep rekomendasi dari chef bintang lima
+* Inovasi, konsultasi dan sharing untuk perkembangan mitra CHICKEN POPOP
+
+**PRODUK LAIN**
+
+* Perusahaan belum jelas & tidak benefit
+* Tidak ada kerjasama dengan instansi besar
+* Masih mengambil tender dari pabrik yang masih dijual umum
+* Tidak ada inovasi dan pengembangan untuk mitra
+
+
+### TEAM CHICKEN POPOP
+
+* MARKETING
+
+Senantiasa membantu calon mitra untuk lebih mudah bergabung
+
+* CUSTOMER SERVICE
+
+Siap membantu memberikan tips & trik dalam meningkatkan penjualan
+
+* DESIGNER 
+
+Membantu meningkatkan penjualan lewat koridor design
+
+* PRODUKSI
+
+Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready sock setiap harinya
+
+* PENGIRIMAN
+
+Siap mengirim paket mitra tiba di lokasi dengan tepat waktu
+
+Team management yang bersifat profesional, solid, SDM terbaik dan senantiasa melayani mitra dengan sepenuh hati karena Anda adalah prioritas kami
+
+CARA GABUNG SANGAT MUDAH!
+
+### CARA & SYARAT GABUNG
+
+**SYARAT BERGABUNG MENJADI MITRA TAHU GILA :**
+
+1. Memiliki modal yang cukup untuk investasi sesuai harga paket franchise
+2. Memiliki komitmen terhadap bisnis ini untuk maju dan berkembang bersama
+3. Bersedia meluangkan waktu untuk terjun langsung mengawasi perkembangan outlet
+4. Memahami resiko bisnis
+5. Bersedia menaati peraturan yang ada dalam surat kerja sama
+6. Wajib membeli bahan baku dari pusat
+
+### FASILITAS YANG DIBUTUHKAN :
+
+1. Lokasi berada di tempat strategis : didepan pusat keramaian /didepan sekolah - sekolah menengah keatas, kampus atau mini market
+2. Luas ukuran tempa sewa minimal sesuai dengan ukuran counter ( 120 cm x 60 cm )
+3. Karyawan
+
+* Pilih paket franchise Tahu Gila bisa melalui telpon team marketing Tahu Gila
+
+* Pembayaran bisa melalui transfer sesuai harga paket franchise yang dipilih 
+
+* Paket akan dikirim setelah pelunasan & dikirimkan dihari yang sama
+
+* Paket sudah lengkap, ketika sudah sampai di lokasi, mitra bisa langsung berjualan
+
+
+### WORKSHOP
+![workshop](../chicken-popop/workshop.jpg)
+
+Booth yang berbahan baku dasar kayu pallet kualitas unggul, dikerjakan oleh tenaga ahli profesional sehingga menghasilkan booth dengan ketahanan yang lama dan eye catching.
+
+
+### PAKET SAMPLE 
+
+TERSEDIA JUGA PAKET SAMPLE CHICKEN POPOP!
+
+![sample](../chicken-popop/sample.jpg)
 
 
 

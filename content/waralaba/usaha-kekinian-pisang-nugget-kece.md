@@ -23,22 +23,28 @@ Franchise paling menguntungkan No. 1 Di Indonesia
 ### KENAPA HARUS MEMILIH KAMI?
 
 * HARGA TERJANGKAU
+
 Hanya dengan modal minim Anda sudah bisa langsung memiliki usaha Pisang Nugget Kece tanpa proses yang ribet dan memakan waktu yang lama.
 
 * PROSES YANG MUDAH
+
 Kami selalu memberikan kemudahan dan layanan dalam pengelolaan usaha Pisang Nugget Kece.
 
 * FOLLOW UP
+
 Team selalu siap membantu serta melayani Anda dalam menjalankan usaha Pisang Nugget Kece.
 
 * BAHAN BAKU MURAH
+
 Bahan baku pisang dari kami adalah yang paling murah dan berkualitas memiliki racikan ala chef profesional.
 
 * PENGIRIMAN 
+
 Kami menyediakan agen pengiriman demi kelancaran distribusi bahan baku maupun paket franchise.
 
 * TEAM SUPPORT 
-Kami selalu siap dalam 24 jam dalam melayani dan membanu Anda.
+
+Kami selalu siap dalam 24 jam dalam melayani dan membantu Anda.
 
 * LAYANAN DESAIN GRATIS!
 Kami selalu siap membantu membuat gerai Anda lebih menarik dengan desain yang fresh dan up to date secara gratis.
@@ -49,20 +55,25 @@ Pisang Nugget Kece terbukti berkualitas dan berbeda dari yang lain.
 ![penghargaan](../pisang-nugget-kece/penghargaan.jpg)
 
 ### PENGHARGAAN LOKAL & NASIONAL YANG KAMI RAIH
+
 Dalam kurun waktu 2 tahun, Pisang Nugget Kece berhasil menyita hati masyarakat dengan adanya 5 penghargaan yang diperoleh.
 Ini adalah sebagai bukti bahwa Pisang Nugget Kece satu-satunya produk yang sangat menjanjikan.
 
 ### FRANCHISE PALING LENGKAP 
+
 Mendapatkan semua perlengkapan secara lengkap & siap jualan, jadi tidak perlu khawatir semua sudah kami sediakan untuk Anda! FREE 100 bahan baku!
 
 **100% KEUNTUNGAN MILIK ANDA**
+
 Semua keuntungan hasil penjualan 100% milik Anda, tidak ada sistem bagi hasil dengan kami.
 
 **PRODUCT QUALITY**
+
 Konsep baru, rasa baru, dll.
 Bahan baku paling berkualitas serta design packaging yang eyecathcing dan kualitas bahan baku kemasan yang berkualitas.
 
 **GRATIS & DISKON ONGKIR**
+
 Free ongkir khusus pengiriman frranchise wilayah pulau Jawa & diskon ongkir untuk pengiriman franchise wilayah pulau Jawa.
 
 
