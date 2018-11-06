@@ -1,0 +1,424 @@
+---
+title: "Peluang Usaha Menguntungkan Candy Crepes"
+date: 2018-11-06T19:18:55+07:00
+draft: false
+layout: "waralaba"
+description: "Crepes ala Korea dengan kreasi unik dan menarik yang menjadi trend bisnis kuliner"
+tagar:
+- bisnis kuliner
+- martabak candy crepes
+- waralaba kuliner
+---
+
+### CANDY CREPES
+
+![peluang-usaha-candy-crepes](../candy-crepes/peluang-usaha-candy-crepes.jpg)
+
+### KAMI MENGUCAPKAN SELAMAT KEPADA MITRA SUKSES KAMI
+
+![vanesha](../candy-crepes/vanesha.jpg)
+
+**VANESHA YULIANA**, Rapang-Sulwesi Selatan
+
+Mitra muda satu ini bisa dibilang berhasil dalam usaha, karena dalam sehari Vanesha mampu menjual 350 porsi/hari. Omzet dalam sebulan mencapai 20jt. Tekun dan fokus adalah kunci dalam melakukan suatu usaha ujar Vanesha. Walaupun usia masih terbilang muda, ia sudah bisa membeli 1 unit mobil Honda Brio untuk keperluannya, walaupun ia patungan dengan kakaknya.
+
+![joni](../candy-crepes/joni.jpg)
+
+**JONI SETYAWAN**, Muara Labuh-Sumatera Barat
+
+Mitra asal Muara Labuh yaitu Bp. Joni. Dalam sehari beliau mampu menjual 200 porsi crepes, beliau rutin mengikuti event dan penghasilannya pun mencapai 15jt/bulan. Kini Bp. Joni mampu membeli 1 unit motor N- Max dari penghasilannya setahun selama ia berjualan.
+
+### TERBUKTI MENGUNTUNGKAN
+
+![terbukti](../candy-crepes/terbukti.jpg)
+
+### BERBAGAI KEUNGGULAN
+
+**NO ROYALTY FEE**
+
+Semua keuntungan hasil penjualan 100% milik Anda, tidak ada sistem bagi hasil dengan kami
+
+**FRANCHISE PALING LENGKAP**
+
+Mendapatkan perlengkapan secara lengkap & siap jualan, jadi tidak perlu khawatir semua sudah kami sediakan untuk Anda
+
+**KUALITAS PRODUK TERBAIK**
+
+Konsep baru, rasa baru, dll. Bahan baku paling berkualitas serta design packaging yang eyecathing dan kualitas bahan baku kemasan yang berkualitas
+
+**PROMO ONGKIR**
+
+Free ongkir khusus pengiriman franchise wilayah pulau Jawa & diskon ongkir untuk pengiriman franchise wilayah luar pulau Jawa
+
+**INVESTASI TERJANGKAU**
+
+**FRANCHISE SEUMUR HIDUP**
+
+**BAHAN BAKU TERJANGKAU**
+
+**PELAYANAN TERBAIK UNTUK MITRA**
+
+**RACIKAN BAHAN BAKU ALA CHEF BINTANG 5**
+
+**TARGET PASAR MENENGAH KE BAWAH**
+
+**MINIM KOMPETITOR**
+
+**SATU MANAGEMENT DENGAN CHICKEN POPOP & POPCHIC CHICKEN**
+
+### GALERI CANDY CREPES LOVERS
+
+![galeri](../candy-crepes/galeri.jpg)
+
+### CERITA SUKSES MITRA
+
+![widya](../candy-crepes/widya.jpg)
+
+**WIDYA DWI**, Motaha-Sulawesi Tenggara
+
+Ibu Widya sudah 1,5 tahun bergabung dengan kami. Dalam tiap harinnya Ibu Widya mampu menjual 250 pack. Lokasi gerai Ibu Widya sangat strategis, terletak dilalu lalang orang lewat dan sekolah. Kini omzet Ibu Widya sudah mencapai 30jt setiap bulannya.
+
+![robby](../candy-crepes/robby.jpg)
+
+**ROBBY ADRIAN**, Andalas-Sumatera Barat
+
+Dengan penjualan perhari 350 pack, Kini Bapak Robby mampu membuka outlet lagi untuk yang kedua, dan kini omzetnya semakin meningkat berkat usaha giat yang dilakukannya dan kini kedua outletnya sudah berjalan dengan baik
+
+### TESTIMONI REAL MITRA KAMI
+
+![testimoni](../candy-crepes/testimoni.jpg)
+
+### PROMO PAKET FRANCHISE
+
+**PAKET OUTDOOR**
+
+![paket outdoor](../candy-crepes/paket-outdoor.jpg)
+
+SPECIAL HARGA PROMO DARI 16 JT JADI 9,8JT
+
+GRATIS!!! 100 Bahan baku. Mendapatkan perlengkapan secara lengkap
+
+**PAKET INDOOR**
+
+![paket indoor](../candy-crepes/paket-indoor.jpg)
+
+SPECIAL HARGA PROMO DARI 12 JT JADI 8,5JT
+
+GRATIS!!! 100 Bahan baku. Mendapatkan perlengkapan secara lengkap
+
+**PAKET INDOOR(BOOTH PALET)**
+
+![palet](../candy-crepes/palet.jpg)
+
+SPECIAL HARGA PROMO DARI 12 JT JADI 8,5JT
+
+GRATIS!!! 100 Bahan baku. Mendapatkan perlengkapan secara lengkap
+
+**PAKET TANPA BOOTH**
+
+![tanpa booth](../candy-crepes/tanpa-booth.jpg)
+
+SPECIAL HARGA PROMO DARI 8 JT JADI 6,7JT
+
+GRATIS!!! 100 Bahan baku. Mendapatkan perlengkapan secara lengkap
+
+
+### GRATIS LAYANAN DESAIN
+
+Kami memberikan layanan desain gratis guna membantu mitra kami dalam menunjang angka penjualan
+
+### PERLENGKAPAN YANG DIDAPAT
+
+![alat](../candy-crepes/alat.jpg)
+
+1. Kaos seragam : 2 pcs
+2. Wajan  crepes : 1 pcs
+3. Kompor Set : 1 pcs
+4. Toples wadah toping : 13 pcs
+5. CD SOP pembuatan: 1 pcs
+6. Kanebo : 1 pcs
+7. Gelas takar : 1 pcs
+8. Book of secret : 1 pcs
+9. Mixer : 1 pcs
+10. CO Card : 1 pcs
+11. Lap Serbet : 1 pcs 
+12. Nampan stainless : 1 pcs
+13. Solet : 1 pcs
+14. Sendok : 1 pcs
+15. Kuas : 1 pcs
+16. Parutan keju : 1 pcs
+17. Hand Glove : 1 pcs
+18. Toples Selai : 3 pcs
+19. Toples Adonan : 1 pcs
+20. Celemek : 1 pcs
+
+### MATERIAL BOOTH KUALITAS TERBAIK
+
+![material](../candy-crepes/material.jpg)
+
+### MANAGEMENT SUPPORT
+
+![team](../candy-crepes/team.jpg)
+
+Team management yang bersifat profesional, solid, SDM terbaik dan senantiasa melayani mitra dengan sepenuh hati karena Anda adalah prioritas kami
+
+**MARKETING**
+
+Team marketing yang senantiasa melayani dan membantu calon mitra saat ingin bergabung menjadi mitra
+
+**CUSTOMER SERVICE**
+
+Selalu siap memberikan bimbingan tips & trik dalam  meningkatkan penjualan
+
+**DESIGNER** 
+
+Senantiasa membantu mitra meningkatkan penjualan secara maksimal lewat koridor design
+
+**PRODUKSI**
+
+Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready stock setiap harinya
+
+**EKSPEDISI**
+
+Siap mengirim segala jenis pemesanan paket yang dipesan oleh mitra, dan tiba di tempat secara tepat waktu
+
+### GRATIS BUKU PANDUAN MITRA
+
+![buku](../candy-crepes/buku.jpg)
+
+**FREE BOOK OF SECRET**
+ 
+Selain resep adonan rahasia, kami memiliki resep rahasia sukses!
+* Mendapatkan BEP kurang dari 1 bulan
+* Menjual 120 pack dalam 2 jam
+* Meningkatkan keuntungan 50% tiap bulannya
+* Penempatan lokasi paling strategis
+
+**FREE MAJALAH TIPS & TRIK*
+
+GRATIS! Majalah Candy Crepes yang berisi strategi penjualan, mitra terbaik kami, tips dan trik melakukan strategi penjualan, dll.
+* Khusus untuk mitra Candy Crepes
+
+### PERBANDINGAN DENGAN PRODUK LAIN
+
+![suka](../candy-crepes/suka.jpg)
+
+**CANDY CREPES**
+
+![candy crepes](../candy-crepes/candy-crepes.jpg)
+
+* Perusahaan jelas terorganisir
+* Produk diproduksi sendiri
+* Layanan free design
+* Resep rekomendasi dari chef bintang lima
+* Inovasi, konsultasi dan sharing untuk perkembangan mitra Candy Crepes
+
+**PRODUK LAIN**
+
+* Perusahaan belum jelas & tidak benefit
+* Tidak ada kerjasama dengan instansi besar
+* Masih mengambil tender dari pabrik yang masih dijual umum
+* Tidak ada inovasi dan pengembangan untuk mitra
+
+### CARA MEMBUAT SANGAT MUDAH
+
+![cara](../candy-crepes/cara.jpg)
+
+Gak usah bingung soal cara bikin Candy Crepes! Setiap pembelian paket franchise mendapatkan CD yang berisi file video petunjuk cara memasak yang sangat mudah dipahami
+
+SANGAT MUDAH & SIMPEL BUKAN?
+
+### MENU PALING BEST SELLER
+
+![menu1](../candy-crepes/menu1.jpg)
+
+![menu2](../candy-crepes/menu2.jpg)
+
+* CHOCOMEISES (BEST SELLER)
+* CHOCOCHEESE (BEST SELLER)
+* CHOCOCORNFLAKE
+* CHOCOMARSMALLOW (BEST SELLER)
+* STRAWBERRY
+* STRAWBERY CHEESE
+* BLUEBERRY
+* CHOCO BLUEBERRY (BEST SELLER)
+* cHESEMILK
+* DOUBLE CHEESE MILK (BEST SELLER)
+* BLUEBERRY CHEESE
+* CHOCO ALMOND (BEST SELLER)
+* MILO (BEST SELLER)
+* CHOCO NUT
+
+### 100% BAHAN BAKU PILIHAN
+
+![bahan](../candy-crepes/bahan.jpg)
+
+* Racikan chef profesional
+* Adonan tepung candy crepes dibuat dari bahan baku unggulan racikan ala chef bintang 5
+* Selai dan topping yang digunakan juga dari bahan baku pilihan yang berkualitas
+*Rasa dan kualitas produk tidak diragukan lagi
+
+Dengan bahan baku dan topping pilihan, Cita rasa CANDY CREPES lebih terjaga, serta makin disukai banyak orang.
+
+### PERHITUNGAN BALIK MODAL
+
+Tepung Crepes 1 kg = 35.000 (20 crepes)
+Kemasan = 1.000
+Selai Coklat = 40.000
+Selai Strawberry = 40.000
+Selai Blueberry = 40.000
+
+Keju Slice = 10.000 ( 1 pack isi 5)
+Almond = 200.000/kg
+Meises = 80.000/kg
+Honey Star = 30.000/170 gr
+Kacang = 80.000/kg
+
+1 Tepung 35.000 : 20 = 1.750
+35.000+ telur 4 (4.800) + Blueband (500) = 2.015
+2.015 + topping (2000) = 4.015
+
+Dijual dengan harga Rp. 10.000-20.000 (sesuai topping)
+
+70 pack x Rp 15.000 x 30 hari = 31.500.000
+70 pack x Rp 4.015 x 30 hari = 8.434.500
+Gaji karyawan = 700.000
+Sewa Tempat = 500.000
+
+Laba = 21.868.500
+
+BEP hanya 1-2 bulan saja!
+
+### FRANCHISE NO ROYALTY FEE
+
+SEMUA KEUNTUNGAN HASIL PENJUALAN SEPENUHNYA MILIK ANDA, TIDAK ADA SISTEM BAGI HASIL DENGAN PUSAT. MENGUNTUNGKAN BUKAN?
+
+* 100% Keuntungan Milik Anda
+* No Royalty Fee
+* No Franchise Fee
+* No Advertising Fee
+
+![booth](../candy-crepes/booth.jpg)
+
+### PERTANYAAN YANG SERING MUNCUL
+
+M  = Bagaimana menjadi mitra Candy Crepes?
+
+CC = Bisa lihat di persyaratan untuk menjadi mitra Candy Crepes
+
+M  = Apa yang membedakan franchise Candy Crepes dengan yang lain?
+
+CC = Franchise kami bisa dibuka di indoor maupun di outdoor. Dan Candy Crepes berbeda dari franchise yang lainnya bukti yang real, bukan hanya testimonial
+
+M  = Apakah dikenai biaya dalam pengiriman booth? 
+
+CC = Biaya pengiriman ditanggung oleh mitra
+
+M  = Berapa ukuran booth Candy Crepes?
+
+CC = Kurang lebih 60cm x 120cm
+
+M  = Jika mitra sudah merasa cocok apa yang harus dilakukan?
+
+CC = Langsung menghubungi bagian marketing untuk cara gabungnya
+
+M  = Setelah mengisi perjanjian kontrak apa yang harus dilakukan?
+
+CC = Calon mitra bisa melakukan pelunasan dengan mentransfer uang senilai paket franchise yang dipilih ke rekening yang sudah diinformasikan oleh bagian marketing
+
+M  = Bagaimana jika dalam satu kota sudah ada outlet Candy Crepes?
+
+CC = Dalam satu kota tidak masalah ada beberapa outlet, asalkan radius antara outlet minimal 1 km
+
+M  = Untuk karwayan apakah disediakan dari pusat?
+
+CC = Tidak,untuk karyawan disediakan oleh mitra
+
+M  = Bagaimana dengan training karyawan dan cara penyajian Candy Crepes?
+
+CC = Kami mengirim SOP berupa CD yang dikirim bersamaan dengan booth, yang bersifat mudah diterapkan
+
+M  = Apakah boleh jika berpindah lokasi dalam berjualan?
+
+CC = Mitra boleh berpindah lokasi asalkan meminta ijin ke kantor pusat dan memberikan alamat lokasi yang baru sebelum berpindah tempat
+
+M  = Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
+
+CC = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 5.000 s/d Rp 10.000 disesuaikan dengan daya beli disekitar outlet
+
+### CARA GABUNG SANGAT MUDAH
+
+Kami bantu memberikan pelayanan dan kemudahan terbaik bagi Anda
+
+**1. HUBUNGI KAMI & PILIH PAKET FRANCHISE**
+
+Pilih paket franchise yang Anda inginkan. Bisa dilakukan dengan cara telpon melalui marketing kami
+
+**2. PEMBAYARAN**
+ 
+Transfer lunas sesuai harga paket dan ongkir. Apabila lunas hari ini, paket akan segera kami kirimkan pada hari yang sama
+
+**3.PENGIRIMAN PAKET**
+
+Paket akan kami kirimkan segera secara cepat agar bisa tiba ditempat dengan waktu yang tepat
+
+**4. PAKET TIBA DITUJUAN SIAP JUALAN**
+
+Paket tiba di lokasi tepat waktu & mitra bisa langsung berjualan
+
+SANGAT MUDAHKAN?
+
+Hubungi kami & gabung jadi mitra segera, kesempatan sukses tidak hanya datang sekali.Jadilah salah satu mitra sukses kami & raih omzet puluhan juta tiap bulannya.
+
+### SYARAT & KETENTUAN
+
+1. Memiliki modal yang cukup untuk investasi sesuai harga paket franchise
+2. Memiliki komitmen terhadap bisnis ini untuk maju dan berkembang bersama
+3. Bersedia meluangkan waktu untuk terjun langsung mengawasi perkembangan outlet
+4. Memahami resiko bisnis
+5. Bersedia menaati peraturan yang ada dalam surat kerja sama
+6. Wajib membeli bahan baku dari pusat
+
+### FASILITAS YANG DIPERLUKAN
+
+1. Lokasi berada di tempat strategis : didepan pusat keramaian /didepan sekolah - sekolah menengah keatas, kampus atau mini market
+
+2. Luas ukuran tempat sewa minimal sesuai dengan ukuran counter ( 120 cm x 60 cm )
+
+3. Karyawan
+
+### WORKSHOP CANDY CREPES
+Kami mempunyai space workshop sendiri demi menunjang kebutuhan mitra kami
+
+![workshop](../candy-crepes/workshop.jpg)
+
+### COBAIN PAKET SAMPLENYA
+
+![sample](../candy-crepes/sample.jpg)
+
+APABILA ANDA MASIH RAGU DENGAN RASA DARI CANDY CREPES
+
+ANDA BISA MENCOBA PAKET SAMPEL YANG KAMI SEDIAKAN SECARA KHUSUS DENGAN HARGA TERJANGKAU
+
+Rp 80.000,- ( * khusus pulau Jawa )
+
+Rp 90.000,- ( *luar pulau Jawa )
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
