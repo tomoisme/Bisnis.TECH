@@ -30,7 +30,7 @@ Ayo Segera Order!
 
 ### GRATIS LAYANAN DESIGN
 Kami menyediakan layanan free design untuk semua mitra Chicken Popop agar bisa membantu meningkatkan penjualan lewat koridor design.
-Atribut design bisa berupa design banner, spanduk, brosur, menu dll.
+Request design bisa berupa design banner, spanduk, brosur, menu dll.
 
 ### PELUANG USAHA OMZET PULUHAN JUTA RUPIAH
 
@@ -278,7 +278,7 @@ Membantu meningkatkan penjualan lewat koridor design
 
 * PRODUKSI
 
-Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready sock setiap harinya
+Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready stock setiap harinya
 
 * PENGIRIMAN
 
@@ -302,7 +302,9 @@ CARA GABUNG SANGAT MUDAH!
 ### FASILITAS YANG DIBUTUHKAN :
 
 1. Lokasi berada di tempat strategis : didepan pusat keramaian /didepan sekolah - sekolah menengah keatas, kampus atau mini market
-2. Luas ukuran tempa sewa minimal sesuai dengan ukuran counter ( 120 cm x 60 cm )
+
+2. Luas ukuran tempat sewa minimal sesuai dengan ukuran counter ( 120 cm x 60 cm )
+
 3. Karyawan
 
 * Pilih paket franchise Tahu Gila bisa melalui telpon team marketing Tahu Gila
@@ -317,7 +319,7 @@ CARA GABUNG SANGAT MUDAH!
 ### WORKSHOP
 ![workshop](../chicken-popop/workshop.jpg)
 
-Booth yang berbahan baku dasar kayu pallet kualitas unggul, dikerjakan oleh tenaga ahli profesional sehingga menghasilkan booth dengan ketahanan yang lama dan eye catching.
+Booth yang berbahan baku dasar kayu pallet kualitas unggul, dikerjakan oleh tenaga ahli profesional sehingga menghasilkan booth dengan ketahanan yang lama dan eyecatching.
 
 
 ### PAKET SAMPLE 

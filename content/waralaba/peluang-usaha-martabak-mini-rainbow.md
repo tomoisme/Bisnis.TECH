@@ -17,9 +17,9 @@ tagar:
 **GABUNG & RAIH OMZET 30 JT TIAP BULANNYA**
 **"JADILAH SALAH SATU MITRA SUKSES KAMI"**
 
-Martabak mini rainbow selalu menghadirkan inovasi baru untuk menunjang perkembangan usaha mitra kami.
+Martabak Mini Rainbow selalu menghadirkan inovasi baru untuk menunjang perkembangan usaha mitra kami.
 
-Kini Martabak Mini Rainbow hadir dengan kemasan baru! Dengan tampilan baru Martabak Mini Raibow lebih menarik dan eyecathcing.
+Kini Martabak Mini Rainbow hadir dengan kemasan baru! Dengan tampilan baru Martabak Mini Rainbow lebih menarik dan eyecathcing.
 
 ### TERBUKTI!!! PALING MENGUNTUNGKAN
 
@@ -40,7 +40,7 @@ Mitra kami sudah tersebar di seluruh penjuru Indonesia & sukses bersama kami, ki
 
 Ujung Tanjung
 
-Beberapa waktu yang lalu mitra kami bernama Ibu Siti Marlina  asal Ujung Tanjung sudah membeli satu unit mobil baru dari hasil berjualan Martabak Mini Raibow. Dengan daya dukung dari lokasi strategis dan daya beli yang menunjang darilingkungan sekitar serta tingginya antusias masyarakat akan Martabak Mini Raibow membuat angka penjualan  tetap stabil dan tinggi. Tentu saja keberhasilan dari usaha Ibu Siti Marlina ini tak luput dari usaha dan kerja keras beliau dalam berjualan serta secara terus menerus mempromosikan usaha Martabak Mini Rainbow dengan sosial media, kepada teman-temannya maupun kepada kerabat-kerabatnya. Kini Impian yang selama ingin diraihnya pun tercapai juga. SELAMAT untuk Ibu Siti Marlina!
+Beberapa waktu yang lalu mitra kami bernama Ibu Siti Marlina  asal Ujung Tanjung sudah membeli satu unit mobil baru dari hasil berjualan Martabak Mini Rainbow. Dengan daya dukung dari lokasi strategis dan daya beli yang menunjang dari lingkungan sekitar serta tingginya antusias masyarakat akan Martabak Mini Rainbow membuat angka penjualan  tetap stabil dan tinggi. Tentu saja keberhasilan dari usaha Ibu Siti Marlina ini tak luput dari usaha dan kerja keras beliau dalam berjualan serta secara terus menerus mempromosikan usaha Martabak Mini Rainbow dengan sosial media, kepada teman-temannya maupun kepada kerabat-kerabatnya. Kini Impian yang selama ingin diraihnya pun tercapai juga. SELAMAT untuk Ibu Siti Marlina!
 
 ![leo](../martabak-mini-rainbow/leo.jpg)
 
@@ -48,7 +48,7 @@ Beberapa waktu yang lalu mitra kami bernama Ibu Siti Marlina  asal Ujung Tanjung
 
 Stabat
 
-Bapak Leo mitra raibow asal Stabat yang hampir 1 tahun bergabung menjadi mitra Martabak Mini Rainbow telah cukup sukses dengan hasil kerja kerasnya ia telah membeli satu buah unit sepeda motor yang digunakan untuk memperlancar kegiatan operasional gerainya. Dengan hasil perkembangan outlet yang baik dari bulan ke bulan Bapak Leo kini ingin lebih mengembangkan bisnisnya dengan membuka gerai baru di sebuah pusat pebelanjaan.
+Bapak Leo mitra rainbow asal Stabat yang hampir 1 tahun bergabung menjadi mitra Martabak Mini Rainbow telah cukup sukses dengan hasil kerja kerasnya ia telah membeli satu buah unit sepeda motor yang digunakan untuk memperlancar kegiatan operasional gerainya. Dengan hasil perkembangan outlet yang baik dari bulan ke bulan Bapak Leo kini ingin lebih mengembangkan bisnisnya dengan membuka gerai baru di sebuah pusat perbelanjaan.
 
 ![hidayat](../martabak-mini-rainbow/hidayat.jpg)
 
@@ -115,7 +115,7 @@ Kami menyediakan agen pengiriman demi kelancaran distribusi bahan baku maupun pa
 
 * TEAM SUPPORT 
 
-Kami selalu siap dalam 24 jam dalam melayani dan membanu Anda.
+Kami selalu siap dalam 24 jam dalam melayani dan membantu Anda.
 
 * LAYANAN DESAIN GRATIS!
 
@@ -162,7 +162,7 @@ Harga dari 8,5jt diskon menjadi 5,7jt saja
 
 ### GRATIS LAYANAN DESAIN 
 
-GRATISS layanan design untuk semua mitra Matabak Mini rainbow. Request Design bisa berupa flayer, brosur, menu, banner, x banner, dll.
+GRATISS layanan design untuk semua mitra Matabak Mini Rainbow. Request Design bisa berupa flayer, brosur, menu, banner, x banner, dll.
 
 ### COMING SOON!
 ![coming](../martabak-mini-rainbow/coming.jpg)
@@ -206,21 +206,28 @@ GRATISS layanan design untuk semua mitra Matabak Mini rainbow. Request Design bi
 
 ![managemen](../martabak-mini-rainbow/managemen.jpg)
 
-Team yang siap memfollow up secara intents untuk mencapai penjualan maksimal KARENA ANDA ADALAH PRIORITAS KAMI
+Team yang siap memfollow up secara intents untuk mencapai penjualan maksimal 
+
+KARENA ANDA ADALAH PRIORITAS KAMI
 
 * MARKETING
+
 Team marketing yang senantiasa melayani dan membantu calon mitra saat ingin bergabung menjadi mitra
 
 * CUSTOMER SERVICE
+
 Selalu siap memberikan bimbingan tips & trik dalam  meningkatkan penjualan
 
 * DESIGNER 
+
 Senantiasa membantu mitra meningkatkan penjualan secara maksimal lewat koridor design
 
 * PRODUKSI
-Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready sock setiap harinya
+
+Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready stock setiap harinya
 
 * EKSPEDISI
+
 Siap mengirim segala jenis pemesanan paket yang dipesan oleh mitra, dan tiba di tempat secara tepat waktu
 
 ### GRATIS BUKU PANDUAN MITRA
@@ -228,14 +235,16 @@ Siap mengirim segala jenis pemesanan paket yang dipesan oleh mitra, dan tiba di 
 **FREE BOOK OF SECRET**
  
 Selain resep bumbu rahasia, kami memiliki resep rahasia sukses!
+
 * Mendapatkan BEP kurang dari 1 bulan
 * Menjual 120 pack dalam 2 jam
 * Meningkatkan keuntungan 50% tiap bulannya
-* Penempatan lokasi paling stategis
+* Penempatan lokasi paling strategis
 
 **FREE MAJALAH TIPS & TRIK*
 
 GRATIS! Majalah Martabak Mini Rainbow yang berisi strategi penjualan, mitra terbaik kami, tips dan trik melakukan strategi penjualan, dll.
+
 * Khusus untuk mitra Martabak Mini Rainbow
 
 ### PERBANDINGAN DENGAN PRODUK LAIN
@@ -273,7 +282,7 @@ Rasa crunchy yang lezat pecah dan lumer di dalam mulut!
 
 * CHOCOCHEESE
 
-Gurih gurih asoy dari keju parutnya membuat lidah bergoyang serta harimu penuh dengan kebahagiaan :D
+Gurih-gurih asoy dari keju parutnya membuat lidah bergoyang serta harimu penuh dengan kebahagiaan :D
 
 * CHOCOCORN
 
@@ -302,11 +311,12 @@ Coklat chips warna warni terasa sangat lezat dengan paduan martabak mini yang gu
 
 * CHOCONUTS
 
-Gurihnya paduan martabak mini dengan kacang terasa lumer saat dimakan semakin tinggi terbang melayang layang
+Gurihnya paduan martabak mini dengan kacang terasa lumer saat dimakan semakin tinggi terbang melayang-layang
 
 ### CARA BUAT SANGAT MUDAH
 
-Tidak perlu bingung dengan cara membuat Martabak Mini Rainbow karena kami mempunyai CD yang berisi file video cara pembuatan yang dangat mudah sekali untuk dipelajari & dipahami.
+Tidak perlu bingung dengan cara membuat Martabak Mini Rainbow karena kami mempunyai CD yang berisi file video cara pembuatan yang sangat mudah sekali untuk dipelajari & dipahami.
+
 SANGAT MUDAH & SIMPEL BUKAN?
 
 ### RETURN OF INVESTMENT
@@ -409,7 +419,7 @@ MR = Bisa lihat di persyaratan untuk menjadi mitra Martabak Mini Rainbow
 
 M  = Apa yang membedakan franchise Martabak Mini Rainbow dengan yang lain?
 
-MR = franchise kami bisa dibuka di indoor maupun di outdoor. Dan Martabak Mini Rainbow berbeda dari franchise yang lainnya bukti yang real, bukan hanya testimonial
+MR =Franchise kami bisa dibuka di indoor maupun di outdoor. Dan Martabak Mini Rainbow berbeda dari franchise yang lainnya bukti yang real, bukan hanya testimonial
 
 M  = Apakah dikenai biaya dalam pengiriman booth? 
 
@@ -462,11 +472,11 @@ Transfer lunas sesuai harga paket dan ongkir. Apabila lunas hari ini, paket akan
 
 **3.PENGIRIMAN PAKET**
 
-Paket akan kami kirimkan segera secara cepat agar bisa tiba ditempat dengan waktu tang tepat
+Paket akan kami kirimkan segera secara cepat agar bisa tiba ditempat dengan waktu yang tepat
 
 **4. PAKET TIBA DITUJUAN SIAP JUALAN**
 
-Paket tiba di lokasi tepat waktu & mitra bisa lagsung berjualan
+Paket tiba di lokasi tepat waktu & mitra bisa langsung berjualan
 
 SANGAT MUDAHKAN?
 
@@ -484,13 +494,21 @@ Hubungi kami & gabung jadi mitra segera, kesempatan sukses tidak hanya datang se
 ### FASILITAS YANG DIPERLUKAN
 
 1. Lokasi berada di tempat strategis : didepan pusat keramaian /didepan sekolah - sekolah menengah keatas, kampus atau mini market
-2. Luas ukuran tempa sewa minimal sesuai dengan ukuran counter ( 120 cm x 60 cm )
+
+2. Luas ukuran tempat sewa minimal sesuai dengan ukuran counter ( 120 cm x 60 cm )
+
 3. Karyawan
+
+![workshop](../martabak-mini-rainbow/workshop.jpg)
+
+![workshop martabak](../martabak-mini-rainbow/workshop-martabak.jpg)
 
 ### WORKSHOP MARTABAK MINI RAINBOW
 Kami mempunyai space workshop sendiri demi menunjang kebutuhan mitra kami
 
 ### COBAIN PAKET SAMPLENYA
+
+![sample](../martabak-mini-rainbow/sample.jpg)
 
 APABILA ANDA MASIH RAGU DENGAN RASA DARI MARTABAK MINI RAINBOW
 
