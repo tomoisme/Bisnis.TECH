@@ -15,7 +15,7 @@ tagar:
 Siapa sih di negri Ibu pertiwi Indonesia ini yang tidak suka makan tahu. Tahu sudah menjadi makanan yang sangat merakyat dan dicintai oleh berbagai kalangan masyarakat, mulai dari kalangan bawah hingga kalangan atas.
 Sudah coba belum racikan Tahu yang kekinian, tahu yang satu ini bukan sembarang tahu, tapi GILA enaknya juga GILA banget bisnisnya!
 
-GABUNG JADI MITRA DAN RAIH OMZET HINGGA 45 JT SEIAP BULAN!
+GABUNG JADI MITRA DAN RAIH OMZET HINGGA 45 JT SETIAP BULAN!
 
 Dengan menghadirkan berbagai Inovasi baru dari desain dan rasa demi membantu menunjang penjualan Anda agar lebih maksimal
 
@@ -40,7 +40,7 @@ Pioner Tahu Gila asal Bali, jadilah seperti beliau menjadi pioner yang sukses di
 
 Palu
 
-Stevany, mitra Tahu Gila baru saja membeli tanah seharga 56jt ukuran 20x26m, tentu saja Ibu Stevany dapat membeli tanah karena hasil penjualan sangat spektakuler yaitu 200-300 porsi dalam sehari.Hasil penjualan yang maksimal tentu tak lupt dari usaha dan ketekunan dalam suatu usaha. Dan kini ibu Stevany berhasil membangun 1 buah rumah idamannya.
+Stevany, mitra Tahu Gila baru yang saja membeli sebidang tanah seharga 56jt dengan ukuran 20x26m, tentu saja Ibu Stevany dapat membeli tanah karena hasil penjualan beliau sangat spektakuler yaitu berkisar antara 200-300 porsi dalam sehari. Hasil penjualan yang maksimal tentu tak luput dari usaha dan ketekunan beliau dalam melakukan segala suatu usahanya. Dan kini ibu Stevany telah berhasil membangun 1 buah rumah idamannya.
 
 ![regi](../tahu-gila/regi.jpg)
 
@@ -48,7 +48,7 @@ Stevany, mitra Tahu Gila baru saja membeli tanah seharga 56jt ukuran 20x26m, ten
 
 Garut Selatan
 
-Regi Fauzan mitra asal Garut Selatan ini dalam seharinya mampu menjual Tahu Gila sebanyak 150-250 porsi seharinya. Dalam tiap harinya gerai Regi sangat ramai dipadati oleh pembeli, mulai dari siswa sekalah hingga pegawai negeri. Untuk saat ini omzet dari penjualan tersebut dipakai untuk pengembangan usaha beliau dan kini Bapak Regi dapat membeli 1 buah unit mobil baru.
+Regi Fauzan mitra asal Garut Selatan ini dalam seharinya mampu menjual Tahu Gila sebanyak 150-250 porsi seharinya. Dalam tiap harinya gerai Regi sangat ramai dipadati oleh pembeli, mulai dari siswa sekolah hingga pegawai negeri. Untuk saat ini omzet dari penjualan tersebut dipakai untuk pengembangan usaha beliau dan kini Bapak Regi dapat membeli 1 buah unit mobil baru.
 
 ![elvin](../tahu-gila/elvin.jpg)
 
@@ -56,7 +56,7 @@ Regi Fauzan mitra asal Garut Selatan ini dalam seharinya mampu menjual Tahu Gila
 
 Jakarta Barat
 
-Mitra kami yang satu ini berasal dari Jakarta Barat yakni Elvin Agustine sudah sukses di usia mudanya, beliau memiliki lebih dari satu gerai, dalam sehari beliau mempu menjual lebih dari 150 porsi Tahu Gila. Kini semangat beliau untuk berjualan masih sangat membara. Salut untuk Elvin!
+Mitra kami yang satu ini berasal dari Jakarta Barat yakni Elvin Agustine sudah sukses di usia mudanya, beliau memiliki lebih dari satu gerai, dalam sehari beliau mampu menjual lebih dari 150 porsi Tahu Gila. Kini semangat beliau untuk berjualan masih sangat membara. Salut untuk Elvin!
 
 ![syahrial](../tahu-gila/syahrial.jpg)
 
@@ -80,7 +80,7 @@ Mitra kami asal Pekanbaru ini yakni Darussman, beliau membuka outletnya di pusat
 
 Sangata
 
-Melalui proses jatuh bangun yang sulit mitra kami asal Sangata yakni Imam Maksum, berkat kerja kerasnya dan konsistensi beliau menjalankan usahanya, kini outlet beliau sudah berkembang dalam satu harinya beliau mampu menjual lebih dari 120 porsi per harinya. Dengan hasil penjualan yang stabil kini beliau berencana untuk menambahkan outlet baru.
+Melalui proses jatuh bangun yang sulit mitra kami asal Sangata yakni Imam Maksum kini telah mencapai keberhasilan, berkat kerja kerasnya dan konsistensi beliau menjalankan usahanya, kini outlet beliau sudah berkembang dan dalam satu harinya beliau mampu menjual lebih dari 120 porsi per harinya. Dengan hasil penjualan yang stabil kini beliau berencana untuk menambahkan outlet baru.
 
 ![testimoni](../tahu-gila/testimoni.jpg)
 
@@ -112,7 +112,7 @@ Racikan varian rasa bumbu buatan chef bintang lima, bumbu yang berkualitas sanga
 
 ### PENGHARGAAN
 
-Dalam kurun waktu kurang dari 3 tahun, Tahu Gila berhasil menyita hati masyarakat Indonesia dengan membuktikan adanya 4 penghargaan yang diraih. Ini adalah suatu bukti bahwa Tahu Gila satu-saunya produk yang sangat menjanjikan.
+Dalam kurun waktu kurang dari 3 tahun, Tahu Gila berhasil menyita hati masyarakat Indonesia dengan membuktikan adanya 4 penghargaan yang diraih. Ini adalah suatu bukti bahwa Tahu Gila satu-satunya produk yang sangat menjanjikan.
 
 TERBUKTI TAHU GILA KUALITAS UNGGULAN!
 
@@ -128,7 +128,7 @@ INDONESIA BEST FRANCHISE!
 
 ### CARA PEMBUATAN MUDAH
 
-Tidak usah bingung dengan cara membuat Tahu Gila karena kami mempunyai CD yang berisi file video cara pembuatan yang dangat mudah sekali untuk dipelajari & dipahami.
+Tidak usah bingung dengan cara membuat Tahu Gila karena kami mempunyai CD yang berisi file video cara pembuatan yang sangat mudah sekali untuk dipelajari & dipahami.
 SANGAT MUDAH & SIMPEL BUKAN?
 
 
@@ -162,6 +162,7 @@ SANGAT MUDAH & SIMPEL BUKAN?
 
 Dari 15jt Diskon Hanya 9,3jt saja
 Gratis! 100 bahan baku
+
 "Semua mendapatkan perlengkapan secara lengkap, outlet siap buka"
 
 ![paket premium](../tahu-gila/paket-premium.jpg)
@@ -170,7 +171,9 @@ Gratis! 100 bahan baku
 
 Dari 13jt Diskon Hanya 8,5jt saja
 Gratis! 100 bahan baku
+
 "ALAT MASAK DEEP FRYER GAS"
+
 "Semua mendapatkan perlengkapan secara lengkap, outlet siap buka"
 
 ![paket indoor](../tahu-gila/paket-indoor.jpg)
@@ -179,6 +182,7 @@ Gratis! 100 bahan baku
 
 Dari 12jt Diskon Hanya 7,8jt saja
 Gratis! 100 bahan baku
+
 "Semua mendapatkan perlengkapan secara lengkap, outlet siap buka"
 
 ![paket tanpa booth](../tahu-gila/paket-tanpa-booth.jpg)
@@ -187,13 +191,16 @@ Gratis! 100 bahan baku
 
 Dari 8jt Diskon Hanya 5,7jt saja
 Gratis! 100 bahan baku
+
 "Semua mendapatkan perlengkapan secara lengkap, outlet siap buka"
 
 FREE ONGKIR
+
 Khusus pengiriman wilayah pulau Jawa
 
 LAYANAN FREE DESIGN
 Desain Gratis
+
 Free design bagi semua mitra untuk meningkatkan penjualan
 ( menu meja, brosur, leaflet, banner, x banner, spanduk dll)
 
@@ -216,7 +223,7 @@ Selain resep bumbu rahasia, kami memiliki resep rahasia sukses!
 * Mendapatkan BEP kurang dari 1 bulan
 * Menjual 120 pack dalam 2 jam
 * Meningkatkan keuntungan 50% tiap bulannya
-* Penempatan lokasi paling stategis
+* Penempatan lokasi paling strategis
 
 **FREE MAJALAH TIPS & TRIK**
 
@@ -224,6 +231,7 @@ Selain resep bumbu rahasia, kami memiliki resep rahasia sukses!
 
 GRATIS!
 Majalah Tahu Gila yang berisi strategi penjualan, mitra terbaik kami, tips dan trik melakukan strategi penjualan, dll.
+
 * Khusus untuk mitra Tahu Gila
 
 
@@ -262,7 +270,7 @@ Membantu meningkatkan penjualan lewat koridor design
 
 * PRODUKSI
 
-Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready sock setiap harinya
+Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready stock setiap harinya
 
 * PENGIRIMAN
 
@@ -278,7 +286,7 @@ TG = Bisa lihat di persyaratan untuk menjadi mitra Tahu Gila
 
 M  = Apa yang membedakan franchise Tahu Gila dengan yang lain?
 
-TG = franchise kami bisa dibuka di indoor maupun di outdoor. Dan Tahu Gila berbeda dari franchise yang lainnya bukti yang real, bukan hanya testimonial
+TG = Franchise kami bisa dibuka di indoor maupun di outdoor. Dan Tahu Gila berbeda dari franchise yang lainnya bukti yang real, bukan hanya testimonial
 
 M  = Apakah dikenai biaya dalam pengiriman booth? 
 
@@ -323,7 +331,7 @@ TG = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual
 * Total HPP : Rp 2.900,-
 
 * Harga Tepung, Bumbu, Kemasan Rp 1.900,- ( paket 3 item )
-* Harga bahan baku Paket 2 item Rp 13500,-
+* Harga Bahan Baku Paket 2 item Rp 13.500,-
 * Harga Saus BBQ Rp 90.000,-/L
 * Harga Saus Keju Rp 35.000,-/500ml
 * Harga Saus Blackpepper Rp 90.000,-/L
@@ -360,8 +368,11 @@ CARA GABUNG SANGAT MUDAH!
 6. Wajib membeli bahan baku dari pusat
 
 ### FASILITAS YANG DIBUTUHKAN :
+
 1. Lokasi berada di tempat strategis : didepan pusat keramaian /didepan sekolah - sekolah menengah keatas, kampus atau mini market
-2. Luas ukuran tempa sewa minimal sesuai dengan ukuran counter ( 120 cm x 60 cm )
+
+2. Luas ukuran tempat sewa minimal sesuai dengan ukuran counter ( 120 cm x 60 cm )
+
 3. Karyawan
 
 * Pilih paket franchise Tahu Gila bisa melalui telpon team marketing Tahu Gila
@@ -375,7 +386,7 @@ CARA GABUNG SANGAT MUDAH!
 
 ### WORKSHOP
 
-Booth yang berbahan baku dasar kayu pallet kualitas unggul, dikerjakan oleh tenaga ahli profesional sehingga menghasilkan booth dengan ketahanan yang lama dan eye catching.
+Booth yang berbahan baku dasar kayu pallet kualitas unggul, dikerjakan oleh tenaga ahli profesional sehingga menghasilkan booth dengan ketahanan yang lama dan eyecatching.
 
 ![workshop](../tahu-gila/workshop.jpg)
 

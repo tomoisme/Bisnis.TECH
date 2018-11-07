@@ -16,7 +16,7 @@ tagar:
 
 ### PISANG NUGGET KECE
 
-Siapa sih yang tidak kenal dengan makanan yang satu ini, di Indonesia pisang goreng sudah dikenal sejak zaman dahulu kala, namun di era yang kekinian kami menghadirkan cemilan pisang goreng yang berbeda dengan cita rasa yang khas dari negri gajah putih. Ayo jangan sampai tidak mencoba! yang penasaran dengan rasanya bisa mencoba paket sample yang siap dikirim ke berbagai daerah di tanah air.
+Siapa sih yang tidak kenal dengan makanan yang satu ini, di Indonesia pisang goreng sudah dikenal sejak zaman dahulu kala, namun di era yang kekinian kami menghadirkan cemilan pisang goreng yang berbeda dengan cita rasa yang khas dari negeri gajah putih. Ayo jangan sampai tidak mencoba! Yang penasaran dengan rasanya bisa mencoba paket sample yang siap dikirim ke berbagai daerah di tanah air.
 
 Franchise paling menguntungkan No. 1 Di Indonesia
 
@@ -44,7 +44,7 @@ Kami menyediakan agen pengiriman demi kelancaran distribusi bahan baku maupun pa
 
 * TEAM SUPPORT 
 
-Kami selalu siap dalam 24 jam dalam melayani dan membantu Anda.
+Kami selalu siap secara 24 jam dalam melayani dan membantu Anda.
 
 * LAYANAN DESAIN GRATIS!
 Kami selalu siap membantu membuat gerai Anda lebih menarik dengan desain yang fresh dan up to date secara gratis.
@@ -74,7 +74,7 @@ Bahan baku paling berkualitas serta design packaging yang eyecathcing dan kualit
 
 **GRATIS & DISKON ONGKIR**
 
-Free ongkir khusus pengiriman frranchise wilayah pulau Jawa & diskon ongkir untuk pengiriman franchise wilayah pulau Jawa.
+Free ongkir khusus pengiriman franchise wilayah pulau Jawa & diskon ongkir untuk pengiriman franchise wilayah pulau Jawa.
 
 
 ![peralatan](../pisang-nugget-kece/peralatan.jpg)
@@ -95,10 +95,10 @@ Free ongkir khusus pengiriman frranchise wilayah pulau Jawa & diskon ongkir untu
 12. Solet : 1 pcs
 13. Sendok : 1 pcs
 14. Kuas : 1 pcs 
-15. Parutan Keju : 1 pcs
-16. Hand Glove : 1 pcs
+15. Parutan keju : 1 pcs
+16. Hand glove : 1 pcs
 17. Toples selai : 1 pcs
-18. Toples Adonan : 1 pcs
+18. Toples adonan : 1 pcs
 
 Semua mendapatkan perlengkapan secara lengkap dan tidak lupa dengan GRATIS bahan baku 100 porsi!
 
@@ -126,7 +126,7 @@ Tenggarong
 
 Bisa beli 1 unit mobil Innova.
 
-Mitra kami asal Tenggarong, Kalimantan Timur ini sudah bergabung kurang lebih 2 tahun dengan kami dan hasilnya tidak diragukan lagi. Dalam sehari beliau mampu menjual Pisang Nugget Kece sebanyak 350 porsi.Belum lama ini beliau berhasil membeli 1 unit mobil baru, tentunya ini tak luput dari semua usahanya selama ini. Selamat Ibu Ratna!
+Mitra kami asal Tenggarong, Kalimantan Timur ini sudah bergabung kurang lebih 2 tahun dengan kami dan hasilnya tidak diragukan lagi. Dalam sehari beliau mampu menjual Pisang Nugget Kece sebanyak 350 porsi. Belum lama ini beliau berhasil membeli 1 unit mobil baru, tentunya ini tak luput dari semua usahanya selama ini. Selamat Ibu Ratna!
 
 
 ![mitra sukses stephani kendro](../pisang-nugget-kece/mitra-sukses-stephani.jpg)
@@ -136,8 +136,7 @@ Jakarta
 
 Penjualan 100-150/hari
 
-Salah satu mitra kami asal Jakarta, yakni Ibu Stephani Kendro. Beliau dalam satu harinya mampu menjual 100-150 porsi. Tentu ini tak luput dari usaha dan kerja keras beliau. 
-Kerja keras beliau mulai dari memikikan strategi penjualan hingga terjun langsung ke penjualannya untuk membantu para pegawainya saat menjalankan kegiatan operasional penjualan sehari -hari. Sungguh sebuah upaya yang patut dijadikan contoh untuk para pemula franchise yang ingin ikut menjadi sukses. Kini beliau semakin sukses dengan omzet penjualan yang terus meningkat dan akan digunakan sebagai pengembangan outlet Pisang Nugget Kece yang lebih besar lagi.
+Salah satu mitra kami asal Jakarta, yakni Ibu Stephani Kendro. Beliau dalam satu harinya mampu menjual 100-150 porsi. Tentu ini tak luput dari usaha dan kerja keras beliau. Kerja keras beliau mulai dari memikirkan strategi penjualan hingga terjun langsung ke penjualannya untuk membantu para pegawainya saat menjalankan kegiatan operasional penjualan sehari -hari. Sungguh sebuah upaya yang patut dijadikan contoh untuk para pemula franchise yang ingin ikut menjadi sukses. Kini beliau semakin sukses dengan omzet penjualan yang terus meningkat dan akan digunakan sebagai pengembangan outlet Pisang Nugget Kece yang lebih besar lagi.
 
 
 **Rafli Andaru**
@@ -156,7 +155,7 @@ Serdang Bedagai
 
 Penjualan 100-120/hari
 
-Salah satu mitra kami sala Serdang Bedagai ini Bapak Syahrial memiliki lokasi outlet yang cukup strategis dekat dengan sekolah sehingga beliau mampu menjual 100-120 porsi setiap harinya. Bukan hanya karena lokasi outlet yang strategis tetapi beliau juga giat dalam mempromosikan outletnya dan memberi promo untuk para siswa. Strategi yang cerdas untuk meningkatkan penjualan.
+Salah satu mitra kami asal Serdang Bedagai ini Bapak Syahrial memiliki lokasi outlet yang cukup strategis dekat dengan sekolah sehingga beliau mampu menjual 100-120 porsi setiap harinya. Bukan hanya karena lokasi outlet yang strategis tetapi beliau juga giat dalam mempromosikan outletnya dan memberi promo untuk para siswa. Strategi yang cerdas untuk meningkatkan penjualan.
 
 
 ![mitra sukses rani](../pisang-nugget-kece/mitra-sukses-rani.jpg)
@@ -173,7 +172,7 @@ Terbukti Pisang Nugget Kece memang produk unggulan yang dapat diterima dengan ba
 ![outlet pisang nugget kepo](../pisang-nugget-kece/outlet-pisang-nugget-kece.jpg)
 
 ### BUKTI TESTIMONI MITRA KAMI 
-dari bukti berikut kita tahu bahwa Pisang Nugget Kece paling menguntungkan
+Dari bukti berikut kita tahu bahwa Pisang Nugget Kece adalah usaha franchise yang paling menguntungkan
 ![bukti testimoni](../pisang-nugget-kece/bukti-testimoni.jpg)
 
 ### BUKTI PENGIRIMAN!
@@ -186,11 +185,14 @@ Pengiriman dikirim dengan ekspedisi terpercaya
 Paket promo paling murah dan lengkap, semua termasuk perlengkapan masak dan gratis bahan baku
 
 ### PAKET BOOTH PREMIUM GRATIS 100 BAHAN BAKU 
+
 Dari 13 jt Diskon jadi Rp 8,7 jt saja
 
 ![paket booth premium](../pisang-nugget-kece/paket-booth-premium.jpg)
 
 ### PAKET BOOTH INDOOR GRATIS 100 BAHAN BAKU
+
+
 Dari 12 Jt Diskon Jadi 7,6 jt saja
 
 ![paket booth indoor](../pisang-nugget-kece/paket-booth-indoor.jpg)
@@ -201,9 +203,11 @@ Dari 8 jt Diskon jadi 5,8jt saja
 ![paket tanpa booth](../pisang-nugget-kece/paket-tanpa-booth.jpg)
 
 ### KUALITAS BOOTH TERBAIK
+
 Semua bahan material booth adalah bahan kualitas unggulan guna menunjang penjualan Anda
 
 **BAHAN KAYU PILIHAN**
+
 Terbuat dari bahan kayu berkualitas sehingga membuat booth kuat, kokoh dan awet.
 
 ![bahan kayu pilihan](../pisang-nugget-kece/bahan-kayu-pilihan.jpg)
@@ -216,11 +220,11 @@ Dengan bahan stainless pada tiang penyangga, booth semakin kuat dan tidak goyah
 
 **DESAIN MENARIK**
 
-Desain booh yang menarik dan eyecathing, memiliki daya tarik tersendiri dan bisa menunjang penjualan Anda
+Desain booth yang menarik dan eyecathing, memiliki daya tarik tersendiri dan bisa menunjang penjualan Anda
 
 **TEAM SUPPORT**
 
-Team management yang siap melayani sepenuh hati demi membantu menunjang penjualan Anda
+Team management yang siap melayani dengan sepenuh hati demi membantu menunjang penjualan Anda
 
 
 **MARKETING**
@@ -238,7 +242,8 @@ Siap mengirim ke seluruh wilayah Indonesia segala jenis pesanan mitra secara tep
 "TEAM YANG SIAP MEMFOLLOW UP SECARA INTENTS GUNA MENCAPAI PENJUALAN SECARA MAKSIMAL"
 
 ### GRATIS BUKU PANDUAN SUKSES
-Mendapatkan buku panduanstrategi penjualan sukses berjualan
+
+Mendapatkan buku panduan strategi penjualan sukses berjualan
 
 ![buku panduan sukses](../pisang-nugget-kece/buku-panduan-sukses.jpg)
 
@@ -246,8 +251,8 @@ Mendapatkan buku panduanstrategi penjualan sukses berjualan
 Selain resep bahan baku rahasia, kami memiliki RESEP RAHASIA SUKSES
 * Mendapatkan BP kurang dari 1 bulan
 * Menjual 120 Pack dalam 2 Jam
-* Mingkatkan keuntungan 50% tiap bulannya
-* Penempatan lokasi paling stategis
+* Meningkatkan keuntungan 50% tiap bulannya
+* Penempatan lokasi paling strategis
 
 ### BANDINGKAN SAJA!
 
@@ -328,8 +333,10 @@ Kami sediakan bahan baku berkualitas unggulan demi menunjang penjualan Anda
 RACIKAN BAHAN BAKU 
 Ala Chef Bintang 5
 
-* Adonan tepung Pisang NUgget Kece dibuat dari bahan baku ungguan racikan ala chef bintang 5
+* Adonan tepung Pisang Nugget Kece dibuat dari bahan baku unggulan racikan ala chef bintang 5
+
 * Selai dan topping yang digunakan juga dari bahan baku pilihan dan berkualitas tinggi
+
 * Rasa dan kualitas produk tidak diragukan lagi
 
 BAHAN BAKU HABIS? TINGGAL ORDER AJA
@@ -374,7 +381,7 @@ NO ADVERTISING FEE
 100% KEUNTUNGAN MILIK ANDA
 
 ### TANYA JAWAB DENGAN CALON MITRA
-Beberapa pertanyaan dai calon mitra yang sering muncul & kami senantiasa memberikan solusinya
+Beberapa pertanyaan dari calon mitra yang sering muncul & kami senantiasa memberikan solusinya
 
 M  = Bagaimana menjadi mitra Pisang Nugget Kece?
 
@@ -382,7 +389,7 @@ PN = Bisa lihat di persyaratan untuk menjadi mitra Pisang Nugget Kece
 
 M  = Apa yang membedakan franchise Pisang Nugget Kece dengan yang lain?
 
-PN = franchise kami bisa dibuka di indoor maupun di outdoor. Dan Pisang Nugget Kece berbeda dari franchise yang lainnya bukti yang real, bukan hanya testimonial
+PN = Franchise kami bisa dibuka di indoor maupun di outdoor. Dan Pisang Nugget Kece berbeda dari franchise yang lainnya bukti yang real, bukan hanya testimonial
 
 M  = Apakah dikenai biaya dalam pengiriman booth? 
 
@@ -433,11 +440,11 @@ Transfer lunas sesuai harga paket dan ongkir. Apabila lunas hari ini, paket akan
 
 **3.PENGIRIMAN**
 
-Paket akan kami kirimkan segera secara cepat agar bisa tiba ditempat dengan waktu tang tepat
+Paket akan kami kirimkan segera secara cepat agar bisa tiba ditempat dengan waktu yang tepat
 
 **4. OUTLET SIAP BUKA**
 
-Paket tiba di lokasi tepat waktu & mitra bisa lagsung berjualan
+Paket tiba di lokasi tepat waktu & mitra bisa langsung berjualan
 
 ### SYARAT
 
@@ -457,7 +464,7 @@ Paket tiba di lokasi tepat waktu & mitra bisa lagsung berjualan
 
 1. Lokasi berada di tempat strategis : didepan pusat keramaian /didepan sekolah - sekolah menengah keatas, kampus atau mini market
 
-2. Luas ukuran tempa sewa minimal sesuai dengan ukuran counter ( 120 cm x 60 cm )
+2. Luas ukuran tempat sewa minimal sesuai dengan ukuran counter ( 120 cm x 60 cm )
 
 3. Karyawan
 
@@ -469,9 +476,9 @@ Kami mempunyai space workshop sendiri demi menunjang kebutuhan mitra kami
 
 ### PAKET SAMPLE
 
-APABILA ANDA MASIH RAGU DENGAN RASA DARI PISANG NUGGET KECE
-
 ![paket sample](../pisang-nugget-kece/paket-sample.jpg)
+
+APABILA ANDA MASIH RAGU DENGAN RASA DARI PISANG NUGGET KECE
 
 ANDA BISA MENCOBA PAKET SAMPEL YANG KAMI SEDIAKAN SECARA KHUSUS DENGAN HARGA TERJANGKAU
 
