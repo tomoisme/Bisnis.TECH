@@ -381,7 +381,7 @@ NO ADVERTISING FEE
 100% KEUNTUNGAN MILIK ANDA
 
 ### TANYA JAWAB DENGAN CALON MITRA
-Beberapa pertanyaan dai calon mitra yang sering muncul & kami senantiasa memberikan solusinya
+Beberapa pertanyaan dari calon mitra yang sering muncul & kami senantiasa memberikan solusinya
 
 M  = Bagaimana menjadi mitra Pisang Nugget Kece?
 
