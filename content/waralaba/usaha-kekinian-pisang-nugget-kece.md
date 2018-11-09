@@ -47,6 +47,7 @@ Kami menyediakan agen pengiriman demi kelancaran distribusi bahan baku maupun pa
 Kami selalu siap secara 24 jam dalam melayani dan membantu Anda.
 
 * LAYANAN DESAIN GRATIS!
+
 Kami selalu siap membantu membuat gerai Anda lebih menarik dengan desain yang fresh dan up to date secara gratis.
 
 ### BERBAGAI KEUNGGULAN 
@@ -172,7 +173,9 @@ Terbukti Pisang Nugget Kece memang produk unggulan yang dapat diterima dengan ba
 ![outlet pisang nugget kepo](../pisang-nugget-kece/outlet-pisang-nugget-kece.jpg)
 
 ### BUKTI TESTIMONI MITRA KAMI 
+
 Dari bukti berikut kita tahu bahwa Pisang Nugget Kece adalah usaha franchise yang paling menguntungkan
+
 ![bukti testimoni](../pisang-nugget-kece/bukti-testimoni.jpg)
 
 ### BUKTI PENGIRIMAN!

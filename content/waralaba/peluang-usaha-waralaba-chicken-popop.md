@@ -161,7 +161,7 @@ Paket Franchise Tanpa Booth dengan KOMPOR GAS
 
 ### PERLENGKAPAN YANG DIDAPAT
 
-![perlengkapan](../chicken-popop/perlengkapan.jpg)
+![peralatan](../chicken-popop/peralatan.jpg)
 
 
 Fasilitas yang didapat :
