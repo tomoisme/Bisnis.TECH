@@ -26,13 +26,25 @@ Buat sobat yang sudah mendaftar AdSense hosted dan ingin menampilkan iklan di we
 
 ### Langkah Pertama Mendaftarkan AdSense Non Hosted
 
-Pahami dahulu kriteria blog/website yang disukai oleh Google, seperti misalnya: konten blog harus berkualitas dan original, jumlah konten harus cukup banyak, isi konten blog tidak melanggar persyaratan layanan AdSense ([TOS AdSense](../hal-hal-yang-dapat-membuat-akun-adsense-dibanned)), blog terlihat profesional (ada halaman kontak, about, kebijakan privasi, dll), usia blog minimal 1-3 bulan, kecepatan loading blog cepat, sudah memiliki traffic/pengunjung stabil.
+Pahami dahulu kriteria blog/website yang disukai oleh Google, seperti misalnya: 
+
+- **konten blog harus berkualitas dan original**, 
+- **jumlah konten harus cukup banyak (walaupun aturan ini tidak pasti, usahakan memiliki paling sedikit 20 posting)**, 
+- **isi konten blog tidak melanggar persyaratan layanan AdSense** ([TOS AdSense](../hal-hal-yang-dapat-membuat-akun-adsense-dibanned)), 
+- **usahakan tampilan blog terlihat profesional (ada halaman kontak, about, kebijakan privasi, dll)**, 
+- **usia blog minimal 1-3 bulan**, 
+- **kecepatan loading blog cepat**, 
+- **pastikan blog sudah mendapatkan traffic/pengunjung stabil walaupun hanya sedikit**. 
+
+Buatlah blog yang memiliki kriteria seperti diatas. Apabila sobat merasa kesulitan untuk membuat konten, membeli konten dari jasa penulis artikel juga diperbolehkan (bagi yang punya budget). 
+
+Prosesnya memang tidak mudah, namun saya yakin usaha dan kesabaran sobat bisnis tidak akan terbuang sia-sia. Dengan ketekunan dan kerja keras sobat, saya yakin sobat bisnis juga dapat menghasilkan uang dari internet lewat blogging dengan pendapatan hingga mencapai puluhan juta per bulannya.
 
 ### Langkah Kedua Mendaftarkan AdSense Non Hosted
 
 Setelah membangun blog yang sesuai dengan kriteria AdSense, sekarang saatnya sobat mengajukan permohonan akun Google AdSense. Langsung saja kunjungi www.google.com/adsense lalu klik pada tombol sign up/daftar. 
 
-Untuk mendaftar, tentu saja sobat perlu memiliki akun Google terlebih dahulu. Setelah itu sobat hanya perlu mengisi form alamat web/blog sobat dan form-form lainnya (nama, alamat, kontak, dll). Pastikan sobat mengisi form alamat tinggal dengan benar karena nanti PIN akan dikirimkan ke alamat tersebut.
+Untuk mendaftar, tentu saja sobat perlu memiliki akun Google terlebih dahulu. Setelah itu sobat hanya perlu mengisi form alamat web/blog sobat dan form-form lainnya (nama, alamat, kontak, dll). **Pastikan sobat mengisi form alamat tinggal dengan benar karena nanti PIN akan dikirimkan ke alamat tersebut.**
 
 Sesudah itu, sobat akan diminta untuk verifikasi via telpon atau text message. Dan jika proses verifikasi sudah selesai, sobat dapat menyalin kode javascript AdSense ke dalam website/blog sobat lalu tinggal menunggu proses review tim AdSense lebih lanjut.
 
