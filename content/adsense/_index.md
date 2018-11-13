@@ -31,6 +31,8 @@ Apapun jalan yang sobat bisnis pilih untuk menghasilkan uang dari AdSense, sobat
 
 #### [Cara Daftar Google AdSense Dengan Blog Non Hosted](./cara-daftar-google-adsense-dengan-blog-non-hosted)
 
+____
+
 Untuk dapat menghasilkan uang dari AdSense, sobat bisnis harus mengikuti aturan yang dibuat oleh Google. Simak disini: 
 
 [**Perhatikan Hal Ini Jika Tidak Mau Akun AdSense sobat bisnis Diblokir**](./hal-hal-yang-dapat-membuat-akun-adsense-dibanned)
