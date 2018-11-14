@@ -20,7 +20,7 @@ Berikut ini saya jelaskan langkah-langkah mudah untuk daftar AdSense lewat blogg
 
 Untuk kamu-kamu yang terdaftar di blogger.com, sebenarnya Google sudah menyediakan layanan khusus untuk mendaftar Google Adsense di dashboard blogger. Dahulu, pendaftaran AdSense lewat blogger.com memang tidak tersedia secara langsung di Indonesia, tapi sekarang alhamdulillah sudah tersedia.
 
-Cara daftar AdSense lewat blogger cukup mudah. Sobat bisnis tinggal login ke dashoard blogpost dan lihat di menu sidebar sebelah kiri. Klik menu 'Penghasilan', maka sobat akan diarahkan ke halaman seperti gambar berikut.
+Cara daftar AdSense lewat blogger cukup mudah, sobat bisnis tinggal login ke dashoard blogpost dan klik menu 'Penghasilan' di sidebar sebelah kiri, maka sobat akan diarahkan ke halaman seperti gambar berikut:
 
 ![cara daftar adsense lewat blogger - klik menu penghasilan](../cara-daftar-adsense-lewat-blogger-1.png)
 

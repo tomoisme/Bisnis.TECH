@@ -17,7 +17,7 @@ tagar:
 
 ### NYOT NYOT THAI TEA
 
-Nyot Nyot Thai Tea berdiri sejak tahun 2016 dan telah dipercaya oleh ratusan wirausahaan dari berbagai daerah di segala  penjuru tanah air Indonesia. Dengan selalu menjaga stabilitas kualitas produk Nyot Nyot Thai Tea berusaha untuk menjadi brand Thai Tea terbaik di Indonesia.
+Nyot Nyot Thai Tea berdiri sejak tahun 2016 dan telah dipercaya oleh ratusan wirausahawan dari berbagai daerah di segala  penjuru tanah air Indonesia. Dengan selalu menjaga stabilitas kualitas produk Nyot Nyot Thai Tea berusaha untuk menjadi brand Thai Tea terbaik di Indonesia.
 
 ![usaha waralaba thai tea nyot nyot](../nyot-nyot/usaha-waralaba-thai-tea-nyot-nyot.jpg)
 
