@@ -3,6 +3,11 @@
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   
   <url>
+    <loc>https://www.bisnis.tech/gadget/</loc>
+    <lastmod>2018-11-14T09:40:41+07:00</lastmod>
+  </url>
+  
+  <url>
     <loc>https://www.bisnis.tech/peluang-usaha/</loc>
     <lastmod>2018-11-14T00:10:21+07:00</lastmod>
   </url>
@@ -239,7 +244,7 @@
   
   <url>
     <loc>https://www.bisnis.tech/tagar/cara-daftar-adsense/</loc>
-    <lastmod>2018-11-05T22:26:02+07:00</lastmod>
+    <lastmod>2018-11-05T22:26:18+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -257,13 +262,19 @@
   
   <url>
     <loc>https://www.bisnis.tech/tagar/cara-daftar-google-adsense/</loc>
-    <lastmod>2018-11-05T22:26:02+07:00</lastmod>
+    <lastmod>2018-11-05T22:26:18+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.bisnis.tech/tagar/cara-daftar-google-adsense-lewat-youtube/</loc>
     <lastmod>2018-11-05T22:26:02+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bisnis.tech/tagar/cara-dapetin-duit-dari-internet/</loc>
+    <lastmod>2018-11-05T22:26:18+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -281,7 +292,7 @@
   
   <url>
     <loc>https://www.bisnis.tech/tagar/cara-mendapatkan-uang-dari-internet/</loc>
-    <lastmod>2018-11-03T19:59:24+07:00</lastmod>
+    <lastmod>2018-11-05T22:26:18+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -377,13 +388,19 @@
   
   <url>
     <loc>https://www.bisnis.tech/tagar/panduan-adsense/</loc>
-    <lastmod>2018-11-05T22:26:02+07:00</lastmod>
+    <lastmod>2018-11-05T22:26:18+07:00</lastmod>
     <priority>0</priority>
   </url>
   
   <url>
     <loc>https://www.bisnis.tech/tagar/panduan-bisnis-online/</loc>
     <lastmod>2018-11-01T12:08:04+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bisnis.tech/tagar/panduan-daftar-google-adsense/</loc>
+    <lastmod>2018-11-05T22:26:18+07:00</lastmod>
     <priority>0</priority>
   </url>
   
@@ -540,6 +557,12 @@
   <url>
     <loc>https://www.bisnis.tech/tagar/tips-bisnis-online/</loc>
     <lastmod>2018-11-01T12:08:04+07:00</lastmod>
+    <priority>0</priority>
+  </url>
+  
+  <url>
+    <loc>https://www.bisnis.tech/tagar/tips-blogging/</loc>
+    <lastmod>2018-11-05T22:26:18+07:00</lastmod>
     <priority>0</priority>
   </url>
   
