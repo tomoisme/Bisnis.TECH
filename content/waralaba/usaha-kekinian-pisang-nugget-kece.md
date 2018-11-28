@@ -274,7 +274,7 @@ Berikut ini adalah perbandingan kami dengan produk yang lain
 
 * Perusahaan belum jelas & tidak benefit
 * Tidak ada kerjasama dengan instansi besar
-* Masih mengambil tender daripabrik yang masih dijual umum
+* Masih mengambil tender dari pabrik yang masih dijual umum
 * Tidak ada inovasi dan pengembangan untuk mitra
 
 ### VARIANT MENU BEST SELLER
