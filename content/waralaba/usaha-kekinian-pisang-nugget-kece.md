@@ -216,6 +216,7 @@ Terbuat dari bahan kayu berkualitas sehingga membuat booth kuat, kokoh dan awet.
 ![bahan kayu pilihan](../pisang-nugget-kece/bahan-kayu-pilihan.jpg)
 
 **TIANG STAINLESS**
+
 Dengan bahan stainless pada tiang penyangga, booth semakin kuat dan tidak goyah
 
 ![stainless](../pisang-nugget-kece/stainless.jpg)
@@ -252,7 +253,8 @@ Mendapatkan buku panduan strategi penjualan sukses berjualan
 
 
 Selain resep bahan baku rahasia, kami memiliki RESEP RAHASIA SUKSES
-* Mendapatkan BP kurang dari 1 bulan
+
+* Mendapatkan B.E.P kurang dari 1 bulan
 * Menjual 120 Pack dalam 2 Jam
 * Meningkatkan keuntungan 50% tiap bulannya
 * Penempatan lokasi paling strategis
