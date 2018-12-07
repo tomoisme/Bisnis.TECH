@@ -6,6 +6,7 @@ tagar:
 - pabrik iphone
 - apple
 - iphone
+- berita teknologi
 ---
 
 Perang dagang antara US dan China memang sempat membuat kondisi ekonomi berbagai negara menjadi ketar-ketir, namun ternyata ini ada efek baiknya juga untuk Indonesia karena dikabarkan bahwa perusahaan perakit komponen iPhone asal Taiwan, Pegatron akan investasi di Indonesia. Perusahaan akan mengalihkan sebagian produksinya ke Batam.
