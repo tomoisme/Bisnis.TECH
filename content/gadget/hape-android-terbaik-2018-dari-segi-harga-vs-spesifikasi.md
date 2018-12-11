@@ -2,54 +2,64 @@
 title: "Hape Android Terbaik 2018 Dari Segi Harga vs Spesifikasi"
 date: 2018-12-10T07:36:38+07:00
 draft: false
+tagar:
+- smartphone murah
+- android murah
+- pocophone f1
+- oneplus 6t
+- hape android murah
+- ponsel murah
+- hape murah
+- handphone android murah
+- handphone murah
 ---
 
-Smartphones have gotten more and more expensive, and 2018 saw the first few sail past the $1,000 mark. If you’re looking for a mobile that isn’t going to set fire to your disposable income, that just ain’t gonna work.
+Saat ini smartphone menjadi semakin mahal apalagi smartphone flagship terbaru 2018, harganya bahkan banyak yang sudah menembus Rp 15 jutaan. Jika Anda mencari hape Android flagship yang tidak membuat kantong anda jebol, sepertinya itu adalah sebuah hal mustahil.
 
-Luckily, we also saw some pretty awesome budget phones hit the market this year, and even after subjecting them to the same crucible of testing that the rest of the flagships went through, we found that they hold their own against the most expensive phones for half the cost — or less.
+Untungnya, ada juga beberapa smartphone murah yang memiliki spesifikasi setingkat flagship memasuki pasar smartphone tahun ini. Smartphone dengan harga menengah ini bahkan memiliki kemampuan yang sanggup diadu dengan smartphone flagship yang beredar di pasaran saat ini. Bedanya, smartphone budget ini memiliki harga setengah dari harga smartphone flagship! Mau tau hape apa aja? Simak lebih lanjut dibawah.
 
-### The Xiaomi Pocophone F1 and OnePlus 6T are the best bang for your buck
+### Xiaomi Pocophone F1 Dan OnePlus 6T: Smartphone Termurah Untuk Performa Tertinggi Di Kelasnya
 
-If you’re looking for a phone that gives you all the best goodies of a flagship, but you can’t shell out for one, your best options are the Xiaomi Pocophone F1 and the OnePlus 6T. Both phones offer impressive performance and even hung tough in a few of our awards categories on their own merit.
+Jika Anda ingin membeli hape yang memberikan performa terbaik dan memiliki label harga yang terjangkau, pilihan terbaik Anda adalah Xiaomi Pocophone F1 dan OnePlus 6T. Kedua ponsel Android ini menawarkan kinerja yang mengesankan dan bahkan sanggup bersaing dengan smartphone di tingkat flagship.
 
-At the bare-bones end of the high-powered spectrum, you’ll find the Pocophone F1, which retails for the equivalent of $300 (20,999 rupees) for the version with 6GB of RAM and 64GB of storage and goes up to $429 (29,999 rupees) for the Kevlar-backed version with 8GB of RAM and 256GB of storage.
+Pada ujung bare-tulang dari spektrum bertenaga tinggi, Anda akan menemukan Pocophone F1, yang dijual seharga Rp 4.5 jutaan untuk versi dengan RAM 6GB dan penyimpanan 64GB dan Rp 5 jutaan untuk versi ROM 128 GB serta ada versi PRO dengan harga Rp 8 jutaan yang memiliki RAM 8GB RAM dan ROM 256 GB juga dilengkapi dengan bodi kevlar.
 
-If you can spend a bit more, the OnePlus 6T adds a few more high-end features like an in-display fingerprint scanner and waterdrop notch starting at $549 for 6GB of RAM and 128GB of storage, going up to $629 for 8GB of RAM and 256GB of storage. It’s also available through T-Mobile with all the usual carrier deals and discounts.
+Jika Anda dapat merelakan lebih banyak uang untuk anggaran beli hape, OnePlus 6T menawarkan beberapa fitur high-end seperti pemindai sidik jari pada layar dan design waterdrop notch yang membuat perangkat ini lebih tipis. Dibanderol dengan harga mulai dari Rp 8 jutaan untuk RAM 6GB dan ROM 128GB, dan juga Rp 11-12 jutaan untuk RAM 8 GB dan ROM 256 GB. 
 
 ### The Xiaomi Pocophone F1 has all the pieces to a high-end phone
 
-Probably the most important phone without a big-brand label that was released this year was the Pocophone F1. Boasting all the same high-end specs you’d find in a much more expensive smartphone, the Pocophone F1 offers about 80% of the performance at one-third of the cost. Sure, there’s no IP rating, and there are a couple corners cut, but overall it’s a remarkably solid phone.
+Mungkin ponsel yang paling penting tanpa label merek besar yang dirilis tahun ini adalah Pocophone F1. Menawarkan semua spesifikasi high-end yang sama yang Anda temukan di smartphone yang jauh lebih mahal, Pocophone F1 menawarkan sekitar 80% dari kinerja dengan sepertiga dari biaya. Tentu, tidak ada peringkat IP, dan ada beberapa sudut yang terpotong, tetapi secara keseluruhan itu adalah ponsel yang luar biasa padat.
 
-Specs alone may not be enough to entice you, but the Poco F1’s 4,000mAh battery offers probably the best battery life you’re gonna get at its price point, even eclipsing much more expensive phones. The OnePlus 6T battery comes in a little smaller at 3,700mAh but it also includes the excellent fast charging tech formerly known as Dash Charge.
+Spesifikasi saja mungkin tidak cukup untuk menarik perhatian Anda, tetapi baterai 4,000 mAh Poco F1 mungkin menawarkan daya baterai terbaik yang akan Anda dapatkan pada titik harganya, bahkan melebihi ponsel yang jauh lebih mahal. Baterai OnePlus 6T datang sedikit lebih kecil pada 3,700mAh tetapi juga termasuk teknologi pengisian cepat yang sangat baik sebelumnya dikenal sebagai Dash Charge.
 
-Battery life
-Higher is Better
-
-Image HERE
+#### Daya Tahan Baterai
+Lebih tinggi lebih baik
 
 
-From left to right, the bars represent our mixed-use, Wi-Fi browsing, and video playback tests. You can see that both of our winning value phones beat the average, and even a few notable phones in terms of battery life. If you’re in the market for a new mobile companion, either of these phones will withstand heavy use.
 
-    The Pocophone F1 puts basically the same specs in a $1,000 phone into one that costs just $300.
 
-Xiaomi especially knows that there’s one hell of a market for bang-for-buck phones, and they’ve managed to squeeze better-than-average performance out of the F1 in more than one category. But the Pocophone F1 sets itself apart by retailing for about $300. That’s an absolute steal when you consider the guts of this phone are largely the same as the high-end phones this year. It has the same Qualcomm Snapdragon 845, competitive RAM and storage options, and… a headphone jack. It has a few other quirks, so definitely check out either the video review above or our full review for more information before you buy.
+Dari kiri ke kanan, bilah menggambarkan penggunaan campuran, penelusuran Wi-Fi, dan pemutaran video. Anda dapat melihat bahwa kedua ponsel pemenang kami mengalahkan rata-rata, dan bahkan beberapa ponsel terkenal dalam hal masa pakai baterai. Jika Anda berada di pasar untuk pendamping seluler baru, salah satu dari ponsel ini akan tahan penggunaan berat.
+
+    Pocophone F1 pada dasarnya menempatkan spesifikasi yang sama di telepon $ 1.000 menjadi satu yang harganya hanya $ 300.
+
+Xiaomi terutama tahu bahwa ada satu pasar yang sangat besar untuk ponsel-ponsel bang-for-buck, dan mereka berhasil menekan kinerja yang lebih baik dari rata-rata dari F1 di lebih dari satu kategori. Tapi Pocophone F1 memisahkan diri dengan menjual sekitar $ 300. Itu benar-benar mencuri ketika Anda mempertimbangkan keberanian ponsel ini sebagian besar sama dengan ponsel kelas atas tahun ini. Ini memiliki Qualcomm Snapdragon 845, RAM kompetitif dan opsi penyimpanan yang sama, dan ... jack headphone. Ini memiliki beberapa kebiasaan lain, jadi pastikan untuk melihat ulasan video di atas atau ulasan lengkap kami untuk informasi lebih lanjut sebelum Anda membeli.
 
 ### The OnePlus 6T takes budget performance to extremes
 
-On the other side of the affordable coin is the OnePlus 6T. Instead of making a basic or utilitarian phone with rough edges, OnePlus released a phone that offered the fit and finish of a true premium flagship. It still doesn’t have everything, but it does have most of what you’d get in a phone that costs $300 more.
+Di sisi lain dari koin terjangkau adalah OnePlus 6T. Alih-alih membuat telepon dasar atau utilitarian dengan tepi kasar, OnePlus merilis telepon yang menawarkan fit and finish dari premium unggulan sejati. Itu masih tidak memiliki segalanya, tetapi itu memiliki sebagian besar dari apa yang Anda dapatkan di ponsel yang harganya $ 300 lebih.
 
-While people like me will bemoan the loss of the headphone jack (seriously, get the OnePlus 6 while it lasts), it seems to be where we’re headed these days. But the OnePlus 6T does all the little things right, goes toe-to-toe with the other flagships in display performance, and hangs tough with its battery just like the Pocophone F1.
+Sementara orang-orang seperti saya akan meratapi hilangnya jack headphone (serius, dapatkan OnePlus 6 selagi masih ada), sepertinya ini adalah tempat yang kami tuju akhir-akhir ini. Tapi OnePlus 6T melakukan semua hal kecil yang benar, berjalan kaki-to-toe dengan flagships lain dalam kinerja layar, dan hang tangguh dengan baterainya seperti Pocophone F1.
 
-    The $550 OnePlus 6T will give you a Pixel-like experience with only a few tradeoffs.
+    The $ 550 OnePlus 6T akan memberi Anda pengalaman seperti Pixel dengan hanya beberapa pengorbanan.
 
-OnePlus and Xiaomi have been vying for the top budget spot for a while now, and we’ve explored this in the past. But each phone brings a different experience to the table. For example, the OnePlus 6T will get updates faster, has a more customizable interface, and generally gives you that Pixel-like experience with only a few tradeoffs. The Xiaomi phone will give you all the hardware, but without the finish.
+OnePlus dan Xiaomi telah berlomba-lomba mencari tempat anggaran teratas untuk sementara waktu sekarang, dan kami telah menjelajahi ini di masa lalu. Tetapi setiap ponsel membawa pengalaman yang berbeda ke meja. Misalnya, OnePlus 6T akan mendapatkan pembaruan lebih cepat, memiliki antarmuka yang lebih mudah disesuaikan, dan umumnya memberi Anda pengalaman seperti Pixel dengan hanya beberapa pengorbanan. Ponsel Xiaomi akan memberikan semua perangkat keras, tetapi tanpa penyelesaian.
 
-Among flagships, these phones are average… but that’s a good thing
+Di antara flagship, ponsel ini rata-rata ... tapi itu hal yang bagus
 
-We pit 30 mid-to-high-end phones against each other this year, and both our value picks were able to stay ahead of that Mendoza line without much trouble. Only falling behind in a couple places, you can see that these are phones to be reckoned with. The OnePlus 6T takes a massive whack in the audio section for not having a headphone jack, but if you’re on team Bluetooth: everything’s fine.
+Kami mengadu 30 telepon mid-to-high-end terhadap satu sama lain tahun ini, dan kedua nilai kami dapat tetap berada di depan garis Mendoza tanpa banyak masalah. Hanya tertinggal di beberapa tempat, Anda dapat melihat bahwa ini adalah ponsel yang harus diperhitungkan. OnePlus 6T mengambil pukulan besar di bagian audio karena tidak memiliki jack headphone, tetapi jika Anda menggunakan Bluetooth tim: semuanya baik-baik saja.
 
-    We here at Android Authority emphatically recommend each of these models if you're looking to make your dollar go as far as humanly possible
+    Kami di sini di Android Authority dengan tegas merekomendasikan masing-masing model ini jika Anda ingin membuat dolar Anda pergi sejauh mungkin secara manusiawi
 
-The OnePlus 6T offers a better display, battery, and performance than average — and the Pocophone F1 beats the mean on display and battery performance. Considering the area where both fall short (camera), still isn’t too bad, we here at Android Authority emphatically recommend each of these models if you’re looking to make your dollar go as far as humanly possible.
+OnePlus 6T menawarkan tampilan, baterai, dan kinerja yang lebih baik daripada rata-rata - dan Pocophone F1 mengalahkan mean pada layar dan kinerja baterai. Mempertimbangkan area di mana keduanya kurang (kamera), masih tidak terlalu buruk, kami di Android Authority dengan tegas merekomendasikan masing-masing model ini jika Anda ingin membuat dolar Anda berjalan sejauh mungkin secara manusiawi.
 
 https://www.androidauthority.com/best-of-android-best-value-phones-926643/
