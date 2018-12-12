@@ -15,7 +15,7 @@ Apabila dilihat dari segi pemasaran online, fakta bahwa Instagram memiliki pengg
 
 Gimana sih cara pasang iklan di Instagram? Mudah banget, ikuti langkahnya sebagai berikut:
 
-#### Ubah Tipe Akun Instagram Anda Menjadi Akun Bisnis
+****Ubah Tipe Akun Instagram Anda Menjadi Akun Bisnis****
 
 Untuk dapat beriklan secara resmi di Instagram, akun anda harus akun bisnis. Jika saat ini akun anda sudah akun bisnis, maka anda bisa melewati langkah ini. Jika masih belum, langkah pertama adalah dengan mengubah ke akun bisnis terlebih dahulu. Caranya sebagai berikut:
 
@@ -31,7 +31,7 @@ Selain tidak dapat diatur menjadi private, anda juga harus menautkan halaman Fac
 
 Apakah harus melakukan klaim halaman Facebook ini? Ya, buat apa klaim halaman Facebook? Ini akan berguna bagi anda yang tidak memiliki kartu kredit ketika pembayaran nanti. Selain itu, ada baiknya juga memiliki halaman Facebook untuk menjangkau lebih banyak pelanggan.
 
-#### Isi Saldo
+****Isi Saldo****
 
 Sebelum pasang iklan di Instagram, anda perlu isi saldo dulu. Berapa banyak? Ini tergantung budget anda, yang jelas minimal iklan di Instagram itu perhari Rp. 10.000. Jika anda ingin promosi selama 10 hari, berarti minimal isi saldo Rp. 100.000. Dalam satu kali iklan, jumlah hari maksimal adalah 30 hari. Silahkan tentukan sendiri anggaran anda.
 
