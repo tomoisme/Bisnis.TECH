@@ -31,19 +31,19 @@ Untuk akun yang baru, kemungkinan sobat akan diminta untuk melakukan verifikasi 
 
 Setelah proses verifikasi, silahkan kunjungi halaman beranda. Di beranda YouTube sobat, Klik pada menu "**Setelan**" (ada di kiri bawah atau di menu profil kanan atas), lihat gambar dibawah.
 
-![cara daftar adsense lewat youtube - setting](../cara-daftar-adsense-lewat-youtube-1.jpg)
+![cara daftar adsense lewat youtube - setting](../cara-daftar-adsense/cara-daftar-adsense-lewat-youtube-1.jpg)
 
 atau
 
-![cara daftar adsense lewat youtube - setting](../cara-daftar-adsense-lewat-youtube-1-1.jpg)
+![cara daftar adsense lewat youtube - setting](../cara-daftar-adsense/cara-daftar-adsense-lewat-youtube-1-1.jpg)
 
 Kemudian klik pada link "**Lihat fitur tambahan**", sobat akan diarahkan pada halaman fitur channel. 
 
-![cara daftar adsense lewat youtube - fitur tambahan](../cara-daftar-adsense-lewat-youtube-2.jpg)
+![cara daftar adsense lewat youtube - fitur tambahan](../cara-daftar-adsense/cara-daftar-adsense-lewat-youtube-2.jpg)
 
 Di halaman fitur tambahan, sobat dapat melihat tab MONETISASI lalu klik tombol "**Aktifkan**" apabila terlihat status layak. Jika belum ada status layak, sobat dapat mengirimkan **permohonan untuk menautkan akun AdSense ke akun YouTube** sobat. 
 
-![cara daftar adsense lewat youtube - monetisasi ](../cara-daftar-adsense-lewat-youtube-3.jpg)
+![cara daftar adsense lewat youtube - monetisasi ](../cara-daftar-adsense/cara-daftar-adsense-lewat-youtube-3.jpg)
 
 Selanjutnya sobat hanya perlu memenuhi 3 persyaratan dibawah ini:
 
