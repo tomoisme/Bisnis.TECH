@@ -61,5 +61,3 @@ Kami mengadu 30 telepon mid-to-high-end terhadap satu sama lain tahun ini, dan k
     Kami di sini di Android Authority dengan tegas merekomendasikan masing-masing model ini jika Anda ingin membuat dolar Anda pergi sejauh mungkin secara manusiawi
 
 OnePlus 6T menawarkan tampilan, baterai, dan kinerja yang lebih baik daripada rata-rata - dan Pocophone F1 mengalahkan mean pada layar dan kinerja baterai. Mempertimbangkan area di mana keduanya kurang (kamera), masih tidak terlalu buruk, kami di Android Authority dengan tegas merekomendasikan masing-masing model ini jika Anda ingin membuat dolar Anda berjalan sejauh mungkin secara manusiawi.
-
-https://www.androidauthority.com/best-of-android-best-value-phones-926643/
