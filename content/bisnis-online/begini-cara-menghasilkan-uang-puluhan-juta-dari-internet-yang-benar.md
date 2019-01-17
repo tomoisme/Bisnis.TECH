@@ -25,7 +25,7 @@ tagar:
 - investasi online
 ---
 
-{{<adsense-inarticle>}
+{{<adsense-inarticle>}}
 
 ### Cara Yang Telah Dibuktikan Berhasil Bahkan Oleh Anak SMA Sekalipun
 
@@ -37,7 +37,7 @@ Pada dasarnya cara mendapatkan uang dari internet yang akan saya jelaskan disini
 
 Penasaran?
 
-{{<adsense-inarticle>}
+{{<adsense-inarticle>}}
 
 Cara ini khusus buat kamu yang ingin mendapatkan gaji bulanan dari online baik itu lewat AdSense, Youtube, maupun dari CPA.
 
