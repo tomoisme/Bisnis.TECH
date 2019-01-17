@@ -116,3 +116,35 @@ Kalo kamu nggak benar-benar menyukai bikin konten video dan kamu juga mengharapk
 Nah yang ini lain lagi ceritanya. Bikin aplikasi android, sisipkan iklan, lalu publish aplikasi kamu agar di-download oleh banyak orang. Semakin banyak yang download, iklan yang kamu tayangkan di aplikasi akan semakin banyak dilihat, lalu kamu bisa dapet duit adsense dari aplikasi android kamu.
 
 Yang jadi permasalahan adalah: membuat aplikasi android membutuhkan skill programming yang cukup rumit. Memang benar saat ini ada banyak metode untuk mengakalinya seperti beli aplikasi, re-skin aplikasi, dll. Tapi kebanyakan cara-cara untuk mendapatkan uang adsense dari android itu illegal dan dilarang oleh adsense, kalo ketauan akun kamu akan kena banned.
+
+### Cara Paling Mudah Untuk Dapat Duit Dari AdSense
+
+Pilihan paling mudah dari ketiga pilihan diatas adalah dengan bikin blog. Ya, paling gampang dapetin duit dari AdSense itu lewat blogging.
+
+Kenapa begitu? Karena tidak memerlukan skill khusus seperti editing video dan programming. Ya walaupun akan sangat membantu kalo kamu mengerti beberapa hal tentang pembuatan blog, HTML, dll.
+
+Nah tapi bukan dengan blogging biasa-biasa aja nih. Kalo blogging biasa-biasa aja sudah banyak yang melakukan itu dan mereka kesulitan untuk mendapatkan penghasilan hingga jutaan rupiah dari adsense. 
+
+Mau dapet 1 juta dari adsense aja udah susah dengan cara biasa, apalagi kalo mau dapet 3 juta per bulan dari adsense, atau 5 juta per bulan dari adsense atau mungkin lebih ekstrim lagi berharap bisa dapet 10 juta per bulan dari adsense. Ngimpiiiii!
+
+Disini saya akan menjabarkan trik adsense agar kamu dapat menghasilkan uang jutaan dari blogging. Simak terus dan jangan lupa MINDSET, DISIPLIN dan FOKUS.
+
+Disclaimer: saya tidak menjanjikan apapun dan tidak menjanjikan kamu PASTI mendapatkan penghasilan dari AdSense dengan trik yang saya jabarkan di bawah ini.
+
+Oh iya, sebelum kamu mencoba menjalani trik adsense di bawah ini, kamu harus sudah memiliki blog dan akun adsense yang aktif ya. Selamat mencoba.
+
+**Rahasia Mendapatkan Uang Dengan Mudah Dari AdSense**
+
+Langkah 1: Buat posting yang isinya fokus tentang 1 hal (misalnya bisnis online). Boleh tentang apapun yang kira-kira biaya per kliknya tinggi.
+
+Langkah 2: Pastikan posting tersebut memiliki lebih dari 1000 kata di dalamnya.
+
+Langkah 3: Isikan gambar-gambar di posting tersebut.
+
+Langkah 4: Buat video slideshow singkat yang isinya menggambarkan postingan kamu, tapi sebisa mungkin buat video tersebut jadi sangat menarik untuk dilihat kalo perlu buat video tersebut jadi click bait. Upload video tersebut ke fanspage facebook atau ke twitter atau ke youtube channel. 
+
+Langkah 5: Buat link menuju posting blog kamu di video clickbait yang telah kamu upload tadi pada deskripsi videonya. Jangan lupa untuk menambahkan hashtag yang lagi trending di area kamu.
+
+Langkah 6: Promosikan video click bait tadi dengan cara menaikkan jumlah likes/share, atau kalo di twitter kamu promosikan dengan menaikkan jumlah retweet dan likes, atau kalo di youtube kamu promosikan dengan menaikkan jumlah like dan viewer.
+
+Langkah 7: Tunggu viewer video kamu naik dan traffic mengarah langsung ke postingan blog kamu. Sehingga peluang untuk mendapatkan klik dari situ juga semakin besar.
