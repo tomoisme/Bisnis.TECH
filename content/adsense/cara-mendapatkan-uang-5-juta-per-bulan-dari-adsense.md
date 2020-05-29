@@ -15,8 +15,6 @@ tagar:
 - cara mendapatkan uang dari internet
 ---
 
-{{< adsense-responsive >}}
-
 #### Mencari Penghasilan Dari Internet Tidak Semudah Yang Dibayangkan
 
 Banyak blogger yang ingin mendapatkan penghasilan pasif dari internet lewat AdSense, sehingga mereka berupaya keras untuk membangun blog semaksimal mungkin. Pada kenyataannya tidak banyak blogger yang berhasil mendulang dollar AdSense ini. 
@@ -30,8 +28,6 @@ Bagi blogger yang ingin penghasilannya meningkat, silahkan coba cara di bawah in
 Langsung aja simak "Cara Mendapatkan Uang Rp 5 Juta Per Bulan Dari AdSense" di bawah ini:
 
 ### 1. Jumlah Pengunjung Merupakan Kunci Utama
-
-{{< adsense-responsive >}}
 
 Jika anda menargetkan untuk dapat Rp 5 juta per bulan dari AdSense. Itu artinya blog anda harus menghasilkan sekitar Rp 168.000 per harinya (Rp 5 juta dibagi 30 hari).
 
@@ -48,8 +44,6 @@ Seandainya anda mendapatkan rasio klik iklan 2% dan nilai per klik Rp 1.000 saja
 Jadi untuk mendapatkan Rp 168.000, anda harus mendapatkan 168 klik (1 klik = Rp 1.000) per hari lewat blog anda. Yang berarti anda harus mendatangkan pengunjung sebanyak 168 / 2 * 100 = 8.400 pengunjung dalam sehari.
 
 Nah, selanjutnya hal yang perlu anda fokuskan dalam blogging adalah bagaimana caranya mendatangkan 8.400 pengunjung tiap harinya agar blog anda berpotensi menghasilkan Rp 5 juta per bulan. Simak terus caranya di bawah ini.
-
-{{< adsense-responsive >}}
 
 ### 2. Diversifikasi Blog
 

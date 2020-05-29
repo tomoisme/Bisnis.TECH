@@ -25,8 +25,6 @@ tagar:
 - investasi online
 ---
 
-{{<adsense-inarticle>}}
-
 ### Cara Yang Telah Dibuktikan Berhasil Bahkan Oleh Anak SMA Sekalipun
 
 Jumpa lagi guys di Bisnis.TECH, kali ini saya akan menjelaskan dengan detail langkah demi langkah cara dapetin duit jutaan dari bisnis online. Selain itu juga kamu akan bisa mendapatkan pasif income/penghasilan pasif dari internet dengan cara ini.
@@ -36,8 +34,6 @@ Trik ini seperti yang dilakukan oleh banyak pemain bisnis online yang telah lebi
 Pada dasarnya cara mendapatkan uang dari internet yang akan saya jelaskan disini relatif mudah untuk dilakukan dan bisa dibilang sama dengan panduan bisnis online yang dapat anda temukan di blog-blog bisnis online pada umumnya. Perbedaannya adalah di eksekusi strategi bisnisnya.
 
 Penasaran?
-
-{{<adsense-inarticle>}}
 
 Cara ini khusus buat kamu yang ingin mendapatkan gaji bulanan dari online baik itu lewat AdSense, Youtube, maupun dari CPA.
 
@@ -77,8 +73,6 @@ Disiplin juga berarti apabila kamu telah berkomitmen untuk meluangkan waktu 2 ja
 Apabila siang hari kamu padat dengan pekerjaan kantoran pada siang hari, maka kamu harus berkomitmen pada malam hari kamu menyiapkan waktu tersebut dan menghindari gangguan demi mengerjakan setiap pekerjaan yang akan menumbuhkan penghasilan pasif kamu dari internet.
 
 ### Bisnis Online Tanpa Jualan, Penghasilan Jutaan
-
-{{<adsense-responsive>}}
 
 Pada panduan ini saya akan menjabarkan tentang salah satu bidang bisnis online tanpa harus jualan, tidak perlu stok barang, tidak perlu jadi reseller dan bukan bisnis dropshipping. 
 
