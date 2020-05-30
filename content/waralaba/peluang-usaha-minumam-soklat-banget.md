@@ -10,7 +10,7 @@ tagar:
 - bisnis minuman
 - franchise minuman soklat banget
 ---
-### SOKLAT BANGET
+##### SOKLAT BANGET
 
 Soklat Banget adalah minuman coklat dengan berbagai varian rasa serta topping yang seru.
 Soklat Banget sangat diminati di kalangan anak-anak sekolah maupun mahasiswa. Biasanya mereka menikmati soklat banget sambil nongkrong dan konkow-konkow bersama kawan-kawannya. Di saat menikmati soklat yang lezat dan nikmat bisa mendapatkan inspirasi baru!
@@ -20,7 +20,7 @@ Soklat Banget sangat diminati di kalangan anak-anak sekolah maupun mahasiswa. Bi
 MAU MULAI USAHA FRANCHISE MINUMAN DENGAN MODAL 3,8JT SUDAH DAPAT BOOTH KEREN? DESAIN MENARIK DAN HARGA TERJANGKAU!
 
 
-### PAKET USAHA SOKLAT
+##### PAKET USAHA SOKLAT
 
 **HARGA PER AGUSTUS 2018**
 
@@ -49,7 +49,7 @@ HARGA DARI 9JT DISKON JADI 5,5JT
 MENDAPATKAN PERLENGKAPAN LENGKAP + BOOTH + TENDA. LANGSUNG JUALAN!
 
 
-### AYO GABUNG & IKUT SUKSES BERSAMA MITRA SOKLAT BANGET!
+##### AYO GABUNG & IKUT SUKSES BERSAMA MITRA SOKLAT BANGET!
 
 ![wijaya](../soklat-banget/wijaya.jpg)
 
@@ -73,13 +73,13 @@ Bapak Nasrulloh mitra asal Klaten ini dapat menjual 100-200 cup/ hari. Beliau be
 
 Bapak Sultan asal Demak ini adalah salah satu mitra kami yang tergolong sukses. Dengan kerja keras dan semangatnya selama kurang lebih satu tahun disertai jatuh bangun usahanya kini beliau telah menikmati penjualannya dengan laba bersih sebesar Rp. 5.000.000,- setiap bulannya. Beliau terus berinovasi untuk meningkatkan penjualannya salah satunya adalah dengan membuat variasi topping soklat yang berbeda.
 
-### WE ARE SOKLAT LOVER!
+##### WE ARE SOKLAT LOVER!
 
 ![lover](../soklat-banget/lover.jpg)
 
 RASA COKLATNNYA EMANG SOKLAT BANGEEEET!!!
 
-### APA SIH KEUNGGULAN SOKLAT BANGET
+##### APA SIH KEUNGGULAN SOKLAT BANGET
 
 **PERTAMA**
 
@@ -107,7 +107,7 @@ BANYAK PILIHAN MENU & VARIASI TOPPING MENARIK. VARIASIKAN SOKLATMU DENGAN BERBAG
 BINGUNG PINGIN MINUM YANG DINGIN ATAU PANAS. SOKLAT BISA DISAJIKAN HOT ATAU ICE.
 
 
-### SPECIAL MENU SOKLAT BANGET 
+##### SPECIAL MENU SOKLAT BANGET 
 
 ![menu](../soklat-banget/menu.jpg)
 
@@ -128,23 +128,23 @@ BINGUNG PINGIN MINUM YANG DINGIN ATAU PANAS. SOKLAT BISA DISAJIKAN HOT ATAU ICE.
 ![bukti](../soklat-banget/bukti.jpg)
 
 
-### KOMENTAR & TESTIMONI DARI MITRA
+##### KOMENTAR & TESTIMONI DARI MITRA
 
 ![testimoni](../soklat-banget/testimoni.jpg)
 
-### MEDIA SOCIAL BOOSTER
+##### MEDIA SOCIAL BOOSTER
 
 ![medsos](../soklat-banget/medsos.jpg)
 
 TERBUKTI BERJUALAN SOKLAT MEMANG MENGUNTUNGKAN
 
-### SOLIDARITAS BERSIH KALI BERSAMA SOKLAT
+##### SOLIDARITAS BERSIH KALI BERSAMA SOKLAT
 
 ![bakti](../soklat-banget/bakti.jpg)
 
 Sebagai bakti pada negeri serta lingkungan team soklat melakukan gerak aksi bersih kali bersama warga di daerah Sragen. Aksi ini bertujuan untuk membangun kesadaran masyarakat tentang pentingnnya kali bagi kehidupan masyarakat. Dan terima kasih kepada semua elemen dan komunitas yang telah mendukung keberlangsungan acara.
 
-### WORKSHOP SOKLAT BANGET
+##### WORKSHOP SOKLAT BANGET
 
 **PABRIK PENGOLAHAN & PENYIMPANAN BUBUK SOKLAT**
 
@@ -157,7 +157,7 @@ Sebagai bakti pada negeri serta lingkungan team soklat melakukan gerak aksi bers
 
 SOKLAT MEMILIKI WORKSHOP PENGOLAHAN BAHAN BUBUK COKLAT & BOOTH DENGAN STANDARISASI NASIONAL!
 
-### KAMI MEMBERIKAN PELAYANAN TERBAIK UNTUK ANDA
+##### KAMI MEMBERIKAN PELAYANAN TERBAIK UNTUK ANDA
 
 **HARGA TERJANGKAU**
 
@@ -196,7 +196,7 @@ Dalam menunjang penjualan Anda. Kami menyediakan gratis sebagai sarana promosi A
 Agen pengiriman kami selalu siap mengirimkan barang sesuai pesanan yang Anda inginkan.
 
 
-### PERLENGKAPAN UNTUK OUTLE ANDA
+##### PERLENGKAPAN UNTUK OUTLE ANDA
 
 ![alat](../soklat-banget/alat.jpg)
 
@@ -218,7 +218,7 @@ Setiap pembelian paket Anda akan mendapatkan peralatan jualan sebagai berikut :
 * 2 daftar menu
 * 1 cd SOP
 
-### PERHITUNGAN BALIK MODAL
+##### PERHITUNGAN BALIK MODAL
 
 ![hitung](../soklat-banget/hitung.jpg)
 
@@ -246,7 +246,7 @@ Pembelian bahan baku @ Rp 2.600 : Rp 7.020.000,-
 **BEP** 1-2 BULAN
 
 
-### PERSYARATAN BERGABUNG
+##### PERSYARATAN BERGABUNG
 
 ![1](../soklat-banget/1.jpg)
 
@@ -285,7 +285,7 @@ Memahami resiko bisnis waralaba.
 Wajib membeli bahan baku hanya dari pusat.
 
 
-### FASILITAS YANG DIPERLUKAN UNTUK MENDUKUNG PENJUALAN
+##### FASILITAS YANG DIPERLUKAN UNTUK MENDUKUNG PENJUALAN
 
 **TENTUKAN LOKASI STRATEGIS & KONSULTASIKAN TERLEBIH DAHULU**
 
@@ -299,7 +299,7 @@ Wajib membeli bahan baku hanya dari pusat.
 
 ![fasilitas 3](../soklat-banget/fas3.jpg)
 
-### HARGA BAHAN BAKU SANGAT TERJANGKAU
+##### HARGA BAHAN BAKU SANGAT TERJANGKAU
 
 ![bahan](../soklat-banget/bahan.jpg)
 
@@ -312,7 +312,7 @@ Wajib membeli bahan baku hanya dari pusat.
 1 buah cup dengan tutup cembung dengan kualitas terbaik
 
 
-### PAKET SAMPLE 
+##### PAKET SAMPLE 
 
 ![sample](../soklat-banget/sample.jpg)
 
@@ -324,7 +324,7 @@ Wajib membeli bahan baku hanya dari pusat.
 
 **SAMPLE CUMA RP.100.000,-** BELUM TERMASUK ONGKOS KIRIM
 
-### MANAGEMENT SOKLAT BANGET
+##### MANAGEMENT SOKLAT BANGET
 ![team](../soklat-banget/team.jpg)
 
 

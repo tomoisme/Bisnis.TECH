@@ -16,19 +16,19 @@ Mungkin banyak diantara anda yang baru pertama kali mendengar tentang cheese tea
 
 ![CIZI tea, terbuat dari bahan baku pilihan yang premium](../cizi/CIZI-cheese-tea-banner.jpg)
 
-### Mengapa Memilih Cizi? Easy!
+##### Mengapa Memilih Cizi? Easy!
 
 Produk cheese tea sedang digemari masyarakat Indonesia, ini merupakan peluang usaha yang sangat baik bagi anda.
 
 Mudah dijalankan, baik untuk anda yang baru memulai bisnis kuliner. Sistem usaha kami dan popularitas brand CIZI akan membantu tiap mitra usaha.
 
-### Menu CIZI Cheese Tea
+##### Menu CIZI Cheese Tea
 
 ![Variasi Menu CIZI Cheese Tea 1](../cizi/waralaba-minuman-cheese-tea-cizi-menu-1.jpg)
 ![Variasi Menu CIZI Cheese Tea 2](../cizi/waralaba-minuman-cheese-tea-cizi-menu-2.jpg)
 ![Variasi Menu CIZI Cheese Tea 3](../cizi/waralaba-minuman-cheese-tea-cizi-menu-3.jpg)
 
-### Analisa Usaha Cheese Tea CIZI
+##### Analisa Usaha Cheese Tea CIZI
 
 Modal rata-rata per cup = Rp 7.000,-
 
@@ -66,7 +66,7 @@ BEP dalam waktu 2 bulanan
 
 ![paket perlengkapan dan bahan baku CIZI cheese tea](../cizi/cizi-cheese-tea-equipment.jpg)
 
-### Peralatan 
+##### Peralatan 
 
 Stainless dispenser: 2 pcs
 Mixer: 1 pcs
@@ -80,14 +80,14 @@ Lap: 1 pcs
 Straw box: 1 pcs
 Tempat sampah: 1 pcs
 
-### Bahan Baku
+##### Bahan Baku
 
 Bahan baku utama: 200 pcs
 Gelas kemasan: 200 pcs
 Plastik takeaway: 200 pcs
 Secret ingredients: 200 pcs
 
-### Kelengkapan
+##### Kelengkapan
 
 SOP: 1 set
 Seragam: 1 set
@@ -97,7 +97,7 @@ Roll banner: 1 set
 
 ![Tampilan booth cizi cheese tea premium](../cizi/booth-cizi-cheese-tea.jpg)
 
-### Ingin Bergabung Bersama Kami? Mudah!
+##### Ingin Bergabung Bersama Kami? Mudah!
 
 ![Langkah pendaftaran waralaba cizi cheese tea](../cizi/proses-franchise-cizi-cheese-tea.jpg)
 

@@ -15,23 +15,23 @@ tagar:
 - peluang bisnis kuliner
 ---
 
-### NYOT NYOT THAI TEA
+##### NYOT NYOT THAI TEA
 
 Nyot Nyot Thai Tea berdiri sejak tahun 2016 dan telah dipercaya oleh ratusan wirausahawan dari berbagai daerah di segala  penjuru tanah air Indonesia. Dengan selalu menjaga stabilitas kualitas produk Nyot Nyot Thai Tea berusaha untuk menjadi brand Thai Tea terbaik di Indonesia.
 
 ![usaha waralaba thai tea nyot nyot](../nyot-nyot/usaha-waralaba-thai-tea-nyot-nyot.jpg)
 
-### NEW?
+##### NEW?
 
 Paket booth Nyot Nyot dengan tampilan yang sangat menarik dan dibuat eyecatching sehingga dapat menarik minat konsumen penggemar Thai Tea di Indonesia.
 
 ![awal](../nyot-nyot/awal.jpg)
 
-### GRATIS TENDA
+##### GRATIS TENDA
 
 Setiap mitra yang bergabung akan mendapatkan potongan harga dan GRATIS TENDA dari management.
 
-### Keunggulan Nyot Nyot Thai Tea 
+##### Keunggulan Nyot Nyot Thai Tea 
 
 Kami memberikan banyak kemudahan bagi calon mitra yang akan bergabung dengan Nyot Nyot Thai Tea.
 
@@ -57,7 +57,7 @@ Nyot Nyot Thai Tea dibantu dengan team follow up yang handal dalam menangani per
 
 Kami memiliki agen pengiriman khusus untuk mengirimkan keperluan usaha Anda. Dan paket yang dipesan hari ini akan dikirim hari ini juga.
 
-### MITRA SUKSES
+##### MITRA SUKSES
 
 Ayo bergabung menjadi bagian dari ratusan mitra sukses kami yang telah membuktikan bahwa Nyot Nyot Thai Tea mampu memberikan bukti nyata.
 
@@ -73,7 +73,7 @@ Saya memutuskan untuk memulai berwirausaha berjualan Nyot Nyot Thai Tea dengan m
 
 Ibu Fardiana merupakan mitra Nyot Nyot asal Sidoarjo. Beliau membuka outletnya di Mall Hero Sidoarjo Jawa Timur dalam satu hari Ibu Fardiana mampu menjual Nyot Nyot Thai Tea sampai dengan 300 cup/ hari pada hari biasa dan sekitar 400-500 cup pada waktu weekend. Kini keuntungan yang beliau peroleh digunakan untuk menambah 2 outlet lagi untuk keperluan jualan di event-event.
 
-### TESTIMONI MITRA 
+##### TESTIMONI MITRA 
 
 ![testimoni](../nyot-nyot/testi.jpg)
 
@@ -81,7 +81,7 @@ Berikut adalah sebagian dari banyak testimonial yang dikirim langsung dari mitra
 
 " Thai Tea adalah minuman khas Thailand yang awalnya dibuat dari teh Ceylon dengan topping susu cair dan gula sebagai pemanis."
 
-### DETAIL PRODUK
+##### DETAIL PRODUK
 
 **BUKAN TERBUAT DARI BUBUK**
 
@@ -97,7 +97,7 @@ Booth kami sangat menarik dengan desain yang eyecatching sehingga memiliki daya 
 
 ![detail 3](../nyot-nyot/detail3.jpg)
 
-### TENTANG NYOT NYOT 
+##### TENTANG NYOT NYOT 
 
 Nyot Nyot Thai Tea terus mengelola workshop/ outlet dengan baik untuk mewujudkan hasil yang memuaskan. Berikut data workshop kami.
 
@@ -115,7 +115,7 @@ Design booth yang dibuat dengan bahan kualitas terbaik dan desain yang eyecatchi
 
 Kami memiliki agen-agen pengiriman terbaik & terpercaya.
 
-### CARA BERGABUNG 
+##### CARA BERGABUNG 
 
 ![cara](../nyot-nyot/cara.jpg)
 
@@ -127,7 +127,7 @@ Kami memiliki agen-agen pengiriman terbaik & terpercaya.
 
 3. Setelah pembayaran paket yang dipilih maka paket franchise akan disiapkan dan akan segera dikirim, paling lambat 2 hari, setelah pelunasan paket usaha yang dipilih.
 
-### APA SIH SYARATNYA?
+##### APA SIH SYARATNYA?
 
 Management kami memberikan berbagai kemudahan dan pelayanan baik kepada calon mitra maupun mitra yang sudah berjalan.
 
@@ -155,7 +155,7 @@ Management kami memberikan berbagai kemudahan dan pelayanan baik kepada calon mi
 
 3. Staff Karyawan
 
-### PAKET USAHA NYOT NYOT
+##### PAKET USAHA NYOT NYOT
 
 ![paket](../nyot-nyot/paket.jpg)
 
@@ -172,20 +172,20 @@ GRATIS TENDA
 
 Setiap mitra bergabung akan mendapatkan potongan harga dan GRATIS tenda dari management.
 
-### FREE
+##### FREE
 
-### PERALATAN NYOT NYOT
+##### PERALATAN NYOT NYOT
 
 ![alat](../nyot-nyot/alat.jpg)
 
 Semua perlengkapan sudah termasuk dalam paket usaha
 
 
-### PASTI UNTUNG
+##### PASTI UNTUNG
 
-### R.O.I
+##### R.O.I
 
-### RETURN OF INVESMENT
+##### RETURN OF INVESMENT
 
 Semua keuntungan penjualan 100% milik mitra/ no royalty fee
 
@@ -211,7 +211,7 @@ B.E.P : 1-2 BULAN
 
 ![bep](../nyot-nyot/bep.jpg)
 
-### BEST MENU
+##### BEST MENU
 
 ![menu](../nyot-nyot/menu.jpg)
 
@@ -236,11 +236,11 @@ Rasakan kesegaran rasa Nyot Nyot Thai Tea dipadu dengan kopi pilihan terbaik.
 Rasa manis dan segar terbaik dari segelas thai tea taro.
 
 
-### NYOT NYOT LOVERS
+##### NYOT NYOT LOVERS
 
 ![lover](../nyot-nyot/lover.jpg)
 
-### TANYA KAMI?
+##### TANYA KAMI?
 
 **F.A.Q**
 
@@ -290,7 +290,7 @@ M  = Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
 
 NYOT = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 11.000 s/d Rp 15.000 disesuaikan dengan daya beli disekitar outlet
 
-### PAKET SAMPLE 
+##### PAKET SAMPLE 
 
 ![sample](../nyot-nyot/sample.jpg)
 
@@ -298,7 +298,7 @@ Rp 100.000,- * Belum trermasuk Ongkir
 
 Terdapat 4 variant rasa nyot nyot thai tea lengkap dengan cup, sedotan, buku sop/ aturan pembuatan.
 
-### OUR BIG TEAM
+##### OUR BIG TEAM
 
 ![team 1](../nyot-nyot/team1.jpg)
 

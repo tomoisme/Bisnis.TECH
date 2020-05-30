@@ -15,7 +15,7 @@ tagar:
 - peluang usaha kuliner
 - peluang bisnis kuliner
 ---
-### BANANA NUGGET JUARA
+##### BANANA NUGGET JUARA
 
 ![logo banana nugget juara](../banana-nugget/logo.jpg)
 
@@ -31,7 +31,7 @@ RAIH OMZET HINGGA 30JT SETIAP BULANNYA
 
 100% Keuntungan Milik Anda!
 
-### SPECIAL PROMO! PAKET FRANCHISE
+##### SPECIAL PROMO! PAKET FRANCHISE
 
 Harga mulai dari : 7,9Jt saja ( Khusus Bulan Ini! )
 
@@ -44,7 +44,7 @@ LEBIH DARI 300 MITRA TELAH BERGABUNG DAN SUKSES DENGAN KAMI
 Mitra kami tersebar di seluruh penjuru tanah air Indonesia, sudah terbukti Banana Nugget Juara usaha paling dicari dan bisnis yang paling menguntungkan.
 
 
-### KISAH SUKSES MITRA KAMI
+##### KISAH SUKSES MITRA KAMI
 
 ![mitra waralaba banana nugget juara](../banana-nugget/bobby.jpg)
 
@@ -64,7 +64,7 @@ Beliau ini adalah salah satu mitra muda kami yang sukses menjalankan usahanya, K
 
 Ibu Tanti sukses menembus targetnya yaitu 300 porsi dalam sehari, sudah lebih dari 3 bulan beliau mampu menjual 300-312 porsi dalam seharinya, dan kini beliau berhasil membuka satu outlet lagi di lokasi berbeda dan berjarak tidak jauh dari outlet pertamanya. Penjualan 300-312 porsi/ hari.
 
-### BERBAGAI KEUNGGULAN
+##### BERBAGAI KEUNGGULAN
 
 **1.Franchise Paling Lengkap**
 
@@ -90,7 +90,7 @@ Free ongkir khusus pengiriman franchise wilayah pulau Jawa & diskon ongkir untuk
 RASAKAN KEUNTUNGANNYA! BEST SELLER PRODUCT!
 
 
-### GALERI BANANA NUGGET JUARA LOVER
+##### GALERI BANANA NUGGET JUARA LOVER
 
 ![customer dan mitra waralaba banana nugget juara](../banana-nugget/galeri.jpg)
 
@@ -99,7 +99,7 @@ RASAKAN KEUNTUNGANNYA! BEST SELLER PRODUCT!
 
 AYO POSTING TERUS FOTOMU BERSAMA BANANA NUGGET JUARA FOTO TERBAIK AKAN KAMI REPOST DISETIAP HARINYA. #banananuggetjuara
 
-### KENAPA HARUS PILIH KAMI
+##### KENAPA HARUS PILIH KAMI
 
 ![alasan memilih franchise banana nugget juara](../banana-nugget/kenapa.jpg)
 
@@ -129,7 +129,7 @@ Kami selalu siap membantu membuat gerai Anda lebih menarik dengan desain yang fr
 BERBAGAI KEUNGGULAN 
 Banana Nugget Juara terbukti berkualitas dan berbeda dari yang lain.
 
-### PENJUALAN TERBAIK MITRA KAMI
+##### PENJUALAN TERBAIK MITRA KAMI
 
 ![mitra waralaba franchise banana nugget juara](../banana-nugget/hamam.jpg)
 
@@ -155,17 +155,17 @@ PENJUALAN 129 PORSI/ HARI
 
 PENJUALAN 130 PORSI/ HARI
 
-### TESTIMONI CHAT MITRA
+##### TESTIMONI CHAT MITRA
 
 ![testimoni waralaba banana nugget juara](../banana-nugget/testi.jpg)
 
-### BUKTI RESI PENGIRIMAN DARI EKSPEDISI TERPERCAYA
+##### BUKTI RESI PENGIRIMAN DARI EKSPEDISI TERPERCAYA
 
 ![bukti resi pengiriman waralaba banana nugget juara](../banana-nugget/resi.jpg)
 
 Beberapa bukti resi pengiriman bahan baku dan paket franchise kami, dikirim dengan ekspedisi paling terpercaya.
 
-### PILIHAN PAKET PROMO!
+##### PILIHAN PAKET PROMO!
 
 ![paket promo waralaba banana nugget juara 1](../banana-nugget/juara1.jpg)
 
@@ -199,7 +199,7 @@ LENGKAP SIAP JUALAN
 
 **MASING-MASING PAKET FRANCHISE SUDAH MENDAPATKAN 100 BAHAN BAKU FREE**
 
-### KAMI SEDIAKAN LENGKAP
+##### KAMI SEDIAKAN LENGKAP
 
 ![perlengkapan waralaba banana nugget juara ](../banana-nugget/alat.jpg)
 
@@ -224,7 +224,7 @@ Mendapatkan perlengkapan secara lengkap :
 17. Toples selai : 3 pcs
 18. Toples adonan : 1 pcs
 
-### KUALITAS BOOTH TERBAIK
+##### KUALITAS BOOTH TERBAIK
 
 * BAHAN KAYU BERKUALITAS
 
@@ -238,7 +238,7 @@ Tiang penyangga terbuat dari besi memperkuat daya sokong booth sehingga tidak mu
 
 Desain booth yang menarik dan eyecatching, mempunyai daya tarik tersendiri dan bisa menunjang penjualan Anda 
 
-### MANAGEMENT SUPPORT
+##### MANAGEMENT SUPPORT
 
 ![management waralaba banana nugget juara](../banana-nugget/team.jpg)
 
@@ -270,7 +270,7 @@ Siap mengirim ke seluruh wilayah Indonesia segala jenis pesanan mitra secara tep
 
 "TEAM YANG SIAP MEMFOLLOW UP SECARA INTENTS GUNA MENCAPAI PENJUALAN SECARA MAKSIMAL"
 
-### GRATIS BUKU PANDUAN SUKSES "Book Of Secret"
+##### GRATIS BUKU PANDUAN SUKSES "Book Of Secret"
 
 ![buku panduan waralaba banana nugget juara](../banana-nugget/buku.jpg)
 
@@ -284,7 +284,7 @@ Selain mendapatkan resep bahan baku rahasia, kami juga memiliki RESEP RAHASIA SU
 * Mingkatkan keuntungan 50% tiap bulannya
 * Penempatan lokasi paling stategis
 
-### BANDINGKAN SAJA
+##### BANDINGKAN SAJA
 
 Sudah terbukti Banana Nugget Juara paling berkualitas & beda dari yang lain
 Berikut ini adalah perbandingan kami dengan produk yang lain
@@ -306,7 +306,7 @@ Berikut ini adalah perbandingan kami dengan produk yang lain
 
 **"JELAS PALING UNGGULAN!"**
 
-### MENU BEST SELLER BANANA JUARA
+##### MENU BEST SELLER BANANA JUARA
 
 ![menu best seller waralaba banana nugget juara](../banana-nugget/menu.jpg)
 
@@ -324,7 +324,7 @@ Berikut ini adalah perbandingan kami dengan produk yang lain
 
 PILIH MENU FAVORITMU!
 
-### BAHAN BAKU KUALITAS TERBAIK & TERJANGKAU
+##### BAHAN BAKU KUALITAS TERBAIK & TERJANGKAU
 
 ![bahan baku waralaba banana nugget juara](../banana-nugget/bahan.jpg)
 
@@ -344,7 +344,7 @@ BAHAN BAKU READY STOCK UNTUK ANDA
 
 ![roi waralaba banana nugget juara](../banana-nugget/untung.jpg)
 
-### PERHITUNGAN BALIK MODAL
+##### PERHITUNGAN BALIK MODAL
 
 * Tepung Banana Nugget Juara : Rp 30.000,-(30 porsi)
 * Kemasan : Rp 1.000,-/ pcs
@@ -387,7 +387,7 @@ Jadi HPP per porsi = kurang lebih Rp 7.000/ porsi (diluar topping)
 **LABA BERSIH : RP 5.500.000,-**
 **B.E.P MODERAT : 2-3 BULAN**
 
-### KEUNGTUNGAN 100% MILIK ANDA
+##### KEUNGTUNGAN 100% MILIK ANDA
 
 ![waralaba franchise peluang usaha banana nugget juara](../banana-nugget/royalty.jpg)
 
@@ -395,7 +395,7 @@ NO ROYALTY FEE
 NO FRANCHISE FEE
 NO ADVERTISING FEE
 
-### FREQUENTLY ASKED QUESTION (FAQ)
+##### FREQUENTLY ASKED QUESTION (FAQ)
 
 Beberapa pertanyaan dari calon mitra yang sering muncul & kami senantiasa memberikan solusinya
 
@@ -444,7 +444,7 @@ M  = Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
 BN = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 10.000 s/d Rp 30.000 disesuaikan dengan daya beli disekitar outlet
 
 
-### CARA GABUNG SANGAT MUDAH
+##### CARA GABUNG SANGAT MUDAH
 
 Kami bantu memberikan pelayanan dan kemudahan terbaik bagi Anda
 
@@ -466,7 +466,7 @@ Paket tiba di lokasi tepat waktu & mitra bisa lagsung berjualan
 
 **MUDAHKAN, AYO GABUNG SEGERA!**
 
-### SYARAT & KETENTUAN
+##### SYARAT & KETENTUAN
 
 ![syarat dan ketentuan waralaba banana nugget juara](../banana-nugget/syarat.jpg)
 
@@ -485,7 +485,7 @@ Paket tiba di lokasi tepat waktu & mitra bisa lagsung berjualan
 2. Luas ukuran tempat sewa minimal sesuai dengan ukuran counter ( 120 cm x 60 cm )
 3. Karyawan
 
-### MASIH RAGU DENGAN RASANYA? COBAIN PAKET SAMPELNYA!
+##### MASIH RAGU DENGAN RASANYA? COBAIN PAKET SAMPELNYA!
 
 ![paket sampel waralaba franchise banana nugget juara](../banana-nugget/sampel.jpg)
 

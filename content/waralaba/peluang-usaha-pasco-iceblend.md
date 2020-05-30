@@ -10,19 +10,19 @@ tagar:
 - bisnis minuman
 ---
 
-### PASCO ICEBLEND
+##### PASCO ICEBLEND
 
 **workshop pembuatan booth dengan kualitas terbaik**
 
 ![booth](../pasco/booth.jpg)
 
-### PASCO LOVERS
+##### PASCO LOVERS
 
 ![lover](../pasco/lover.jpg)
 
 Passion of Chocolate since, 2010
 
-### JADILAH MITRA SUKSES PASCO SELANJUTNYA!
+##### JADILAH MITRA SUKSES PASCO SELANJUTNYA!
 
 ![irella](../pasco/irella.jpg)
 
@@ -57,7 +57,7 @@ Jadilah mitra sukses pasco ice blend selanjutnya!
 
 ![reward](../pasco/rwd.jpg)
 
-### REWARD PENJUALAN MITRA TERBAIK
+##### REWARD PENJUALAN MITRA TERBAIK
 
 ![kompetisi 1](../pasco/komp1.jpg)
 
@@ -88,7 +88,7 @@ Mendapatkan uang tunai senilai Rp 30.000.000,-
 Pemenang kompetisi penjualan periode 3 : Irela (Medan)
 
 
-### TESTIMONI & KECERIAAN PASCO LOVERS
+##### TESTIMONI & KECERIAAN PASCO LOVERS
 
 "Bahagia itu ketika kamu minum segelas Passion of Chocolate sama sahabat kamu." - Pasco Lover -
 
@@ -96,7 +96,7 @@ Pemenang kompetisi penjualan periode 3 : Irela (Medan)
 
 ![testimoni 2](../pasco/testimoni2.jpg)
 
-### DETAIL PRODUK PASCO
+##### DETAIL PRODUK PASCO
 
 Ice Pasco merupakan pioneer ice blend di Indonesia, berdiri sejak tahun 2010 dan satu-satunya produk di bidang ice blend yang terus berinovasi dan selalu meningkatkan kualitas pelayanan kepada mitra hingga saat ini.
 
@@ -121,14 +121,14 @@ Dengan harga yang sangat terjangkau sudah bisa mendapatkan booth dengan kualitas
 
 ![cara](../pasco/cara.jpg)
 
-### CARA PEMBUATAN MUDAH
+##### CARA PEMBUATAN MUDAH
 
 * Sediakan es batu
 * Sediakan air mineral
 * Seduhkan 1 bubuk Pasco
 * Tuangkan Pasco
 
-### RINCIAN UNTUK SETIAP CUPNYA
+##### RINCIAN UNTUK SETIAP CUPNYA
 
 ![rinci](../pasco/rinci.jpg)
 
@@ -140,7 +140,7 @@ Untuk setiap cup paket pasco yang didapat antara lain :
 * Cokalat serut
 * Choco chip
 
-### PILIHAN MENU ES PASCO
+##### PILIHAN MENU ES PASCO
 
 ![menu](../pasco/menu.jpg)
 
@@ -158,7 +158,7 @@ Untuk setiap cup paket pasco yang didapat antara lain :
 **GREEN POTION**
 **POLICE MOCCA**
 
-### PILIHAN PAKET FRANCHISE
+##### PILIHAN PAKET FRANCHISE
 
 ![paket tanpa booth](../pasco/tanpa-booth.jpg)
 
@@ -177,7 +177,7 @@ Dari harga 12jt diskon menjadi 8jt saja!
 Mendapatkan semua paket perlengkapan lengkap. GRATIIISSS. 300 Bahan Baku + GRATIS BLENDER. Outlet siap buka!
 
 
-### PERLENGKAPAN YANG DIDAPAT
+##### PERLENGKAPAN YANG DIDAPAT
 
 ![alat](../pasco/alat.jpg)
 
@@ -201,7 +201,7 @@ Mendapatkan semua paket perlengkapan lengkap. GRATIIISSS. 300 Bahan Baku + GRATI
 18. Sendok topping : 1 buah
 19. Co card 2 buah
 
-### MAU GABUNG SANGAT MUDAH
+##### MAU GABUNG SANGAT MUDAH
 
 ![gabung](../pasco/gabung.jpg)
 
@@ -209,13 +209,13 @@ Mendapatkan semua paket perlengkapan lengkap. GRATIIISSS. 300 Bahan Baku + GRATI
 **DEAL & TRANSFER**
 **KIRIM, SIAP JUALAN**
 
-### ORDER BUBUK LAGI? GAMPANG...
+##### ORDER BUBUK LAGI? GAMPANG...
 
 **1. Pesan ke Customer Service**
 **2. Pesanan dikirim**
 **3. Stock aman, jualan tetap jalan**
 
-### PERHITUNGAN R.O.I
+##### PERHITUNGAN R.O.I
 
 **ROI Penjualan Umum**
 
@@ -238,13 +238,13 @@ LABA BERSIH Rp 7.320.000,-
 
 B.E.P : 2 BULAN
 
-### BUKTI PENGIRIMAN
+##### BUKTI PENGIRIMAN
 
 ![kirim](../pasco/kirim.jpg)
 
 Pengiriman dikirim dengan ekspedisi terpercaya
 
-### PAKET SAMPLE 
+##### PAKET SAMPLE 
 
 **Paket Sample List :**
 
@@ -259,7 +259,7 @@ HARGA BELUM TERMASUK ONGKIR
 ![sample](../pasco/sample.jpg)
 
 
-### PANDUAN SUKSES GRATIIISS
+##### PANDUAN SUKSES GRATIIISS
 
 Kami memiliki rahasia dibalik kesuksesan untuk Anda!
 
@@ -270,7 +270,7 @@ Kami memiliki rahasia dibalik kesuksesan untuk Anda!
 
 ![buku](../pasco/buku.jpg)
 
-### DAPAT GRAATISS VIDEO CARA SUKSES
+##### DAPAT GRAATISS VIDEO CARA SUKSES
 
 Dapatkan VIDEO CD TALKSHOW SUKSES PASCO "FREE" :
 
@@ -281,7 +281,7 @@ Dapatkan VIDEO CD TALKSHOW SUKSES PASCO "FREE" :
 
 ![video](../pasco/video.jpg)
 
-### TEAM FOLLOW UP 
+##### TEAM FOLLOW UP 
 
 ![team 1](../pasco/team1.jpg)
 
@@ -310,7 +310,7 @@ Untuk sharing antar mitra
 ![team 2](../pasco/team2.jpg)
 
 
-### PASCO ARTIST
+##### PASCO ARTIST
 
 ![eddi brokoli](../pasco/eddi.jpg)
 
@@ -324,13 +324,13 @@ Aktor yang dikenal luas dengan nama Eddi Brokoli ini memulai karier dengan ikut 
 
 Band Pop Punk asal Bandung, ROCKET ROCKERS menyempatkan diri mengunjungi outlet pusat Pasco. Serangkaian event yang diselanggarakan oleh Pasco Pusat. ROCKET ROCKERS tampil pada event Pasco "Colour is Fun" ( April 2014 ).
 
-### PASSION OF WORKSHOP
+##### PASSION OF WORKSHOP
 
 Demi menunjang kelancaran usaha mitra kami memiliki workshop sendiri 
 
 ![workshop](../pasco/workshop.jpg)
 
-### PASSION OF GATHERING
+##### PASSION OF GATHERING
 
 ![gathering semarang](../pasco/gat-semarang.jpg)
 
@@ -369,7 +369,7 @@ Keseruan kumpul-kumpul dan sharing antara mitra Pasco yang berada di wilayah Pur
 Keseruan kumpul-kumpul dan sharing antara mitra Pasco yang berada di wilayah Solo. Mereka mengikuti berbagai talkshow yang bermanfaat untuk meningkatkan sales serta perkembangan outlet. Tentunya acara ini sangat disambut baik dan diikuti dengan antusias mitra yang sangat tinggi.
 
 
-### PERSYARATAN & FASILITAS UNTUK MITRA PASCO
+##### PERSYARATAN & FASILITAS UNTUK MITRA PASCO
 
 **SYARAT**
 
@@ -390,7 +390,7 @@ Keseruan kumpul-kumpul dan sharing antara mitra Pasco yang berada di wilayah Sol
 
 3. Karyawan
 
-### F.A.Q
+##### F.A.Q
 
 Beberapa pertanyaan dari calon mitra yang sering muncul & kami senantiasa memberikan solusinya
 
@@ -438,7 +438,7 @@ M  = Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
 
 P = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 5.000 s/d Rp 8.000 disesuaikan dengan daya beli disekitar outlet
 
-### PASSION OF TEAM
+##### PASSION OF TEAM
 
 **CREATING A GOOD LIFE**
 
@@ -465,7 +465,7 @@ April 27-28, 2013 / Lawu Resort ( camp, music, etc )
 
 ![pasco team 3](../pasco/pasco-team3.jpg)
 
-### SUSAH & SENANG BERSAMA
+##### SUSAH & SENANG BERSAMA
 
 ![senang 1](../pasco/senang1.jpg)
 

@@ -15,7 +15,7 @@ tagar:
 - peluang usaha kuliner
 - peluang bisnis kuliner
 ---
-### 48 ICE BLEND 
+##### 48 ICE BLEND 
 
 ![waralaba minuman 48 ice blend](../48-ice-blend/waralaba-minuman-48-ice-blend.jpg)
 
@@ -35,7 +35,7 @@ PAKET PROMO BERLAKU S/D 12 OKTOBER UNTUK 10 PENDAFTAR PERTAMA!
 HARGA HANYA 8,5JT SAJA UNTUK PAKET A DAN PAKET B
 MENDAPATKAN SEMUA PERALATAN LENGKAP DAN GRATIS 300 BAHAN BAKU
 
-### KISAH-KISAH KESUKSESAN MITRA 48 ICE BLEND
+##### KISAH-KISAH KESUKSESAN MITRA 48 ICE BLEND
 
 ![peluang usaha ice blend ](../48-ice-blend/nurmala.jpg)
 
@@ -61,11 +61,11 @@ Beliau mulai bergabung dengan 48 Ice Blend mulai tanggal 11 September awalnya be
 
 Ibu Eka merupakan mitra sukses 48 ice blend yang berasal dari Mamuju, Sulawesi Utara. Beliau tergolong mitra yang masih baru bergabung, namun penjualan ibu Eka terus meningkat tiap bulannya sehingga ibu Eka bisa membeli peralatan blender baru, mesin serut es batu dan juga sudah melakukan pembaharuan gerai.
 
-### 48 ICE BLEND BERBAGI KECERIAAN
+##### 48 ICE BLEND BERBAGI KECERIAAN
 
 ![galeri waralaba forthy eight ice blend](../48-ice-blend/galeri.jpg)
 
-### MAU TAU? KEUNGGULAN 48 ICE BLEND
+##### MAU TAU? KEUNGGULAN 48 ICE BLEND
 
 **BOOTH DESIGN**
 
@@ -83,17 +83,17 @@ Kami selalu menjaga kualitas rasa dan juga kesterilan bahan baku dengan mengguna
 
 Kemasan bahan baku nunuk menggunakan plastik kualitas tinggi dan tidak mudah bocor serta rusak.
 
-### BAHAN BAKU KUALITAS HOTEL BINTANG 5
+##### BAHAN BAKU KUALITAS HOTEL BINTANG 5
 
 ![bahan baku waralaba 48 ice blend](../48-ice-blend/kualitas.jpg)
 
 KUALITAS HOTEL BINTANG LIMA MEMBUAT FORTY EIGHT ICE BLEND MENJADI MINUMAN ICE BLEND TERBAIK.
 
-### MITRA PENJUALAN TERBAIK MENDAPAT REWARDS JALAN-JALAN KE SINGAPORE
+##### MITRA PENJUALAN TERBAIK MENDAPAT REWARDS JALAN-JALAN KE SINGAPORE
 
 ![reward jalan jalan franchise 48 ice blend](../48-ice-blend/reward.jpg)
 
-### PILIHAN MENU 48 ICE BLEND VARIATIF 
+##### PILIHAN MENU 48 ICE BLEND VARIATIF 
 
 ![menu wralaba franchise 48 ice blend](../48-ice-blend/menu.jpg)
 
@@ -141,11 +141,11 @@ Perpaduan antara flavour kopi hitam dan coklat dengan takaran yang "pas".
 
 Sweet Taro merupakan varian rasa baru, berasal dari talas murni yang memberikan rasa manis dan nikmat.
 
-### TESTIMONIAL DAN KOMENTAR TENTANG 46 ICE BLEND
+##### TESTIMONIAL DAN KOMENTAR TENTANG 46 ICE BLEND
 
 ![testimoni waralaba 48 ice blend](../48-ice-blend/testi.jpg)
 
-### DAPATKAN BOOK OF SECRET GRATIS!
+##### DAPATKAN BOOK OF SECRET GRATIS!
 
 ![buku sukses penjualan](../48-ice-blend/buku.jpg)
 
@@ -156,7 +156,7 @@ Sweet Taro merupakan varian rasa baru, berasal dari talas murni yang memberikan 
 * Penjualan 120 hanya dalam 2 Jam
 * Mendapatkan B.E.P kurang dari 1 bulan
 
-### PERHITUNGAN BALIK MODAL CEPAT!
+##### PERHITUNGAN BALIK MODAL CEPAT!
 
 **RETURN OF INVESMENT (ROI)**
 
@@ -176,9 +176,9 @@ TOTAL BIAYA OPERASIONAL : RP 2.400.000,-
 
 **LABA BERSIH : RP 5.160.000,-**
 
-### B.E.P : 2 - 3 BULAN
+##### B.E.P : 2 - 3 BULAN
 
-### HARGA BAHAN BAKU 
+##### HARGA BAHAN BAKU 
 
 **RINCIAN HARGA**
 
@@ -187,7 +187,7 @@ TOTAL BIAYA OPERASIONAL : RP 2.400.000,-
 * SEDOTAN : RP 40,-
 * TOPPING : RP 200,-
 
-### PAKET USAHA TERBAIK
+##### PAKET USAHA TERBAIK
 
 ![paket a waralaba 48 ice blend](../48-ice-blend/paketa.jpg)
 
@@ -223,7 +223,7 @@ Dari harga 8 jt diskon jadi 6 jt saja
 
 * Paket C hanya mendapatkan sticker ( paket tanpa booth )
 
-### MENDAPATKAN PERALATAN LENGKAP
+##### MENDAPATKAN PERALATAN LENGKAP
 
 ![peralatan franchise 48 ice blend](../48-ice-blend/alat.jpg)
 
@@ -246,13 +246,13 @@ Dari harga 8 jt diskon jadi 6 jt saja
 * 17. Sendok Topping 1 buah
 * 18. SOP CD ( Cara Pembuatan ) 1 buah
 
-### 48 ICE BLEND PAKET SAMPLE
+##### 48 ICE BLEND PAKET SAMPLE
 
 ![paket sample waralaba 48 ice blend](../48-ice-blend/sample.jpg)
 
 RP 100.000,- *BELUM TERMASUK ONGKIR
 
-### KAMI MEMBERIKAN KEMUDAHAN UNTUK BERGABUNG
+##### KAMI MEMBERIKAN KEMUDAHAN UNTUK BERGABUNG
 
 Kami memberikan pelayanan dan kemudahan terbaik bagi Anda
 
@@ -272,7 +272,7 @@ Paket akan kami kirimkan segera secara cepat agar bisa tiba ditempat dengan wakt
 
 Paket tiba di lokasi tepat waktu & mitra bisa langsung berjualan.
 
-### SIKLUS PEMESANAN BAHAN BAKU
+##### SIKLUS PEMESANAN BAHAN BAKU
 
 ![bahan baku waralaba 48 ice blend](../48-ice-blend/bahan1.jpg)
 
@@ -298,15 +298,15 @@ Team prosuksi menerima pemesanan.
 
 Bahan baku dikirimkan ke alamat lokasi mitra.
 
-### TEAM MANAGEMENT GATHERING DENGAN MITRA
+##### TEAM MANAGEMENT GATHERING DENGAN MITRA
 
 ![gathering waralaba 48 ice blend](../48-ice-blend/gathering.jpg)
 
-### WORKSHOP 48 ICE BLEND
+##### WORKSHOP 48 ICE BLEND
 
 ![workshop waralaba 48 ice blend](../48-ice-blend/workshop.jpg)
 
-### PERSYARATAN MENJADI MITRA 
+##### PERSYARATAN MENJADI MITRA 
 
 **SYARAT**
 
@@ -325,7 +325,7 @@ Bahan baku dikirimkan ke alamat lokasi mitra.
 
 ![customer waralaba 48 ice blend](../48-ice-blend/syarat .jpg)
 
-### TEAM MANAGEMENT 48 ICE BLEND
+##### TEAM MANAGEMENT 48 ICE BLEND
 
 ![team management 48 ice blend](../48-ice-blend/team.jpg)
 
@@ -351,7 +351,7 @@ Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready s
 
 Siap mengirim paket mitra tiba di lokasi dengan tepat waktu
 
-### FAQ PERTANYAAN CALON MITRA
+##### FAQ PERTANYAAN CALON MITRA
 
 Beberapa pertanyaan umum yang sering dilontarkan oleh calon pembeli franchise atau waralaba 48 Ice Blend
 M  = Bagaimana menjadi mitra 48 Ice Blend?

@@ -16,7 +16,7 @@ tagar:
 - bisnis minuman
 - peluang usaha minuman
 ---
-### MONSTER ICE BLEND
+##### MONSTER ICE BLEND
 
 ![logo](../monster-ice-blend/logo.jpg)
 
@@ -36,7 +36,7 @@ Gratis 300 bahan baku
 
 Promo berlaku sampai 5 November
 
-### NEW SEASON CONCEPT
+##### NEW SEASON CONCEPT
 
 ![season](../monster-ice-blend/season.jpg)
 
@@ -44,7 +44,7 @@ Monster Ice Blend hadir dengan tampilan desain baru yang lebih lucu. Konsep desa
 
 The Best Ice Blend In The Town Since 2015
 
-### KISAH MITRA SUKSES MONSTER ICE BLEND
+##### KISAH MITRA SUKSES MONSTER ICE BLEND
 
 ![ayu](../monster-ice-blend/ayu.jpg)
 
@@ -66,7 +66,7 @@ Pak Randy mendapatkan penjualan tertinggi hingga 200 cup/ hari dengan rata-rata 
 
 Nuresky mendapatkan penjualan 50-70cup perhari, dari keuntungan penjualan yang beliau dapat dikumpulkan untuk biaya perjalanan umroh kedua orang tuanya. Sungguh perbuatan yang berbakti dan mulia!
 
-### HELLO WE ARE MONSTER ICE BLEND!!!
+##### HELLO WE ARE MONSTER ICE BLEND!!!
 
 **!CAUTION THIS DRINK EFFECT!**
 
@@ -76,7 +76,7 @@ CALM, AWESOME, MYSTERIOUS, CRAZY, SMILE, HAPPINESS, COOL, SMART
 
 **SUDAH RATUSAN MITRA BERGABUNG DAN SUKSES BERSAMA MONSTER ICE BLEND**
 
-### KELEBIHAN MONSTER ICE BLEND
+##### KELEBIHAN MONSTER ICE BLEND
 
 **NEW! EKSLUSIVE BOOTH**
 
@@ -94,7 +94,7 @@ Hak kepemilikan paket usaha sepenuhnya milik mitra, tanpa ada sistem rolalti fee
 
 Kami memiliki service 24 jam untuk para mitra monster untuk mencapai targetnya.
 
-### STOCK BAHAN BAKU MURAH MELIMPAH
+##### STOCK BAHAN BAKU MURAH MELIMPAH
 
 ![stock](../monster-ice-blend/stock.jpg)
 
@@ -104,17 +104,17 @@ Kami menjual lebih dari 20.000 bubuk setiap harinya. Kami memiliki stock bahan b
 
 Harga Bahan Baku RP. 3.400,- Murahkan? (harga update NOV 2018)
 
-### GALERI CUSTOMER DAN MITRA MONSTER ICE BLEND
+##### GALERI CUSTOMER DAN MITRA MONSTER ICE BLEND
 
 ![galeri 1](../monster-ice-blend/galeri1.jpg)
 
-### TESTIMONI MITRA MONSTER ICE BLEND
+##### TESTIMONI MITRA MONSTER ICE BLEND
 
 ![testimoni](../monster-ice-blend/testi.jpg)
 
 **"CERIAKAN HARIMU BERSAMA MONSTER ICE BLEND"**
 
-### SPECIAL MENU MONSTER ICE BLEND
+##### SPECIAL MENU MONSTER ICE BLEND
 
 ![menu](../monster-ice-blend/menu.jpg)
 
@@ -132,7 +132,7 @@ Harga Bahan Baku RP. 3.400,- Murahkan? (harga update NOV 2018)
 
 **"TEMUKAN RASA MONSTER ICE BLEND FAVORITMU"**
 
-### PAKET USAHA MENGUNTUNGKAN
+##### PAKET USAHA MENGUNTUNGKAN
 
 ![paket special](../monster-ice-blend/paket-special.jpg)
 
@@ -154,7 +154,7 @@ GRATIS 300 BAHAN BAKU
 
 DARI HARGA 8JT DISKON JADI 6JT SAJA
 
-### DAPATKAN PERLENGKAPAN PENJUALAN
+##### DAPATKAN PERLENGKAPAN PENJUALAN
 
 1. Booth/ gerobak (paket booth) : 1 buah
 2. Blender : 1 buah
@@ -175,7 +175,7 @@ DARI HARGA 8JT DISKON JADI 6JT SAJA
 17. Sendok topping : 1 buah 
 18. CD SOP (cara pembuatan) : 1 buah
 
-### PAKET SAMPLE MONSTER ICE BLEND
+##### PAKET SAMPLE MONSTER ICE BLEND
 
 ![sample](../monster-ice-blend/sample.jpg)
 
@@ -187,7 +187,7 @@ Lengkap dengan CD SOP ( cara pembuatan )
 
 PESAN SEKARANG JUGA!
 
-### R.O.I  PERHITUNGAN BALIK MODAL
+##### R.O.I  PERHITUNGAN BALIK MODAL
 
 **ANALISA ROI BERDASARKAN OUTLET YANG BUKA DI DEKAT SEKOLAHAN.**
 
@@ -219,7 +219,7 @@ NB untuk pembelian bahan baku ( kuning )
 
 B.E.P 1-2 BULAN
 
-### AGEN PENGIRIMAN TERPERCAYA
+##### AGEN PENGIRIMAN TERPERCAYA
 
 ![kirim](../monster-ice-blend/kirim.jpg)
 
@@ -227,35 +227,35 @@ B.E.P 1-2 BULAN
 
 Anda tidak perlu khawatir akan perngriman kami menggunakan agen pengiriman terpecaya, siap untuk mengirim pesanan mitra Monster Ice Blend. 
 
-### MUDAHNYA ORDER BUBUK
+##### MUDAHNYA ORDER BUBUK
 
 ![order](../monster-ice-blend/order.jpg)
 
-### 1. 
+##### 1. 
 
 * Mitra menghubungi customer service 
 * Memberikan rincian pemesanan bahan baku
 * Melakukan pembayaran
 * Jika pembayaran bahan baku bubuk dilakukan sebelum pukul 10.30 maka bahan baku yang dipesan dikirim hari itu juga
 
-### 2. 
+##### 2. 
 
 * Customer service melayani pemesanan bubuk 24 jam
 * CS memberikan rincian jumlah pembayaran 
 * Memberi informasi mengenai pengiriman dan estimasi lama pengiriman
 
-### 3. 
+##### 3. 
 
 * Pengiriman dilakukan melalui jalur darat, udara dan laut
 * Estimasi pengiriman rata-rata sekitar 3-4 hari sesuai dengan jauhnya jarak tempuh lokasi dimana mitra berada
 
-### 4.
+##### 4.
 
 * Team produksi melakukan check list pemesanan mitra 
 * Barang yang siap diangkut oleh team ekspedisi cargo Monster Ice Blend
 * Mitra yang sudah melakukan pembayaran, barang pesanan langsung dikirim menggunakan ekspedisi khusus
 
-### SYARAT MENJADI  MITRA
+##### SYARAT MENJADI  MITRA
 
 ![syarat](../monster-ice-blend/syarat.jpg)
 
@@ -276,7 +276,7 @@ Anda tidak perlu khawatir akan perngriman kami menggunakan agen pengiriman terpe
 
 3. Karyawan/Staff
 
-### KENAPA MEMILIH MONSTER SERVICE ORIENTED
+##### KENAPA MEMILIH MONSTER SERVICE ORIENTED
 
 ![iceblend](../monster-ice-blend/iceblend.jpg)
 
@@ -290,7 +290,7 @@ Anda tidak perlu khawatir akan perngriman kami menggunakan agen pengiriman terpe
 * Customer service yang mensupport mitra selama 24 jam
 * Free design untuk kebutuhan promosi mitra
 
-### JOIN BARENG MONSTER ICE BLEND
+##### JOIN BARENG MONSTER ICE BLEND
 
 ![join 1](../monster-ice-blend/j1.jpg)
 
@@ -308,17 +308,17 @@ Anda tidak perlu khawatir akan perngriman kami menggunakan agen pengiriman terpe
 
 **4. Setelah sampai, mitra sudah bisa langsung berjualan monster ice blend.**
 
-### MANAGEMENT & WORKSHOP MONSTER ICE BLEND
+##### MANAGEMENT & WORKSHOP MONSTER ICE BLEND
 
 ![team](../monster-ice-blend/team.jpg)
 
-### MITRA GATHERING
+##### MITRA GATHERING
 
 ![gathering](../monster-ice-blend/gathering.jpg)
 
 **JOGJAKARTA-INDONESIA**
 
-### GERAI SELALU RAMAI
+##### GERAI SELALU RAMAI
 
 ![galeri 2](../monster-ice-blend/galeri2.jpg)
 

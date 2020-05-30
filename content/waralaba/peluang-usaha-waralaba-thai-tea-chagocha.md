@@ -15,7 +15,7 @@ tagar:
 - peluang usaha kuliner
 - peluang bisnis kuliner
 ---
-### CHAGOCHA
+##### CHAGOCHA
 
 ![promo](../chagocha/promo.jpg)
 
@@ -27,11 +27,11 @@ Franchise Thai Tea Paling Murah Tahun 2018
 PROMO BERLAKU HINGGA 31 DESEMBER 
 
 
-### Tentang Kami
+##### Tentang Kami
 
 Berawal dari usaha kecil yang menempati garasi kecil, dengan konsep gerobakan inilah awal Chagocha muncul. Dengan tujuan ingin mengembangkan lapangan pekerjaan, Chagocha mengembangkan konsep kemitraan yang bisa dimiliki setiap orang yang ingin memulai bisnis thai tea dengan modal yang murah dan terbukti menghasilkan dengan resiko yang sangat rendah. Melalui hasil trial and error yang telah kami jalani sampai menghasilkan produk dengan kualitas tinggi dan harga termurah tentunya akan sangat memudahkan Anda apabila join dengan usaha waralaba franchise Chagocha.
 
-### Mengapa Harus Kami?
+##### Mengapa Harus Kami?
 
 * SOP simple dan mudah dipahami.
 
@@ -43,7 +43,7 @@ Berawal dari usaha kecil yang menempati garasi kecil, dengan konsep gerobakan in
 
 * Disupport oleh tim yang ramah dan selalu siap membantu mitra.
 
-### Varian Menu Chagocha
+##### Varian Menu Chagocha
 
 ![menu waralaba franchise chagocha](../chagocha/menu.jpg)
 
@@ -57,12 +57,12 @@ Berawal dari usaha kecil yang menempati garasi kecil, dengan konsep gerobakan in
 * Coffee Milo 
 * Thai Strawberry
 
-### Segmentasi Pasar
+##### Segmentasi Pasar
 
 Segmentasi pasa Chagocha menjangkau seluruh lapisan masyarakat dari tingkat ekonomi rendah, menengah, hingga atas. Berbagai kalangan usia anak-anak, remaja sampai dewasa pun menyukai rasa dari Chagocha. Ini merupakan peluang usaha yang bagus dan sangat menjanjikan.
 Sedangkan untuk lokasi yang potensial adalah di pasar, kampus, sekolahan, perumahan, perkantoran, pabrik, rumah sakit, kantin, mini market, pusat perbelanjaan/ mall, food court, bazaar, children game area, tempat hiburan dan lokasi ramai lainnya.
 
-### Benefit Memilih Chagocha
+##### Benefit Memilih Chagocha
 
 **Profesional**
 
@@ -89,7 +89,7 @@ Produk kami telah dipercaya oleh banyak mitra di seluruh Indonesia  dan telah me
 Anda akan merasakan keuntungan bisnis secara maksimal karena 100% keuntungan milik mitra karena tidak ada royalty fee bulanan.
 
 
-### Fasilitas yang Anda Dapatkan
+##### Fasilitas yang Anda Dapatkan
 
 ![peralatan lengkap franchise waralaba thai tea chagocha](../chagocha/alat.jpg)
 
@@ -129,7 +129,7 @@ Anda akan merasakan keuntungan bisnis secara maksimal karena 100% keuntungan mil
 1. Kaos ungu
 2. X-Banner
 
-### Asumsi Perhitungan BALIK MODAL
+##### Asumsi Perhitungan BALIK MODAL
 
 **Untung Gede**
 
@@ -154,7 +154,7 @@ Profit Bersih
 
 100% KEUNTUNGAN MILIK ANDA - BALIK MODAL 1 BULAN
 
-### Paket Franchise Chagocha
+##### Paket Franchise Chagocha
 
 ![paket silver waralaba thai tea chagocha](../chagocha/paket-silver.jpg)
 
@@ -190,11 +190,11 @@ PROMO BERLAKU HINGGA 31 DESEMBER
 
 **TAMBAH 1 JUTA DAPAT TENDA**
 
-### TESTIMONI MITRA
+##### TESTIMONI MITRA
 
 ![testimoni peluang usaha waralaba franchise thai tea chagocha](../chagocha/testi.jpg)
 
-### SUDAH SIAP SUKSES?
+##### SUDAH SIAP SUKSES?
 
 **3 Langkah Sukses Jadi Mitra**
 

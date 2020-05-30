@@ -11,7 +11,7 @@ tagar:
 - franchise makanan
 ---
 ![logo tahu gila](../tahu-gila/logo-tahu-gila.jpg)
-### TAHU GILA
+##### TAHU GILA
 Siapa sih di negri Ibu pertiwi Indonesia ini yang tidak suka makan tahu. Tahu sudah menjadi makanan yang sangat merakyat dan dicintai oleh berbagai kalangan masyarakat, mulai dari kalangan bawah hingga kalangan atas.
 Sudah coba belum racikan Tahu yang kekinian, tahu yang satu ini bukan sembarang tahu, tapi GILA enaknya juga GILA banget bisnisnya!
 
@@ -22,7 +22,7 @@ Dengan menghadirkan berbagai Inovasi baru dari desain dan rasa demi membantu men
 PELUANG USAHA PALING MENGUNTUNGKAN!
 100% KEUNTUNGAN MILIK ANDA!
 
-### KISAH SUKSES MITRA
+##### KISAH SUKSES MITRA
 
 ![radit](../tahu-gila/radit.jpg)
 
@@ -84,12 +84,12 @@ Melalui proses jatuh bangun yang sulit mitra kami asal Sangata yakni Imam Maksum
 
 ![testimoni](../tahu-gila/testimoni.jpg)
 
-### BUKTI REAL TESTIMONY
+##### BUKTI REAL TESTIMONY
 Berikut ini adalah beberapa screenshot dari whatsapp antara team support Tahu Gila dengan mitra yang menyatakan kepuasannya.
 
 ![waralaba tahu gila](../tahu-gila/waralaba-tahu-gila.jpg)
 
-### KEUNGGULAN TAHU GILA
+##### KEUNGGULAN TAHU GILA
 
 1. INVESTASI TERJANGKAU
 2. FRANCHISE SEUMUR HIDUP
@@ -110,7 +110,7 @@ Racikan varian rasa bumbu buatan chef bintang lima, bumbu yang berkualitas sanga
 
 ![penghargaan](../tahu-gila/penghargaan.jpg)
 
-### PENGHARGAAN
+##### PENGHARGAAN
 
 Dalam kurun waktu kurang dari 3 tahun, Tahu Gila berhasil menyita hati masyarakat Indonesia dengan membuktikan adanya 4 penghargaan yang diraih. Ini adalah suatu bukti bahwa Tahu Gila satu-satunya produk yang sangat menjanjikan.
 
@@ -118,21 +118,21 @@ TERBUKTI TAHU GILA KUALITAS UNGGULAN!
 
 ![outlet tahu gila](../tahu-gila/outlet-tahu-gila.jpg)
 
-### GALERI TAHU GILA
+##### GALERI TAHU GILA
 
 INDONESIA BEST FRANCHISE!
 
 ![customer-tahu-gila](../tahu-gila/customer-tahu-gila.jpg)
 
-### TAHU GILA CHALLENGE
+##### TAHU GILA CHALLENGE
 
-### CARA PEMBUATAN MUDAH
+##### CARA PEMBUATAN MUDAH
 
 Tidak usah bingung dengan cara membuat Tahu Gila karena kami mempunyai CD yang berisi file video cara pembuatan yang sangat mudah sekali untuk dipelajari & dipahami.
 SANGAT MUDAH & SIMPEL BUKAN?
 
 
-### MENU VARIANT TAHU GILA
+##### MENU VARIANT TAHU GILA
 
 ![new menu 1](../tahu-gila/new-menu-1.jpg)
 
@@ -154,7 +154,7 @@ SANGAT MUDAH & SIMPEL BUKAN?
 * KARI AYAM
 * BLACK PEPPER
 
-### PROMO PAKET FRANCHISE TAHU GILA
+##### PROMO PAKET FRANCHISE TAHU GILA
 
 ![paket tenda](../tahu-gila/paket-tenda.jpg)
 
@@ -212,7 +212,7 @@ Free design bagi semua mitra untuk meningkatkan penjualan
 Kami selalu memberikan yang terbaru dan terbaik untuk mitra Tahu Gila agar penjualan semakin meningkat.
 
 
-### RAHASIA DIBALIK KESUKSESAN
+##### RAHASIA DIBALIK KESUKSESAN
 
 **FREE BOOK OF SECRET**
 
@@ -235,7 +235,7 @@ Majalah Tahu Gila yang berisi strategi penjualan, mitra terbaik kami, tips dan t
 * Khusus untuk mitra Tahu Gila
 
 
-### PERBANDINGAN DENGAN PRODUK LAIN
+##### PERBANDINGAN DENGAN PRODUK LAIN
 
 **TAHU GILA**
 
@@ -254,7 +254,7 @@ Majalah Tahu Gila yang berisi strategi penjualan, mitra terbaik kami, tips dan t
 
 ![team tahu gila](../tahu-gila/team-tahu-gila.jpg)
 
-### TEAM TAHU GILA 
+##### TEAM TAHU GILA 
 
 * MARKETING
 
@@ -278,7 +278,7 @@ Siap mengirim paket mitra tiba di lokasi dengan tepat waktu
 
 Team management yang bersifat profesional, solid, SDM terbaik dan senantiasa melayani mitra dengan sepenuh hati karena Anda adalah prioritas kami
 
-### FREQUENTLY ASKED QUESTION
+##### FREQUENTLY ASKED QUESTION
 
 M  = Bagaimana menjadi mitra Tahu Gila?
 
@@ -324,7 +324,7 @@ M  = Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
 
 TG = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 4.000 s/d Rp 6.000 disesuaikan dengan daya beli disekitar outlet
 
-### RETURN OF INVESTMENT
+##### RETURN OF INVESTMENT
 
 * Tahu ( disediakan mitra ) : Rp 1.000,-
 * Tepung, bumbu, kemasan : Rp 1.900,-
@@ -356,7 +356,7 @@ BEP 3-4 Bulan
 
 CARA GABUNG SANGAT MUDAH!
 
-### CARA & SYARAT GABUNG
+##### CARA & SYARAT GABUNG
 
 **SYARAT BERGABUNG MENJADI MITRA TAHU GILA :**
 
@@ -367,7 +367,7 @@ CARA GABUNG SANGAT MUDAH!
 5. Bersedia menaati peraturan yang ada dalam surat kerja sama
 6. Wajib membeli bahan baku dari pusat
 
-### FASILITAS YANG DIBUTUHKAN :
+##### FASILITAS YANG DIBUTUHKAN :
 
 1. Lokasi berada di tempat strategis : didepan pusat keramaian /didepan sekolah - sekolah menengah keatas, kampus atau mini market
 
@@ -384,13 +384,13 @@ CARA GABUNG SANGAT MUDAH!
 * Paket sudah lengkap, ketika sudah sampai di lokasi, mitra bisa langsung berjualan
 
 
-### WORKSHOP
+##### WORKSHOP
 
 Booth yang berbahan baku dasar kayu pallet kualitas unggul, dikerjakan oleh tenaga ahli profesional sehingga menghasilkan booth dengan ketahanan yang lama dan eyecatching.
 
 ![workshop](../tahu-gila/workshop.jpg)
 
-### PAKET SAMPLE 
+##### PAKET SAMPLE 
 
 TERSEDIA JUGA PAKET SAMPLE TAHU GILA!
 

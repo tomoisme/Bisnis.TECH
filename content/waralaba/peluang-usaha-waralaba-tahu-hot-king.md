@@ -14,7 +14,7 @@ tagar:
 - peluang usaha kuliner
 - peluang bisnis kuliner
 ---
-### TAHU HOT KING
+##### TAHU HOT KING
 
 ![logo](../tahu-hot-king/logo.jpg)
 
@@ -31,7 +31,7 @@ Raih sukses bersama Tahu Hot King
 
 ![instro 2](../tahu-hot-king/intro2.jpg)
 
-### NEW VARIAN BUBUK
+##### NEW VARIAN BUBUK
 
 Inovasi baru kami hadirkan untuk membantu menunjang penjualan mitra kami.
 
@@ -54,7 +54,7 @@ Varian bubuk rasa best seller kami hadirkan untuk Anda!
 
 ![waralaba tahu hot king](../tahu-hot-king/waralaba-tahu-hot-king.jpg)
 
-### PROMO PAKET BOOTH EKSLUSIF
+##### PROMO PAKET BOOTH EKSLUSIF
 
 DARI HARGA 10JT DISKON JADI 7,9JT SAJA
 
@@ -62,7 +62,7 @@ LENGKAP SIAP JUALAN
 
 Masih ada pilihan paket franchise Tahu Hot King lainnya. Cek di bawah yaa. Dapatkan juga promo menarik mulai dari GRATIS ONGKIR hingga GRATIS BAHAN BAKU.
 
-### SUDAH TERBUKTI SANGAT MENGUNTUNGKAN
+##### SUDAH TERBUKTI SANGAT MENGUNTUNGKAN
 
 TERBUKTI MENGUNTUNGKAN 
 
@@ -72,7 +72,7 @@ LEBIH DARI 300 MITRA TELAH SUKSES BERGABUNG DENGAN KAMI
 
 ![300 mitra](../tahu-hot-king/300mitra.jpg)
 
-### KISAH SUKSES MITRA TAHU HOT KING
+##### KISAH SUKSES MITRA TAHU HOT KING
 
 ![elizabeth](../tahu-hot-king/eliza.jpg)
 
@@ -92,7 +92,7 @@ Salah satu mitra muda kami asal Limbung, Sulsel ini mampu menjual kurang lebih 1
 
 **GABUNG SEGERA!**
 
-### BERBAGAI KEUNGGULAN
+##### BERBAGAI KEUNGGULAN
 
 ![u1](../tahu-hot-king/u1.jpg)
 
@@ -122,18 +122,18 @@ Free ongkir khusus pengiriman franchise wilayah pulau Jawa & diskon ongkir untuk
 
 **MASIH BANYAK LAGI KEUNGGULAN LAINNYA!**
 
-### GALERI KONSUMEN DAN MITRA KAMI
+##### GALERI KONSUMEN DAN MITRA KAMI
 
 ![galeri](../tahu-hot-king/galeri.jpg)
 
-### "BERBAGI KECERIAAN" 
-### SHARE MOMENT SERU KAMU
+##### "BERBAGI KECERIAAN" 
+##### SHARE MOMENT SERU KAMU
 
 ![share](../tahu-hot-king/share.jpg)
 
 Upload foto seru kamu bareng Tahu Hot King dengan hastag #tahuhotking foto menarik akan kami repost
 
-### KENAPA HARUS PILIH TAHU HOT KING CRISPY?
+##### KENAPA HARUS PILIH TAHU HOT KING CRISPY?
 
 **FRANCHISE PALING MENGUNTUNGKAN NOMOR #1 DI INDONESIA**
 
@@ -166,19 +166,19 @@ Kami menyediakan agen pengiriman demi kelancaran distribusi bahan baku maupun pa
 Kami selalu siap dalam 24 jam dalam melayani dan membantu Anda.
 
 
-### BUKTI TESTIMONI CHAT MITRA KAMI
+##### BUKTI TESTIMONI CHAT MITRA KAMI
 
 ![testi](../tahu-hot-king/testi.jpg)
 
 **TERBUKTI PALING MENGUNTUNGKAN**
 
-### PAKET KAMI KIRIMKAN DARI EKSPEDISI TERPERCAYA
+##### PAKET KAMI KIRIMKAN DARI EKSPEDISI TERPERCAYA
 
 ![resi](../tahu-hot-king/resi.jpg)
 
 Beberapa data resi bukti pengiriman paket franchise dan bahan baku, semua kami kirimkan dengan ekspedisi terpercaya dan pastinya aman.
 
-### PILIHAN PAKET PROMO FRANCHISE TAHU HOT KING
+##### PILIHAN PAKET PROMO FRANCHISE TAHU HOT KING
 
 **PAKET BOOTH KING A**
 Booth Kayu melamin.
@@ -205,7 +205,7 @@ GRATISS BAHAN BAKU UNTUK 100 PORSI DI SETIAP PAKET FRANCHISENYA!
 
 GABUNG SEGERA!
 
-### KUALITAS BOOTH PALING TERBAIK!
+##### KUALITAS BOOTH PALING TERBAIK!
 
 ![kayu](../tahu-hot-king/kayu.jpg)
 
@@ -229,7 +229,7 @@ Desain booth yang menarik dan eyecatching memiliki daya tarik tersendiri dan bis
 
 **100% BEST QUALITY**
 
-### TEAM SUPPORT
+##### TEAM SUPPORT
 
 ![team](../tahu-hot-king/team.jpg)
 
@@ -263,7 +263,7 @@ Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready s
 Siap mengirim segala jenis pemesanan paket yang dipesan oleh mitra, dan tiba di tempat secara tepat waktu
 
 
-### GRATISS! BUKU PANDUAN SUKSES UNTUK MITRA
+##### GRATISS! BUKU PANDUAN SUKSES UNTUK MITRA
 
 ![buku](../tahu-hot-king/buku.jpg)
 
@@ -276,7 +276,7 @@ Menjual 120 pack dalam 2 jam
 Meningkatkan keuntungan 50% tiap bulannya
 Penempatan lokasi paling stategis
 
-### BANDINGKAN SAJA!
+##### BANDINGKAN SAJA!
 
 **NO. 01  DI INDONESIA** BEST SELLER
 
@@ -295,7 +295,7 @@ Penempatan lokasi paling stategis
 * Masih mengambil tender dari pabrik yang masih dijual umum
 * Tidak ada inovasi dan pengembangan untuk mitra
 
-### MENU VARIAN BEST SELLER TAHU HOT KING
+##### MENU VARIAN BEST SELLER TAHU HOT KING
 
 ![menu](../tahu-hot-king/menu.jpg)
 
@@ -321,7 +321,7 @@ Paduan tahu crispy dengan saus keju menjadikannya sensasi rasa yang gurih dan le
 
 Paduan tahu crispy dengan saus pedas manis menjadikannya sensasi rasa pedas dipadu dengan manis, bikin jarimu semakin happy!
 
-### NEW VARIAN BUBUK
+##### NEW VARIAN BUBUK
 
 10 VARIAN  BUMBU TABUR BEST SELLER
 
@@ -329,7 +329,7 @@ Paduan tahu crispy dengan saus pedas manis menjadikannya sensasi rasa pedas dipa
 
 Balado-Barbeque-Sapi Panggang-Cabai Pedas-Ayam Bawang-Pedas Keju-Kari Ayam-Rumput Laut-Pizza-Jagung Manis
 
-### "INOVASI MENU"
+##### "INOVASI MENU"
 
 Tingkatkan penjualan Anda dengan inovasi mudah!
 Tambahkan sebagai topping tambahan!
@@ -347,7 +347,7 @@ Mitra dapat menambahkan sendiri beberapa topping sebagai pelengkap & Pemanis, in
 
 SANGAT MUDAH!
 
-### BAHAN BAKU UNGGULAN & TERJANGKAU
+##### BAHAN BAKU UNGGULAN & TERJANGKAU
 
 ![tahu hot king](../tahu-hot-king/tahu-hot-king.jpg)
 
@@ -361,7 +361,7 @@ SANGAT MUDAH!
 
 Jangan khawatir! Langsung order ke CS kami
 
-### PERHITUNGAN BALIK MODAL
+##### PERHITUNGAN BALIK MODAL
 
 * Tepung : Rp 23.000,- Penggunaan max 40 porsi (1 porsi = Rp 575)
 * Bumbu : Rp 75.000,- Penggunaan max 200 porsi (1 porsi = Rp 375)
@@ -407,7 +407,7 @@ Rp 306.000 x 30 hari = Rp 9.180.000,-
 
 NB : nantinya akan dikurangi beban biaya operasional seperti ongkir, bahan baku, minyak goreng, gas, sewa lokasi, gaji karyawan, dll.
 
-### NO ROYALTY FEE
+##### NO ROYALTY FEE
 
 ![royalty](../tahu-hot-king/royalty.jpg)
 
@@ -417,7 +417,7 @@ Tidak ada sistem bagi hasil dengan management, semua keuntungan hasil penjualan 
 
 **NO ROYALTY FEE NO FRANCHISE FEE NO ADVERTISING FEE**
 
-### FREQUENTLY ASKED QUESTION (F.A.Q)
+##### FREQUENTLY ASKED QUESTION (F.A.Q)
 
 M = Bagaimana menjadi mitra TAHU HOT KING?
 
@@ -465,7 +465,7 @@ TK = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual
 
 ![faq](../tahu-hot-king/faq.jpg)
 
-### CARA GABUNG SANGAT MUDAH
+##### CARA GABUNG SANGAT MUDAH
 
 **1. PILIH PAKET FRANCHISE**
 
@@ -483,9 +483,9 @@ Paket akan dikirim setelah pelunasan & dikirimkan dihari yang sama.
 
 Paket sudah lengkap, ketika sudah sampai di lokasi, mitra bisa langsung berjualan.
 
-### MUDAHKAN? AYO SEGERA GABUNG
+##### MUDAHKAN? AYO SEGERA GABUNG
 
-### SYARAT & KETENTUAN
+##### SYARAT & KETENTUAN
 
 Management kami memberikan berbagai kemudahan dan pelayanan baik kepada calon mitra maupun mitra yang sudah berjalan.
 
@@ -511,7 +511,7 @@ Management kami memberikan berbagai kemudahan dan pelayanan baik kepada calon mi
 
 * Staff Karyawan
 
-### MASIH RAGU DENGAN KELEZATANNYA? KAMI MENYEDIAKAN PAKET SAMPEL
+##### MASIH RAGU DENGAN KELEZATANNYA? KAMI MENYEDIAKAN PAKET SAMPEL
 
 ![sample](../tahu-hot-king/sample.jpg)
 

@@ -17,7 +17,7 @@ tagar:
 
 ![Logo Bakso Benhil](../bakso-benhil/logo-bakso-benhil.jpg)
 
-#### Bakso, Salah Satu Kuliner Legendaris Indonesia
+###### Bakso, Salah Satu Kuliner Legendaris Indonesia
 
 Bisa dibilang semua orang di Indonesia mengetahui makanan yang namanya bakso. Tua muda, pria wanita, semua orang di Indonesia pasti pernah mencicipi makanan berbentuk bulat ini. Rasa bakso yang sudah merakyat dan disukai oleh jutaan orang Indonesia menjadikan bisnis bakso menjadi salah satu bisnis kuliner yang sangat menjanjikan.
 
@@ -25,7 +25,7 @@ Berawal dari hobi menyantap kuliner Indonesia di berbagai tempat, tidak hanya di
 
 Tidak hanya di perkotaan, di pedesaan pun bakso menjadi makanan yang disukai oleh masyarakat. Dan hebatnya lagi, tidak terbatas hanya pada kalangan tertentu saja, bakso disukai oleh mayoritas orang dari berbagai kalangan. Makanan ini sangat diterima oleh masyarakat Indonesia.
 
-#### Mengapa Harus Ikut Peluang Usaha Bakso Benhil?
+###### Mengapa Harus Ikut Peluang Usaha Bakso Benhil?
 
 1. **Merk Bakso Benhil sudah terkenal dan sering diliput** oleh berbagai media cetak maupun media elektronik, seperti: Harian Kontan, majalah Franchise, tabloid Business Opportunity, Kompas Online dan juga media televisi seperti Trans7. Bakso Benhil juga telah mendapatkan beberapa penghargaan dari beragam media waralaba.
 
@@ -43,7 +43,7 @@ Tidak hanya di perkotaan, di pedesaan pun bakso menjadi makanan yang disukai ole
 
 ![Outlet Bakso Benhil](../bakso-benhil/outlet-bakso-benhil.jpg)
 
-#### Persyaratan Mitra Usaha Bakso Benhil
+###### Persyaratan Mitra Usaha Bakso Benhil
 
 - Anda harus memiliki tempat usaha (milik sendiri maupun sewa),
 - menyiapkan peralatan dan perlengkapan usaha bakso dan mie ayam. 

@@ -17,7 +17,7 @@ Dengan tampilan baru kini Chicken Popop lebih menarik
 
 Ayo Segera Order!
 
-### Mengapa memilih Chicken Popop?
+##### Mengapa memilih Chicken Popop?
 
 1. Investasi terjangkau
 2. Franchise seumur hidup
@@ -28,11 +28,11 @@ Ayo Segera Order!
 7. Produk target menengah ke bawah
 8. Layanan free design untuk semua mitra
 
-### GRATIS LAYANAN DESIGN
+##### GRATIS LAYANAN DESIGN
 Kami menyediakan layanan free design untuk semua mitra Chicken Popop agar bisa membantu meningkatkan penjualan lewat koridor design.
 Request design bisa berupa design banner, spanduk, brosur, menu dll.
 
-### PELUANG USAHA OMZET PULUHAN JUTA RUPIAH
+##### PELUANG USAHA OMZET PULUHAN JUTA RUPIAH
 
 ![peluang usaha chicken popop](../chicken-popop/peluang-usaha-chicken-popop.jpg)
 
@@ -42,11 +42,11 @@ Request design bisa berupa design banner, spanduk, brosur, menu dll.
 
 PIONEER CHICKEN POPOP ASAL BANDUNG, JAWA BARAT. JADILAH SEPERTI BELIAU MENJADI PIONEER DI KOTA ANDA DAN DAPATKAN PENJUALAN TERTINGGI UNTUK MENUNJANG KEHIDUPAN YANG LEBIH BAIK.
 
-### PENGHARGAAN
+##### PENGHARGAAN
 
 ![penghargaan](../chicken-popop/penghargaan.jpg)
 
-### MITRA SUKSES CHICKEN POPOP
+##### MITRA SUKSES CHICKEN POPOP
 
 ![reka](../chicken-popop/reka.jpg)
 
@@ -74,13 +74,13 @@ Ibu Ida adalah salah satu mitra asal Fakfak, Papua Barat yang sukses mencapai ta
 
 "Jadilah salah satu mitra sukses Chicken Popop"
 
-### GALERI CHICKEN POPOP LOVERS
+##### GALERI CHICKEN POPOP LOVERS
 ![galeri](../chicken-popop/galeri.jpg)
 
-### TESTIMONI CHAT MITRA
+##### TESTIMONI CHAT MITRA
 ![testimoni](../chicken-popop/testimoni.jpg)
 
-### PILIHAN PAKET PROMO
+##### PILIHAN PAKET PROMO
 
 **PAKET A**  
 
@@ -122,13 +122,13 @@ Paket Franchise Tanpa Booth dengan KOMPOR GAS
 * DESIGN MENARIK & EYECATCHING
 * HARGA TERJANGKAU
 
-### GRATIS BUKU PANDUAN SUKSES
+##### GRATIS BUKU PANDUAN SUKSES
 ![buku panduan](../chicken-popop/buku-panduan.jpg)
 
-### CARA BUAT SANGAT MUDAH
+##### CARA BUAT SANGAT MUDAH
 ![cara](../chicken-popop/cara.jpg)
 
-### DETAIL BAHAN BAKU
+##### DETAIL BAHAN BAKU
 
 ![bahan](../chicken-popop/bahan.jpg)
 
@@ -144,7 +144,7 @@ Paket Franchise Tanpa Booth dengan KOMPOR GAS
 * HPP : Rp 2.200 + Rp 3.000(ayam) = Rp 5.200
 * Harga Jual : Rp 10.000 sd Rp 20.000
 
-### PERHITUNGAN BALIK MODAL
+##### PERHITUNGAN BALIK MODAL
 
 * Bahan Baku 70 porsi/ hari
 * 70x10.000x30 : Rp 21.000.000
@@ -159,7 +159,7 @@ Paket Franchise Tanpa Booth dengan KOMPOR GAS
 * FTB          : 1-2 Bulan
 
 
-### PERLENGKAPAN YANG DIDAPAT
+##### PERLENGKAPAN YANG DIDAPAT
 
 ![peralatan](../chicken-popop/peralatan.jpg)
 
@@ -188,7 +188,7 @@ Fasilitas yang didapat :
 
 SEMUA PAKET FRANCHISE MENDAPATKAN PERLENGKAPAN SECARA LENGKAP
 
-### TRANSFORMASI DESAIN PACK 
+##### TRANSFORMASI DESAIN PACK 
 KEMASAN BOX LEBIH PRAKTIS & EKONOMIS
 Inovasi  baru kemasan Chicken Popop dengan bentuk Box dan desain yang lebih menarik serta eyecatching 
 
@@ -198,7 +198,7 @@ Inovasi  baru kemasan Chicken Popop dengan bentuk Box dan desain yang lebih mena
 
 ![menu chicken popop](../chicken-popop/menu-chicken-popop.jpg)
 
-### FREQUENTLY ASKED QUESTIONS (F.A.Q)
+##### FREQUENTLY ASKED QUESTIONS (F.A.Q)
 
 M  = Bagaimana menjadi mitra Chicken Popop?
 
@@ -244,7 +244,7 @@ M  = Apakah mitra diperbolehkan dalam mengubah harga per porsi?
 
 CP = Kami tidak mematok harga perporsi, kami menyarankan harga perporsi Rp. 8.000 - Rp. 15.000 sesuai daya beli disekitar outlet.
 
-### PERBANDINGAN DENGAN PRODUK LAIN
+##### PERBANDINGAN DENGAN PRODUK LAIN
 
 **CHICKEN POPOP**
 
@@ -262,7 +262,7 @@ CP = Kami tidak mematok harga perporsi, kami menyarankan harga perporsi Rp. 8.00
 * Tidak ada inovasi dan pengembangan untuk mitra
 
 
-### TEAM CHICKEN POPOP
+##### TEAM CHICKEN POPOP
 
 * MARKETING
 
@@ -288,7 +288,7 @@ Team management yang bersifat profesional, solid, SDM terbaik dan senantiasa mel
 
 CARA GABUNG SANGAT MUDAH!
 
-### CARA & SYARAT GABUNG
+##### CARA & SYARAT GABUNG
 
 **SYARAT BERGABUNG MENJADI MITRA TAHU GILA :**
 
@@ -299,7 +299,7 @@ CARA GABUNG SANGAT MUDAH!
 5. Bersedia menaati peraturan yang ada dalam surat kerja sama
 6. Wajib membeli bahan baku dari pusat
 
-### FASILITAS YANG DIBUTUHKAN :
+##### FASILITAS YANG DIBUTUHKAN :
 
 1. Lokasi berada di tempat strategis : didepan pusat keramaian /didepan sekolah - sekolah menengah keatas, kampus atau mini market
 
@@ -316,13 +316,13 @@ CARA GABUNG SANGAT MUDAH!
 * Paket sudah lengkap, ketika sudah sampai di lokasi, mitra bisa langsung berjualan
 
 
-### WORKSHOP
+##### WORKSHOP
 ![workshop](../chicken-popop/workshop.jpg)
 
 Booth yang berbahan baku dasar kayu pallet kualitas unggul, dikerjakan oleh tenaga ahli profesional sehingga menghasilkan booth dengan ketahanan yang lama dan eyecatching.
 
 
-### PAKET SAMPLE 
+##### PAKET SAMPLE 
 
 TERSEDIA JUGA PAKET SAMPLE CHICKEN POPOP!
 

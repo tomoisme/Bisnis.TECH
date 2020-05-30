@@ -5,7 +5,7 @@ draft: false
 layout: "single"
 ---
 
-### Tadinya Cuma Mau Bantu Orang Tua
+##### Tadinya Cuma Mau Bantu Orang Tua
 
 Dua kakak beradik perempuan Florentia Jeanne dan Felicia Febry merupakan contoh remaja yang patut dicontoh. Berawal dari desakan untuk memenuhi kebutuhan biaya dan perlengkapan kuliah di bidang arsitektur, kakak beradik ini merintis [bisnis fashion online](https://www.bisnis.tech/peluang-usaha) tanpa modal alias nol Rupiah.
 
@@ -13,7 +13,7 @@ Awalnya mereka memulai usaha dari menjadi reseller pakaian sembari menjalani kul
 
 Ketika diwawancara, Felicia mengenang usaha fashion online ini awalnya dirintis setelah melihat temannya berjualan baju secara online lewat Facebook. "Bisa dapat keuntungan Rp 20 ribu per itemnya" kenang dia. Dari situ kemudian dia mengajak saudarinya untuk mencoba memulai usaha serupa untuk membantu orang tua mereka.
 
-### Menawarkan Produk Murah Berkualitas Untuk Menyasar Berbagai Kalangan
+##### Menawarkan Produk Murah Berkualitas Untuk Menyasar Berbagai Kalangan
 
 Kedua pemilik Brand NoonaKu Signature ini bercerita bahwa nama NoonaKu berasal dari kata Noona yang artinya anak perempuan dan Ku yang berarti kepemilikan Tuhan. Jadi, dapat diartikan NoonaKu Signature adalah Anak Perempuannya Tuhan. Karena brand ini berkaitan dengan nilai spiritual, ketika mendirikan bisnis fashion ini, mereka juga tak lupa menyisipkan nilai sosial. Target passar brand NoonaKu Signature terbilang cukup luas, karena harga yang terjangkau, dengan kisaran di bawah Rp 100.000.
 
@@ -21,7 +21,7 @@ Racikan harga fashion yang murah diakui Felicia dikarenakan dulu pada saat berku
 
 Menurut mereka, keyakinan untuk memulai bisnis juga turut terbantu oleh perkembangan teknologi dan sedikit keberuntungan. Di era 2000-an, tren jual beli lewat telepon genggam Blackberry sedang booming. Beruntung, kedua kakak beradik ini mendapatkan HP Blackberry tersebut lewat doorprize pada saat menghadiri sebuah acara pernikahan. Ditambah lagi paman mereka yang saat itu juga mengganti HP lamanya lalu kemudian memberikan HP bekasnya kepada ponakannya. Kedua HP inilah yang kemudian menjadi tonggak bagi perjalanan bisnis rintisannya.
 
-### Jatuh Bangun Tapi Tetap Bersemangat
+##### Jatuh Bangun Tapi Tetap Bersemangat
 
 Perjalan bisnis NoonaKu Signature tidak selalu mulus, jatuh bangun di bidang bisnis maupun mental dirasakan kedua pendirinya. Harga yang relatif murah seringkali membuat para pembeli mengira produk NoonaKu Signature ini baju bekas. Selain itu, di awal memulai usaha, jual beli online masih dianggap pekerjaan sambilan. Bahkan Flo juga sempat dicibir karena sudah mengenyam pendidikan tinggi (universitas) namun masih juga memilih untuk menekuni profesi jualan online. Tapi keduanya tidak menyerah, malah mereka makin semangat untuk mengembangkan bisnis fashion mereka lewat berbagai ilmu yang dapat diterapkan dari kuliah mereka.
 

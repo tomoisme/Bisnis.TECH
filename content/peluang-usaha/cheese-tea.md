@@ -13,15 +13,11 @@ tagar:
 - peluang bisnis minuman
 ---
 
-{{< adsense-responsive >}}
-
-### Minuman apa sih ini?
+##### Minuman apa sih ini?
 
 Seperti namanya, cheese tea merupakan kombinasi dari bahan racikan teh siap saji dengan keju cream yang sejak awal tahun 2017-an digandrungi oleh banyak orang. Teh dicampur keju? Apa iya rasanya enak? Soal rasa tentu saja relatif, tergantung dari selera masing-masing orang. Namun yang pasti minuman ini telah lebih dahulu booming di negara-negara Asia seperti Jepang, Taiwan, China, Thailand, dll. Baru sejak awal tahun 2017, minuman kekinian cheese tea ini mulai populer, mengikuti popularitas thai tea yang telah lebih dulu marak berjamuran. Jadi bisa dibilang minuman ini sesuai dengan selera masyarakat luas.
 
-### Mengapa Harus Ikutan Jualan Cheese Tea
-
-{{< adsense-responsive >}}
+##### Mengapa Harus Ikutan Jualan Cheese Tea
 
 Melihat booming waralaba minuman dari waktu ke waktu, kita bisa lihat sendiri bagaimana banyak waralaba minuman dapat tetap bertahan walaupun memang ada juga yang terpaksa harus gulung tikar karena persaingan usaha. Dari banyak usaha waralaba minuman yang tumbang namun faktanya tetap ada banyak juga gerai-gerai minuman siap saji yang sukses dan tetap beroperasi menjual minuman kekinian hingga saat ini walaupun trend minuman tersebut sudah memudar.
 
@@ -55,15 +51,13 @@ HINDARI LOKASI USAHA SEPERTI INI
 
 Sedangkan lokasi yang kurang disarankan untuk berjualan minuman ini adalah seperti ruko di kompleks perumahan (terkecuali outlet di desain menjadi kafe), lokasi dekat dengan perkantoran (walaupun mungkin bisa saja sukses mencetak penjualan, rata-rata orang kantoran masih banyak yang berpikir soal budget makan siang) dan lokasi lainnya yang berpotensi memiliki tingkat persaingan tinggi seperti di depan minimarket.
 
-{{< adsense-responsive >}}
-
-#### Pilihan Waralaba Cheese Tea
+##### Pilihan Waralaba Cheese Tea
 
 [**Go Cheers**](../../waralaba/peluang-usaha-franchise-cheese-tea-go-cheers)
 
 [**CIZI**](../../waralaba/peluang-usaha-waralaba-cheese-tea-cizi)
 
-### Berapa Omzet Rata-Rata Dari Usaha Cheese Tea?
+##### Berapa Omzet Rata-Rata Dari Usaha Cheese Tea?
 
 Ngomong-ngomong soal penghasilan bisnis minuman kekinian memang tidak bisa dipukul rata. Banyak faktor yang menentukan jumlah pemasukan harian di bisnis ini, seperti misalnya lokasi usaha, rasa minuman dan variasi menu dari tiap vendor, popularitas brand (waralaba), kompetisi usaha dan juga manajemen usaha yang dikelola. Jika kita melihat gerai penjualan minuman cheese tea yang dapat bertahan bulanan di mall-mall maupun lokasi usaha strategis lainnya, bisa diperkirakan bahwa omzet minimal untuk biaya operasional sudah mencukupi.
 

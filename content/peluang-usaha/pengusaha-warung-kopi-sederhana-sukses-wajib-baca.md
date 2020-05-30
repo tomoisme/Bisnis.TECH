@@ -33,7 +33,7 @@ Jika orang kuliah bayar untuk mengejar ilmu.
 
 Berbisnis juga sama berbayar dapat ilmu pengalaman yang berharga pula.
 
-### Pelanggan
+##### Pelanggan
 
 Perbanyak teman kamu di lingkungan sekitar agar senantiasa mereka nongkrong di warung kopi kamu.
 
@@ -41,7 +41,7 @@ Perhatikan baik-baik siapa yang akan membeli kopi kamu dan siapa pesaing di daer
 
 Kasih nilai tambah di warung kamu untuk pelanggan.
 
-### Desain Dan Tempat
+##### Desain Dan Tempat
 
 karena ini hanya warung kopi bukan cafe besar. Tampilan bisa sederhana namun memiliki fitur yang lebih.
 
@@ -53,7 +53,7 @@ Fitur tambahan lannya dengan menjual gorengan apalagi tersedia alat musik sepert
 
 Carilah tempat yang memiliki daya beli masyarakat banyak seperti di dekat Wisata, PT, Kampus/Sekolah dll.
 
-### Kualitas
+##### Kualitas
 
 Berbicara soal kualitas tentu berkaitan dengan kebersihan tempat dan pelayanan.
 
@@ -63,7 +63,7 @@ Jika di tempat wisata tuliskan harga di atas kertas, agar menarik perhatian para
 
 Ramah juga sangat di perlukan jangan tunjukan muka cemberut di hadapan pelanggan.
 
-### Keunggulan Bisnis Warung Kopi
+##### Keunggulan Bisnis Warung Kopi
 
 Warung kopi memang memiliki kelemahan tapi jika sekali berhasil tentu untung yang di dapatkan.
 
@@ -71,7 +71,7 @@ Selain itu bisnis ini berdurasi jangka panjang.
 
 Jika memang pelanggan sudah nyaman ngopi di tempat kamu tentu mereka akan balik lagi dan lagi.
 
-### Memilih Karyawan
+##### Memilih Karyawan
 
 Rekrut karyawan jika bisnis ini sudah berkembang.
 
@@ -83,13 +83,13 @@ Alangkah baiknya memilih karyawan yang satu daerah.
 
 Jika cantik jadikan lah Istri kamu.
 
-### Berpikir “Out of The Box”
+##### Berpikir “Out of The Box”
 
 Berpikir secara kreatif melawan ketakutan dalam diri itu sangat penting bagi pebisnis.
 
 Istilah kerennya adalah Mental Block harus di kalahkan. 
 
-### Fokus
+##### Fokus
 
 Fokus satu bisnis terlebih dahulu.
 
@@ -101,7 +101,7 @@ Saya ingatkan lagi.
 
 Bisnis perlu rugi kalo gak rugi berarti belum belajar.
 
-### Sumber Dana
+##### Sumber Dana
 
 Sumber dana perlu di perhatikan sebelum kamu memutuskan untuk berbisnis.
 
@@ -117,19 +117,19 @@ Jika kamu di percaya pasti mereka juga tidak sungkan untuk memberikan dana terse
 
 Kelebihan meminjam lewat saudara, tidak memiliki bunga. Namun tetep harus bayar dan bertanggung jawab.
 
-### Belajar Mengelola Keuangan
+##### Belajar Mengelola Keuangan
 
 Seluruh bisnis perlu ilmu ini jika tidak silahkan pikirkan sendiri.
 
 Kamu ingin tau cara bisnis yang cepat bangkrut silahkan hindari belajar management money.
 
-### Kembangkan Bisnis Kamu
+##### Kembangkan Bisnis Kamu
 
 Jika sudah memiliki karyawan dan berjalan auto pilot kamu hanya fokus untuk mengembangkan bisnis tersebut.
 
 Mengembangkan dalam artian bisa menambah fitur meluaskan tempat atau bisa juga membuka cabang di tempat yang berbeda.
 
-### Action
+##### Action
 
 Rencana sudah mateng termasuk strategi dan juga pengetahuan dalam berbisnis.
 
@@ -141,7 +141,7 @@ Kita sudah berusaha jika hasil tetap nihil mungkin Tuhan bermaksud baik kamu tid
 
 Tapi lebih layak jadi pemilik Cafe.
 
-### Tips Lainnya
+##### Tips Lainnya
 
 Cari Supplier yang murah jika menemukan kopi unik dan populer maka ambil lah.
 

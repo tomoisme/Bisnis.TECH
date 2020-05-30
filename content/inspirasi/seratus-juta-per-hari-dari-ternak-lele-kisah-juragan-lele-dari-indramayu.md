@@ -4,7 +4,7 @@ date: 2018-12-12T18:56:37+07:00
 draft: false
 ---
 
-### Fantastis Raup 100 Juta Rupiah Dalam Sehari, Para Juragan Lele di Indramayu.
+##### Fantastis Raup 100 Juta Rupiah Dalam Sehari, Para Juragan Lele di Indramayu.
 
 Disinilah kisah para juragan lele itu bermula Desa Krimun dan Desa Puntang yang terletak di Kecamatan Lohsarang, Indramayu Jawa Barat. Pada siang itu sejauh mata memandang seluruhnya hampir hanya tampak hamparan ribuan kolam lele.Kisaran ukuran kolam sekitar 300 sampai dengan 500 meter persegi. 
 
@@ -12,7 +12,7 @@ Dari kedua desa tersebut separuh dari lahan yang mereka tempati sebagian besar d
 
 Desa dengan temperatur suhu berkisar 28-30 derajat celcius ini memiliki 4 dusun dengan 4 rukun warga dan 14 rukun tetangga, Di sebelah utara berbatasan dengan Desa Cemara Kulon, Di selatan berbatasan dengan Desa Manggungan Kecamatan Terisi, di timur dengan Desa Puntang, dan di barat dengan Desa Losarang.
 
-### Berawal dari Kegagalan Berternak Udang Windu
+##### Berawal dari Kegagalan Berternak Udang Windu
 
 Di akhir tahun 80-an pada mulanya kedua desa ini mencari rezeki dengan bertambak udang windu. Namun bencana buruk tidak terhindarkan terjadi pada awal tahun 90-an kira-kira setelah kurun waktu 10 tahun setelah memulai budidaya tambak udang windu. Air laut di pesisir pantai Losarang terkena limbah mengakibatkan kerusakan besar hancurnya budidaya udang windu. Para petambak mengalami kerugian ratusan juta rupiah karena ribuan benur mati.
 
@@ -28,7 +28,7 @@ Tampak dua orang pekerja sedang menyortir ratusan ekor lele dalam satu kolam sia
 
 Sarman atau yang akrab dipanggil juragan Maman mengatakan kalau panen dilakukan saat siang menjelang sore. Dikirim sampai dengan Jakarta, Bogor, Tangerang, Depok atau Bekasi malam.
 
-### Awal mula dari puluhan ton lele
+##### Awal mula dari puluhan ton lele
 
 Juragan Sarman yang merupakan menantu dari Maming bercerita awalnya di tahun 2000-an ia bersama mertuanya memelihara udang windu, pasca bencana yang terjadi ia tetap mengikuti jejak mertuanya untuk membantu usaha budidaya lele.
 
@@ -60,7 +60,7 @@ Pengalaman pahit tersebut telah banyak mengajarkan Maman sehingga ia semakin pan
 
 "Setelah hutang menumpuk banyak, si pengepul lenyap tidak dapat dicari oleh pemasok lele yang lama tetapi kemudian menjalin bisnis dengan pemasok lele yang baru." ucap sang juragan Maman.
 
-### Membeli benih lele atau larva
+##### Membeli benih lele atau larva
 
 Tidak seperti yang dilakukan oleh kebanyakan peternak lele, saat melakukan penebaran benih ia tidak membeli yang sudah berumur sebulan dengan kisaran panjang 46 cm yang harga perekornya 150 rupiah namun ia membeli lele yang masih larva seharga 5 rupiah per ekor. 
 

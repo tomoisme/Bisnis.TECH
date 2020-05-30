@@ -17,7 +17,7 @@ tagar:
 
 ![logo oliv geprek ekspres](../oliv-geprek/logo.jpg)
 
-### OLIV GEPREK EKSPRES
+##### OLIV GEPREK EKSPRES
 
 Waralaba makanan ayam geprek terbaik 2018
 
@@ -27,7 +27,7 @@ Franchise ayam geprek nomor satu di Indonesia
 
 Gabung dan jadilah salah satu mitra sukses kami!
 
-### PROMO PAKET FRANCHISE 
+##### PROMO PAKET FRANCHISE 
 
 KHUSUS BULAN INI, KESEMPATAN TERBATAS!
 
@@ -35,7 +35,7 @@ Paket booth lengkap siap jualan! masih ada juga pilihan paket lainnya!
 
 **CUKUP DENGAN 15 JUTA SAJA**
 
-### KAMI UCAPKAN SELAMAT!
+##### KAMI UCAPKAN SELAMAT!
 
 #MITRA SUKSES KAMI
 
@@ -49,13 +49,13 @@ Matapura, Kalimantan Selatan
 
 Salah satu mitra sukses kami asal Kalimantan Selatan, kini telah sukses mencapai sesuatu yang sangat luar biasa setelah kurang lebih satu tahun berjuang dalam mengelola bisnisnya Ayam Geprek Oliv Ekspres. Beliau berhasil membeli 1 unit mobil dengan hasih jualnnya, tentu itu tak luput dari usaha dan kerja keras beliau.
 
-### MAU SUKSES SEPERTI BELIAU?
+##### MAU SUKSES SEPERTI BELIAU?
 
 **Gabung Segera**
 
 Lebih dari 300 mitra telah bergabung dan sukses dengan kami
 
-### BERBAGAI KEUNGGULAN
+##### BERBAGAI KEUNGGULAN
 
 **1.Franchise Paling Lengkap**
 
@@ -78,7 +78,7 @@ Free ongkir khusus pengiriman franchise wilayah pulau Jawa & diskon ongkir untuk
 
 **BEST SELLER**
 
-### MASIH BANYAK KEUNGGULAN LAINNYA
+##### MASIH BANYAK KEUNGGULAN LAINNYA
 
 ![indo](../oliv-geprek/indo.jpg)
 
@@ -92,7 +92,7 @@ BERBAGAI KESERUAN BERSAMA OLIV GEPREK EKSPRES!
  
 Tag Us : #olivgeprekekspres
 
-### MENGAPA HARUS PILIH KAMI?
+##### MENGAPA HARUS PILIH KAMI?
 
 **1. HARGA FRANCHISE TERJANGKAU**
 
@@ -123,7 +123,7 @@ Kami menyediakan agen pengiriman demi kelancaran distribusi bahan baku maupun pa
 
 Kami selalu siap dalam 24 jam dalam melayani dan membantu Anda.
 
-### PENJUALAN TERBAIK
+##### PENJUALAN TERBAIK
 
 ![andi](../oliv-geprek/andi.jpg)
 
@@ -149,15 +149,15 @@ Dampar, Kalimantan Timur
 
 Bapak Rangga mampu menjual 140 porsi ayam geprek ditiap harinya, sangat luar biasa kini keuntungan dari omzet penjualannya ia tabung untuk biaya pernikahannya di tahun depan. Selamat yaa!
 
-### TESTIMONI MITRA KAMI
+##### TESTIMONI MITRA KAMI
 
 ![testimoni](../oliv-geprek/testi.jpg)
 
-### BUKTI RESI PENGIRIMAN DARI EKSPEDISI TERPERCAYA
+##### BUKTI RESI PENGIRIMAN DARI EKSPEDISI TERPERCAYA
 
 ![bukti](../oliv-geprek/bukti.jpg)
 
-### PROMO PAKET FRANCHISE
+##### PROMO PAKET FRANCHISE
 
 **PAKET 1**
 
@@ -183,7 +183,7 @@ Gratis Bahan Baku 200
 
 Perlengkapan jualan secara lengkap!
 
-### PASTI LENGKAP SIAP JUALAN
+##### PASTI LENGKAP SIAP JUALAN
 
 **Paket 1 akan mendapatkan**
 
@@ -276,7 +276,7 @@ Dengan bahan besi pada tiang penyangga, booth semakin kuat dan tidak goyah.
 
 Desain booth yang menarik dan eyecatching, mempunyai daya tarik tersendiri dan bisa menunjang penjualan Anda 
 
-### MANAGEMENT SUPPORT
+##### MANAGEMENT SUPPORT
 
 ![team](../oliv-geprek/team.jpg)
 
@@ -314,7 +314,7 @@ Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready s
 
 Siap mengirim segala jenis pemesanan paket yang dipesan oleh mitra, dan tiba di tempat secara tepat waktu
 
-### GRATIS BUKU PANDUAN SUKSES
+##### GRATIS BUKU PANDUAN SUKSES
 
 ![buku](../oliv-geprek/buku.jpg)
 
@@ -327,7 +327,7 @@ Selain resep adonan rahasia, kami memiliki resep rahasia sukses!
 * Meningkatkan keuntungan 50% tiap bulannya
 * Penempatan lokasi paling stategis
 
-### BANDINGKAN SAJA!
+##### BANDINGKAN SAJA!
 
 ![bandingkan](../oliv-geprek/banding.jpg)
 
@@ -346,9 +346,9 @@ Selain resep adonan rahasia, kami memiliki resep rahasia sukses!
 * Masih mengambil tender dari pabrik yang masih dijual umum
 * Tidak ada inovasi dan pengembangan untuk mitra
 
-### MENU VARIANT
+##### MENU VARIANT
 
-### "BEST SELLER" 
+##### "BEST SELLER" 
 
 BERANI COBA?
 
@@ -374,7 +374,7 @@ Lezatnya ayam geprek yang dipadu dengan lembutnya keju mozzarella bikin kamu goo
 
 Tambahkan inovasi rasa ke dalam Oliv Geprek Ekspres untuk menunjuang penjualan! Tambahkan beberapa topping sebagai pelengkap Oliv Geprek Ekspres.
 
-### BAHAN BAKU TERJANGKAU
+##### BAHAN BAKU TERJANGKAU
 
 ![bahan baku](../oliv-geprek/bahan1.jpg)
 
@@ -398,7 +398,7 @@ Jangan khawatir langsung order ke team cs kami
 
 ![bahan](../oliv-geprek/bahan.jpg)
 
-### PERHITUNGAN BALIK MODAL
+##### PERHITUNGAN BALIK MODAL
 
 **Harga bahan baku dari pusat**
 
@@ -487,7 +487,7 @@ M  = Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
 
 OGE = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 10.000 s/d Rp 20.000 disesuaikan dengan daya beli disekitar outlet
 
-### CARA BERGABUNG SANGAT MUDAH!
+##### CARA BERGABUNG SANGAT MUDAH!
 
 ![cara bergabung](../oliv-geprek/gabung.jpg)
 
@@ -507,7 +507,7 @@ Paket akan dikirim setelah pelunasan & dikirimkan dihari yang sama.
 
 Paket sudah lengkap, ketika sudah sampai di lokasi, mitra bisa langsung berjualan.
 
-### SYARAT & KETENTUAN
+##### SYARAT & KETENTUAN
 
 Management kami memberikan berbagai kemudahan dan pelayanan baik kepada calon mitra maupun mitra yang sudah berjalan.
 
@@ -533,7 +533,7 @@ Management kami memberikan berbagai kemudahan dan pelayanan baik kepada calon mi
 
 3. Staff Karyawan
 
-### COBAIN PAKET SAMPLENYA! 
+##### COBAIN PAKET SAMPLENYA! 
 
 ![sample](../oliv-geprek/sample.jpg)
 

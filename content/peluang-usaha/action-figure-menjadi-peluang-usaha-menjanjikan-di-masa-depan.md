@@ -20,7 +20,7 @@ Karena Action Figure harga nya bisa naik kapan saja.
 
 Bisa menjadi peluang bisnis yang sangat potensial di masa depan. 
 
-### Mengenal Action Figure
+##### Mengenal Action Figure
 
 Produsen mainan Hasbro asal Amerika Serikat.
 
@@ -64,8 +64,7 @@ Action figure bisa untuk investasi?
 
 Tentu sangat bisa.
 
-### 
-Beberapa Peluang Bisnis Action Figure
+##### Beberapa Peluang Bisnis Action Figure
 
 Sebelum memulai bisnis ini beberapa hal yang wajib kamu pelajari.
 
@@ -83,7 +82,7 @@ Salah satunya adalah service figure dan modifikasi figure tersebut.
 
 Selain itu ada peluang lain, yaitu pembuat background figure.
 
-### Potensi Bisnis Action Figure
+##### Potensi Bisnis Action Figure
 
 Jika kamu telah membaca tulisan di atas.
 
@@ -103,7 +102,7 @@ Maka dari itu peluang ini harus segera kamu ambil.
 
 Di bawah saya akan menjelaskan beberapa tahapan untuk mendapatkan action figure maupun pemasaran produk tersebut.
 
-### Memulai Bisnis Action Figure
+##### Memulai Bisnis Action Figure
 
 Pertama kali memiliki action figure.
 
@@ -121,7 +120,7 @@ Usahakan mencari figure yang sedang populer.
 
 Hal tersebut bisa berpengaruh pada minat orang untuk membeli.
 
-### Resiko Bisnis Action Figure
+##### Resiko Bisnis Action Figure
 
 Walau memiliki peluang sangat besar tentu ada resiko.
 

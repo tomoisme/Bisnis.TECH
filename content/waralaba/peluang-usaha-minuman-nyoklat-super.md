@@ -10,11 +10,11 @@ tagar:
 - bisnis minuman
 - franchise minuman nyoklat super
 ---
-### NYOKLAT SUPER
+##### NYOKLAT SUPER
 
 ![intro](../nyoklat-super/intro.jpg)
 
-### PAKET USAHA NYOKLAT SUPER
+##### PAKET USAHA NYOKLAT SUPER
 
 **PAKET BOOTH**
 
@@ -44,7 +44,7 @@ SUDAH MENDAPATKAN PERALATAN LENGKAP, SIAP JUALAN, FREE 300 BAHAN BAKU
 
 DAPATKAN KEUNTUNGAN HINGGA 20JT/ BULAN 
 
-### GATHERING NYOKLAT SUPER
+##### GATHERING NYOKLAT SUPER
 
 ![gathering](../nyoklat-super/gathering.jpg)
 
@@ -54,7 +54,7 @@ DAPATKAN KEUNTUNGAN HINGGA 20JT/ BULAN
 
 **JADILAH MASTER FRANCHISE DAN KUASAI KOTAMU SEKARANG JUGA!**
 
-### NEW CUP & NEW FLAVOUR 
+##### NEW CUP & NEW FLAVOUR 
 
 ![new cup & flavour](../nyoklat-super/new-cup-flavour.jpg)
 
@@ -66,7 +66,7 @@ Kami menyediakan desain cup terbaru yang kekinian untuk para mitra Nyoklat Super
 
 Rasakan inovasi kesegaran rasa baru dari Nyoklat Super, dengan kenikmatan coklat ditambah sensasi kesegaran dari mint, nantikan inovasi selanjutnya dari Nyoklat Super.
 
-### MITRA SUKSES NYOKLAT SUPER
+##### MITRA SUKSES NYOKLAT SUPER
 
 **WAHYU YUSUPU** GARUT
 
@@ -92,7 +92,7 @@ Bapak Afridul mampu menjual 90 sampai dengan 110 cup Nyoklat Super dalam sehari.
 
 Suami dari nyonya Suwantoro atau bapak Suwantoro adalah mitra Nyoklat Super asal Bandung. Beliau berkolaborasi dengan istrinya nyonya Suwantoro dalam menjalankan usaha Nyoklat Super. Dengan menerapkan konsep cafe pada gerai Nyoklat Super miliknya secara langsung berdampak pada angka penjualan outlet. Pada usia yang masih terbilang baru gerai bapak Suwantoro memiliki angka penjualan yang cukup FANTASTIS dikisaran 180-250 cup sehingga dalam waktu singkat keuntungan dari berjualan Nyoklat Super yang beliau peroleh dapat digunakan untuk membeli satu  buah unit motor Yamaha N-Max.
 
-### KEUNGGULAN YANG KAMI MILIKI
+##### KEUNGGULAN YANG KAMI MILIKI
 
 ![keuntungan](../nyoklat-super/keuntungan.jpg)
 
@@ -110,18 +110,18 @@ Banyak keuntungan yang dapat diperoleh jika Anda bergabung menjadi mitra Nyoklat
 
 **Kami selalu berinovasi untuk memberikan produk terbaik**
 
-### KERAMAIAN OUTLET NYOKLAT SUPER
+##### KERAMAIAN OUTLET NYOKLAT SUPER
 
 ![outlet](../nyoklat-super/outlet.jpg)
 
 Terbukti Nyoklat Super banyak disukai & digemari seluruh kalangan masyarakat
 
 
-### TESTIMONI MITRA
+##### TESTIMONI MITRA
 
 ![testimoni](../nyoklat-super/testi.jpg)
 
-### VARIAN MENU NYOKLAT SUPER
+##### VARIAN MENU NYOKLAT SUPER
 
 ![menu](../nyoklat-super/menu.jpg)
 
@@ -153,7 +153,7 @@ Minuman unggulan dari Nyoklat Super rasa asli coklat tanpa perpaduan rasa yang l
 
 Vanila dan coklat berpadu menjadi minuman yang harum dan lezat membuat lidah kita bergoyang.
 
-### VARIAN TOPPING
+##### VARIAN TOPPING
 
 **CANDY NYOKLAT**
 
@@ -170,7 +170,7 @@ Vanila dan coklat berpadu menjadi minuman yang harum dan lezat membuat lidah kit
 **KEJU NYOKLAT**
 
 
-### PERHITUNGAN KEUNTUNGAN
+##### PERHITUNGAN KEUNTUNGAN
 
 ROI (Return of Investment) untuk penjualan di sekolah :
 
@@ -196,13 +196,13 @@ Total biaya operasional : Rp 2.000.000,-
 
 B.E.P 2 BULAN
 
-### MANAGEMENT NYOKLAT SUPER
+##### MANAGEMENT NYOKLAT SUPER
 
 ![team](../nyoklat-super/team.jpg)
 
 Kami memiliki team management yang akan membantu mitra untuk mendapatkan penjualan tertinggi
 
-### KEUNTUNGAN YANG DIDAPAT
+##### KEUNTUNGAN YANG DIDAPAT
 
 Kami memberikan berbagai fasilitas untuk mitra yang telah bergabung dalam usaha Nyoklat Super, sehingga bisa mendapatkan pendapatan yang tinggi.
 
@@ -234,13 +234,13 @@ Kami menyediakan agen pengiriman demi kelancaran distribusi bahan baku maupun pa
 * LAYANAN DESAIN GRATIS!
 Kami selalu siap membantu membuat gerai Anda lebih menarik dengan desain yang fresh dan up to date secara gratis.
 
-### MAJALAH NYOKLAT 
+##### MAJALAH NYOKLAT 
 
 ![majalah](../nyoklat-super/majalah.jpg)
 
 Dapatkan tips&trik strateg penjualan, serita mitra sukses, update terbaru.
 
-### F.A.Q
+##### F.A.Q
 
 Beberapa pertanyaan dari calon mitra yang sering muncul & kami senantiasa memberikan solusinya
 
@@ -287,7 +287,7 @@ M  = Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
 
 NS = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 7.000 s/d Rp 10.000 disesuaikan dengan daya beli disekitar outlet
 
-### PERSYARATAN & FASILITAS UNTUK MITRA NYOKLAT SUPER
+##### PERSYARATAN & FASILITAS UNTUK MITRA NYOKLAT SUPER
 
 **SYARAT**
 

@@ -10,11 +10,11 @@ tagar:
 - waralaba kuliner
 ---
 
-### CANDY CREPES
+##### CANDY CREPES
 
 ![peluang-usaha-candy-crepes](../candy-crepes/peluang-usaha-candy-crepes.jpg)
 
-### KAMI MENGUCAPKAN SELAMAT KEPADA MITRA SUKSES KAMI
+##### KAMI MENGUCAPKAN SELAMAT KEPADA MITRA SUKSES KAMI
 
 ![vanesha](../candy-crepes/vanesha.jpg)
 
@@ -28,11 +28,11 @@ Mitra muda satu ini bisa dibilang berhasil dalam usaha, karena dalam sehari Vane
 
 Mitra asal Muara Labuh yaitu Bp. Joni. Dalam sehari beliau mampu menjual 200 porsi crepes, beliau rutin mengikuti event dan penghasilannya pun mencapai 15jt/bulan. Kini Bp. Joni mampu membeli 1 unit motor N- Max dari penghasilannya setahun selama ia berjualan.
 
-### TERBUKTI MENGUNTUNGKAN
+##### TERBUKTI MENGUNTUNGKAN
 
 ![terbukti](../candy-crepes/terbukti.jpg)
 
-### BERBAGAI KEUNGGULAN
+##### BERBAGAI KEUNGGULAN
 
 **NO ROYALTY FEE**
 
@@ -66,11 +66,11 @@ Free ongkir khusus pengiriman franchise wilayah pulau Jawa & diskon ongkir untuk
 
 **SATU MANAGEMENT DENGAN CHICKEN POPOP & POPCHIC CHICKEN**
 
-### GALERI CANDY CREPES LOVERS
+##### GALERI CANDY CREPES LOVERS
 
 ![galeri](../candy-crepes/galeri.jpg)
 
-### CERITA SUKSES MITRA
+##### CERITA SUKSES MITRA
 
 ![widya](../candy-crepes/widya.jpg)
 
@@ -84,11 +84,11 @@ Ibu Widya sudah 1,5 tahun bergabung dengan kami. Dalam tiap harinnya Ibu Widya m
 
 Dengan penjualan perhari 350 pack, Kini Bapak Robby mampu membuka outlet lagi untuk yang kedua, dan kini omzetnya semakin meningkat berkat usaha giat yang dilakukannya dan kini kedua outletnya sudah berjalan dengan baik
 
-### TESTIMONI REAL MITRA KAMI
+##### TESTIMONI REAL MITRA KAMI
 
 ![testimoni](../candy-crepes/testimoni.jpg)
 
-### PROMO PAKET FRANCHISE
+##### PROMO PAKET FRANCHISE
 
 **PAKET OUTDOOR**
 
@@ -123,11 +123,11 @@ SPECIAL HARGA PROMO DARI 8 JT JADI 6,7JT
 GRATIS!!! 100 Bahan baku. Mendapatkan perlengkapan secara lengkap
 
 
-### GRATIS LAYANAN DESAIN
+##### GRATIS LAYANAN DESAIN
 
 Kami memberikan layanan desain gratis guna membantu mitra kami dalam menunjang angka penjualan
 
-### PERLENGKAPAN YANG DIDAPAT
+##### PERLENGKAPAN YANG DIDAPAT
 
 ![alat](../candy-crepes/alat.jpg)
 
@@ -152,11 +152,11 @@ Kami memberikan layanan desain gratis guna membantu mitra kami dalam menunjang a
 19. Toples Adonan : 1 pcs
 20. Celemek : 1 pcs
 
-### MATERIAL BOOTH KUALITAS TERBAIK
+##### MATERIAL BOOTH KUALITAS TERBAIK
 
 ![material](../candy-crepes/material.jpg)
 
-### MANAGEMENT SUPPORT
+##### MANAGEMENT SUPPORT
 
 ![team](../candy-crepes/team.jpg)
 
@@ -182,7 +182,7 @@ Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready s
 
 Siap mengirim segala jenis pemesanan paket yang dipesan oleh mitra, dan tiba di tempat secara tepat waktu
 
-### GRATIS BUKU PANDUAN MITRA
+##### GRATIS BUKU PANDUAN MITRA
 
 ![buku](../candy-crepes/buku.jpg)
 
@@ -199,7 +199,7 @@ Selain resep adonan rahasia, kami memiliki resep rahasia sukses!
 GRATIS! Majalah Candy Crepes yang berisi strategi penjualan, mitra terbaik kami, tips dan trik melakukan strategi penjualan, dll.
 * Khusus untuk mitra Candy Crepes
 
-### PERBANDINGAN DENGAN PRODUK LAIN
+##### PERBANDINGAN DENGAN PRODUK LAIN
 
 ![suka](../candy-crepes/suka.jpg)
 
@@ -220,7 +220,7 @@ GRATIS! Majalah Candy Crepes yang berisi strategi penjualan, mitra terbaik kami,
 * Masih mengambil tender dari pabrik yang masih dijual umum
 * Tidak ada inovasi dan pengembangan untuk mitra
 
-### CARA MEMBUAT SANGAT MUDAH
+##### CARA MEMBUAT SANGAT MUDAH
 
 ![cara](../candy-crepes/cara.jpg)
 
@@ -228,7 +228,7 @@ Gak usah bingung soal cara bikin Candy Crepes! Setiap pembelian paket franchise 
 
 SANGAT MUDAH & SIMPEL BUKAN?
 
-### MENU PALING BEST SELLER
+##### MENU PALING BEST SELLER
 
 ![menu1](../candy-crepes/menu1.jpg)
 
@@ -249,7 +249,7 @@ SANGAT MUDAH & SIMPEL BUKAN?
 * MILO (BEST SELLER)
 * CHOCO NUT
 
-### 100% BAHAN BAKU PILIHAN
+##### 100% BAHAN BAKU PILIHAN
 
 ![bahan](../candy-crepes/bahan.jpg)
 
@@ -260,7 +260,7 @@ SANGAT MUDAH & SIMPEL BUKAN?
 
 Dengan bahan baku dan topping pilihan, Cita rasa CANDY CREPES lebih terjaga, serta makin disukai banyak orang.
 
-### PERHITUNGAN BALIK MODAL
+##### PERHITUNGAN BALIK MODAL
 
 Tepung Crepes 1 kg = 35.000 (20 crepes)
 Kemasan = 1.000
@@ -289,7 +289,7 @@ Laba = 21.868.500
 
 BEP hanya 1-2 bulan saja!
 
-### FRANCHISE NO ROYALTY FEE
+##### FRANCHISE NO ROYALTY FEE
 
 SEMUA KEUNTUNGAN HASIL PENJUALAN SEPENUHNYA MILIK ANDA, TIDAK ADA SISTEM BAGI HASIL DENGAN PUSAT. MENGUNTUNGKAN BUKAN?
 
@@ -300,7 +300,7 @@ SEMUA KEUNTUNGAN HASIL PENJUALAN SEPENUHNYA MILIK ANDA, TIDAK ADA SISTEM BAGI HA
 
 ![booth](../candy-crepes/booth.jpg)
 
-### PERTANYAAN YANG SERING MUNCUL
+##### PERTANYAAN YANG SERING MUNCUL
 
 M  = Bagaimana menjadi mitra Candy Crepes?
 
@@ -346,7 +346,7 @@ M  = Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
 
 CC = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 5.000 s/d Rp 10.000 disesuaikan dengan daya beli disekitar outlet
 
-### CARA GABUNG SANGAT MUDAH
+##### CARA GABUNG SANGAT MUDAH
 
 Kami bantu memberikan pelayanan dan kemudahan terbaik bagi Anda
 
@@ -370,7 +370,7 @@ SANGAT MUDAHKAN?
 
 Hubungi kami & gabung jadi mitra segera, kesempatan sukses tidak hanya datang sekali.Jadilah salah satu mitra sukses kami & raih omzet puluhan juta tiap bulannya.
 
-### SYARAT & KETENTUAN
+##### SYARAT & KETENTUAN
 
 1. Memiliki modal yang cukup untuk investasi sesuai harga paket franchise
 2. Memiliki komitmen terhadap bisnis ini untuk maju dan berkembang bersama
@@ -379,7 +379,7 @@ Hubungi kami & gabung jadi mitra segera, kesempatan sukses tidak hanya datang se
 5. Bersedia menaati peraturan yang ada dalam surat kerja sama
 6. Wajib membeli bahan baku dari pusat
 
-### FASILITAS YANG DIPERLUKAN
+##### FASILITAS YANG DIPERLUKAN
 
 1. Lokasi berada di tempat strategis : didepan pusat keramaian /didepan sekolah - sekolah menengah keatas, kampus atau mini market
 
@@ -387,12 +387,12 @@ Hubungi kami & gabung jadi mitra segera, kesempatan sukses tidak hanya datang se
 
 3. Karyawan
 
-### WORKSHOP CANDY CREPES
+##### WORKSHOP CANDY CREPES
 Kami mempunyai space workshop sendiri demi menunjang kebutuhan mitra kami
 
 ![workshop](../candy-crepes/workshop.jpg)
 
-### COBAIN PAKET SAMPLENYA
+##### COBAIN PAKET SAMPLENYA
 
 ![sample](../candy-crepes/sample.jpg)
 

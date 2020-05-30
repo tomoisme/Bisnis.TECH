@@ -14,13 +14,13 @@ tagar:
 
 ![usaha kekinian pisang nugget kece](../pisang-nugget-kece/franchise-waralaba-pisang-nugget-kece.jpg)
 
-### PISANG NUGGET KECE
+##### PISANG NUGGET KECE
 
 Siapa sih yang tidak kenal dengan makanan yang satu ini, di Indonesia pisang goreng sudah dikenal sejak zaman dahulu kala, namun di era yang kekinian kami menghadirkan cemilan pisang goreng yang berbeda dengan cita rasa yang khas dari negeri gajah putih. Ayo jangan sampai tidak mencoba! Yang penasaran dengan rasanya bisa mencoba paket sample yang siap dikirim ke berbagai daerah di tanah air.
 
 Franchise paling menguntungkan No. 1 Di Indonesia
 
-### KENAPA HARUS MEMILIH KAMI?
+##### KENAPA HARUS MEMILIH KAMI?
 
 * HARGA TERJANGKAU
 
@@ -50,17 +50,17 @@ Kami selalu siap secara 24 jam dalam melayani dan membantu Anda.
 
 Kami selalu siap membantu membuat gerai Anda lebih menarik dengan desain yang fresh dan up to date secara gratis.
 
-### BERBAGAI KEUNGGULAN 
+##### BERBAGAI KEUNGGULAN 
 Pisang Nugget Kece terbukti berkualitas dan berbeda dari yang lain.
 
 ![penghargaan](../pisang-nugget-kece/penghargaan.jpg)
 
-### PENGHARGAAN LOKAL & NASIONAL YANG KAMI RAIH
+##### PENGHARGAAN LOKAL & NASIONAL YANG KAMI RAIH
 
 Dalam kurun waktu 2 tahun, Pisang Nugget Kece berhasil menyita hati masyarakat dengan adanya 5 penghargaan yang diperoleh.
 Ini adalah sebagai bukti bahwa Pisang Nugget Kece satu-satunya produk yang sangat menjanjikan.
 
-### FRANCHISE PALING LENGKAP 
+##### FRANCHISE PALING LENGKAP 
 
 Mendapatkan semua perlengkapan secara lengkap & siap jualan, jadi tidak perlu khawatir semua sudah kami sediakan untuk Anda! FREE 100 bahan baku!
 
@@ -80,7 +80,7 @@ Free ongkir khusus pengiriman franchise wilayah pulau Jawa & diskon ongkir untuk
 
 ![peralatan](../pisang-nugget-kece/peralatan.jpg)
 
-### FASILITAS KAMI SEDIAKAN LENGKAP
+##### FASILITAS KAMI SEDIAKAN LENGKAP
 
 1. Kaos seragam : 2 pcs
 2. Wajan : 1 pcs
@@ -117,7 +117,7 @@ Mitra kami tersebar di seluruh Indonesia, Brand Pisang Nugget Kece sudah merasuk
 
 
 
-### CERITA SUKSES MITRA TERBAIK
+##### CERITA SUKSES MITRA TERBAIK
 Yuk simak cerita sukses mitra kami dari berbagai daerah di Indonesia.
 
 ![mitra sukses ratnasari](../pisang-nugget-kece/mitra-sukses-ratnasari.jpg)
@@ -168,44 +168,44 @@ Penjualan 100-150/hari
 
 Salah satu mitra kami asal Tasikmalaya, yakni Ibu Rani beliau membuka outlet Pisang Nugget kece di sebuah foodcourt, dalam seharinya baliau mampu menjual 100-150 porsi. Dengan penjualan beliau yang stabil kini beliau mampu melakukan pembaharuan outlet di depan mini market. Tentu saja semua ini tak luput dari kerja keras beliau yang secara konsisten menjalankan usahanya.
 
-### GALERI PISANG NUGGET KECE
+##### GALERI PISANG NUGGET KECE
 Terbukti Pisang Nugget Kece memang produk unggulan yang dapat diterima dengan baik oleh semua kalangan masyarakat Indonesia
 ![outlet pisang nugget kepo](../pisang-nugget-kece/outlet-pisang-nugget-kece.jpg)
 
-### BUKTI TESTIMONI MITRA KAMI 
+##### BUKTI TESTIMONI MITRA KAMI 
 
 Dari bukti berikut kita tahu bahwa Pisang Nugget Kece adalah usaha franchise yang paling menguntungkan
 
 ![bukti testimoni](../pisang-nugget-kece/bukti-testimoni.jpg)
 
-### BUKTI PENGIRIMAN!
+##### BUKTI PENGIRIMAN!
 Pengiriman dikirim dengan ekspedisi terpercaya
 
 ![bukti pengiriman](../pisang-nugget-kece/bukti-pengiriman.jpg)
 
 
-### PILIHAN PAKET PROMO MURAH
+##### PILIHAN PAKET PROMO MURAH
 Paket promo paling murah dan lengkap, semua termasuk perlengkapan masak dan gratis bahan baku
 
-### PAKET BOOTH PREMIUM GRATIS 100 BAHAN BAKU 
+##### PAKET BOOTH PREMIUM GRATIS 100 BAHAN BAKU 
 
 Dari 13 jt Diskon jadi Rp 8,7 jt saja
 
 ![paket booth premium](../pisang-nugget-kece/paket-booth-premium.jpg)
 
-### PAKET BOOTH INDOOR GRATIS 100 BAHAN BAKU
+##### PAKET BOOTH INDOOR GRATIS 100 BAHAN BAKU
 
 
 Dari 12 Jt Diskon Jadi 7,6 jt saja
 
 ![paket booth indoor](../pisang-nugget-kece/paket-booth-indoor.jpg)
 
-### PAKET TANPA BOOTH GRATIS 100 BAHAN BAKU
+##### PAKET TANPA BOOTH GRATIS 100 BAHAN BAKU
 Dari 8 jt Diskon jadi 5,8jt saja
 
 ![paket tanpa booth](../pisang-nugget-kece/paket-tanpa-booth.jpg)
 
-### KUALITAS BOOTH TERBAIK
+##### KUALITAS BOOTH TERBAIK
 
 Semua bahan material booth adalah bahan kualitas unggulan guna menunjang penjualan Anda
 
@@ -245,7 +245,7 @@ Siap mengirim ke seluruh wilayah Indonesia segala jenis pesanan mitra secara tep
 
 "TEAM YANG SIAP MEMFOLLOW UP SECARA INTENTS GUNA MENCAPAI PENJUALAN SECARA MAKSIMAL"
 
-### GRATIS BUKU PANDUAN SUKSES
+##### GRATIS BUKU PANDUAN SUKSES
 
 Mendapatkan buku panduan strategi penjualan sukses berjualan
 
@@ -259,7 +259,7 @@ Selain resep bahan baku rahasia, kami memiliki RESEP RAHASIA SUKSES
 * Meningkatkan keuntungan 50% tiap bulannya
 * Penempatan lokasi paling strategis
 
-### BANDINGKAN SAJA!
+##### BANDINGKAN SAJA!
 
 Sudah terbukti Pisang Nugget Kece paling berkualitas & beda dari yang lain
 Berikut ini adalah perbandingan kami dengan produk yang lain
@@ -279,7 +279,7 @@ Berikut ini adalah perbandingan kami dengan produk yang lain
 * Masih mengambil tender dari pabrik yang masih dijual umum
 * Tidak ada inovasi dan pengembangan untuk mitra
 
-### VARIANT MENU BEST SELLER
+##### VARIANT MENU BEST SELLER
 Kami menghadirkan menu paling Best Seller dan andalan, sangat cocok dengan lidah Indonesia
 
 ![pisang nugget pinkberry](../pisang-nugget-kece/pisang-nugget-pinkberry.jpg)
@@ -347,7 +347,7 @@ Ala Chef Bintang 5
 BAHAN BAKU HABIS? TINGGAL ORDER AJA
 BAHAN BAKU READY STOCK UNTUK ANDA
 
-### PERHITUNGAN BALIK MODAL
+##### PERHITUNGAN BALIK MODAL
 Dengan modal yang minim dapat memberikan keuntungan yang maksimal untuk hasil Usaha Anda
 
 * Tepung Pisang Nugget Kece : Rp 35.000,- (30 porsi)
@@ -385,7 +385,7 @@ NO ADVERTISING FEE
 
 100% KEUNTUNGAN MILIK ANDA
 
-### TANYA JAWAB DENGAN CALON MITRA
+##### TANYA JAWAB DENGAN CALON MITRA
 Beberapa pertanyaan dari calon mitra yang sering muncul & kami senantiasa memberikan solusinya
 
 M  = Bagaimana menjadi mitra Pisang Nugget Kece?
@@ -432,7 +432,7 @@ M  = Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
 
 PN = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 10.000 s/d Rp 30.000 disesuaikan dengan daya beli disekitar outlet
 
-### CARA & SYARAT GABUNG
+##### CARA & SYARAT GABUNG
 Kami bantu memberikan pelayanan dan kemudahan terbaik bagi Anda
 
 **1. PILIH PAKET FRANCHISE**
@@ -451,7 +451,7 @@ Paket akan kami kirimkan segera secara cepat agar bisa tiba ditempat dengan wakt
 
 Paket tiba di lokasi tepat waktu & mitra bisa langsung berjualan
 
-### SYARAT
+##### SYARAT
 
 1. Memiliki modal yang cukup untuk investasi sesuai harga paket franchise
 
@@ -465,7 +465,7 @@ Paket tiba di lokasi tepat waktu & mitra bisa langsung berjualan
 
 6. Wajib membeli bahan baku dari pusat
 
-### FASILITAS YANG DIPERLUKAN
+##### FASILITAS YANG DIPERLUKAN
 
 1. Lokasi berada di tempat strategis : didepan pusat keramaian /didepan sekolah - sekolah menengah keatas, kampus atau mini market
 
@@ -473,13 +473,13 @@ Paket tiba di lokasi tepat waktu & mitra bisa langsung berjualan
 
 3. Karyawan
 
-### WORKSHOP PISANG NUGGET KECE
+##### WORKSHOP PISANG NUGGET KECE
 Kami mempunyai space workshop sendiri demi menunjang kebutuhan mitra kami
 
 ![workshop pisang nugget kece](../pisang-nugget-kece/workshop-pisang-nugget-kece.jpg)
 
 
-### PAKET SAMPLE
+##### PAKET SAMPLE
 
 ![paket sample](../pisang-nugget-kece/paket-sample.jpg)
 

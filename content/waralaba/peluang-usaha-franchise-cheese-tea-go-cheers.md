@@ -10,7 +10,7 @@ tagar:
 - waralaba kuliner
 ---
 
-### Tentang Gocheers - Cheese Tea Specialist
+##### Tentang Gocheers - Cheese Tea Specialist
 
 Gocheers Cheese Tea merupakan salah satu usaha yang bergerak di bidang kuliner minuman cepat saji. Gocheers berusaha untuk menjadi bisnis waralaba minuman terbesar, menguntungkan dan paling dipercaya oleh para mitra. Gocheers menawarkan minuman yang enak dan segar dengan bahan baku berkualitas tinggi namun dengan harga yang terjangkau serta memberikan pelayanan yang memuaskan untuk para mitra dan pelanggan Gocheers Cheese Tea.
 
@@ -26,7 +26,7 @@ Mengapa harus Gocheers? Karena kami memiliki beberapa kelebihan dibandingkan pro
 ![investasi terjangkau](../gocheers/gocheers-investasi-murah.jpg)
 ![tim support yang ramah dan profesional](../gocheers/gocheers-ramah-profesional.jpg)
 
-### Varian Menu GoCheers
+##### Varian Menu GoCheers
 
 ![banana cheese tea](../gocheers/menu-gocheers-banana-cheese-tea.jpg)
 ![blacktea cheese tea](../gocheers/menu-gocheers-blacktea-cheese-tea.jpg)
@@ -40,7 +40,7 @@ Mengapa harus Gocheers? Karena kami memiliki beberapa kelebihan dibandingkan pro
 ![milo cheese tea](../gocheers/menu-gocheers-milo-cheese-tea.jpg)
 ![peach cheese tea](../gocheers/menu-gocheers-peach-cheese-tea.jpg)
 
-### Syarat Bermitra
+##### Syarat Bermitra
 
 - Memiliki tempat usaha
 - Memiliki komitmen, semangat dan jiwa enterpreneur untuk menjalankan bisnis Gocheers
@@ -48,7 +48,7 @@ Mengapa harus Gocheers? Karena kami memiliki beberapa kelebihan dibandingkan pro
 - Memahami keuntungan dan resiko bergabung dengan bisnis waralaba/franchise Gocheers
 - Bersedia mentaati kontrak kerjasama dengan Gocheers
 
-### Keuntungan Bermitra 
+##### Keuntungan Bermitra 
 
 - Berkesempatan memiliki usaha sendiri
 - Tidak ada royalty fee, artinya keuntungan 100% milik anda
@@ -59,12 +59,12 @@ Mengapa harus Gocheers? Karena kami memiliki beberapa kelebihan dibandingkan pro
 - Banyak pilihan desain outlet yang kekinian
 - Balik modal yang cepat. Hanya 1-2 bulan saja (apabila penjualan sesuai asumsi)
 
-### Paket Kemitraan GoCheers Cheese Tea
+##### Paket Kemitraan GoCheers Cheese Tea
 
 ![Paket A](../gocheers/harga-waralaba-gocheers-cheese-tea-paket-a.jpg)
 ![Paket B](../gocheers/harga-waralaba-gocheers-cheese-tea-paket-b.jpg)
 
-### Proses Bermitra
+##### Proses Bermitra
 
 * Membayar lunas paket investasi
 * Proses pengiriman paket ke lokasi

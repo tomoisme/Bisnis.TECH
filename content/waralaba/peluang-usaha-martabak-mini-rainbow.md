@@ -10,7 +10,7 @@ tagar:
 - waralaba kuliner
 ---
 
-### MARTABAK MINI RAINBOW
+##### MARTABAK MINI RAINBOW
 
 ![peluang usaha waralaba martabak mini rainbow](../martabak-mini-rainbow/peluang-usaha-waralaba-martabak-mini-rainbow.jpg)
 
@@ -21,7 +21,7 @@ Martabak Mini Rainbow selalu menghadirkan inovasi baru untuk menunjang perkemban
 
 Kini Martabak Mini Rainbow hadir dengan kemasan baru! Dengan tampilan baru Martabak Mini Rainbow lebih menarik dan eyecathcing.
 
-### TERBUKTI!!! PALING MENGUNTUNGKAN
+##### TERBUKTI!!! PALING MENGUNTUNGKAN
 
 ![terbukti 1](../martabak-mini-rainbow/terbukti1.jpg)
 
@@ -32,7 +32,7 @@ Kini Martabak Mini Rainbow hadir dengan kemasan baru! Dengan tampilan baru Marta
 
 Mitra kami sudah tersebar di seluruh penjuru Indonesia & sukses bersama kami, kini saatnya kesempatan Anda meraih sukses bersama Martabak Mini Rainbow.
 
-### CERITA SUKSES MITRA KAMI
+##### CERITA SUKSES MITRA KAMI
 
 ![siti](../martabak-mini-rainbow/siti.jpg)
 
@@ -66,13 +66,13 @@ Jatibarang
 
 Ibu Nurul mitra rainbow asal Jatibarang bergabung menjadi mitra sejak awal 2016 ini membuka gerai Martabak Mini Rainbow di lingkungan sekolah dan hasil penjualannya setiap bulannya cukup stabil kini beliau mampu membeli motor dan beberapa peralatan serta perabot rumah tangga, pencapaian beliau yang luar biasa tentunya disertai dengan kerja keras beliau dari awal tahun 2016.
 
-### TESTIMONI REAL MITRA
+##### TESTIMONI REAL MITRA
 
 ![testimoni](../martabak-mini-rainbow/testimoni.jpg)
 
 **SAATNYA ANDA BERGABUNG & SUKSES SEPERTI MEREKA!**
 
-### SEGERA MILIKI PAKET USAHA LENGKAP SIAP JUALAN
+##### SEGERA MILIKI PAKET USAHA LENGKAP SIAP JUALAN
 
 **Promo Paket Franchise!**
 
@@ -82,16 +82,16 @@ Dapatkan juga PROMO SPESIAL tambahan khusus untuk Anda Promo ongkir dan GRATIS b
 
 ![say hi](../martabak-mini-rainbow/say-hi.jpg)
 
-### SAY HI TO...
+##### SAY HI TO...
 
 **Martabak Mini Rainbow Lovers**
 
 ![share](../martabak-mini-rainbow/share.jpg)
 
-### SHARE YOUR HAPINESS MOMENT
+##### SHARE YOUR HAPINESS MOMENT
 Bagikan moment seru kamu bareng Martabak Mini Rainbow, upload di Instagram kamu dan tag ke kami, foto terbaik akan kami repost dengan akun instagram Official Martabak Mini Rainbow.
 
-### KENAPA HARUS PILIH KAMI?
+##### KENAPA HARUS PILIH KAMI?
 
 * HARGA TERJANGKAU
 
@@ -122,7 +122,7 @@ Kami selalu siap dalam 24 jam dalam melayani dan membantu Anda.
 Kami selalu siap membantu membuat gerai Anda lebih menarik dengan desain yang fresh dan up to date secara gratis.
  
 
-### PILIHAN PAKET FRANCHISE
+##### PILIHAN PAKET FRANCHISE
 
 ![paket booth outdoor](../martabak-mini-rainbow/paket-booth-outdoor.jpg)
 
@@ -158,17 +158,17 @@ Harga dari 8,5jt diskon menjadi 5,7jt saja
 
 ![bikin](../martabak-mini-rainbow/bikin.jpg)
 
-### BIKIN OUTLETMU LEBIH KECE
+##### BIKIN OUTLETMU LEBIH KECE
 
-### GRATIS LAYANAN DESAIN 
+##### GRATIS LAYANAN DESAIN 
 
 GRATISS layanan design untuk semua mitra Matabak Mini Rainbow. Request Design bisa berupa flayer, brosur, menu, banner, x banner, dll.
 
-### COMING SOON!
+##### COMING SOON!
 ![coming](../martabak-mini-rainbow/coming.jpg)
 
 
-### PERLENGKAPAN YANG DIDAPAT
+##### PERLENGKAPAN YANG DIDAPAT
 
 ![perlengkapan](../martabak-mini-rainbow/perlengkapan.jpg)
 
@@ -195,14 +195,14 @@ GRATISS layanan design untuk semua mitra Matabak Mini Rainbow. Request Design bi
 20. Toples Selai : 1 buah
 21. Toples Adonan : 1 buah
 
-### BEST QUALITY 100% SATISFACTION
+##### BEST QUALITY 100% SATISFACTION
 ![satisfaction](../martabak-mini-rainbow/satisfaction.jpg)
 
 * Kayu berkualitas unggulan
 * Besi kuat sebagai tiang penyangga
 * Desain booth yang menarik & eyecathing
 
-### MANAGEMENT TEAM
+##### MANAGEMENT TEAM
 
 ![managemen](../martabak-mini-rainbow/managemen.jpg)
 
@@ -230,7 +230,7 @@ Team produksi yang selalu mengontrol ketersediaan bahan baku agar selalu ready s
 
 Siap mengirim segala jenis pemesanan paket yang dipesan oleh mitra, dan tiba di tempat secara tepat waktu
 
-### GRATIS BUKU PANDUAN MITRA
+##### GRATIS BUKU PANDUAN MITRA
 
 **FREE BOOK OF SECRET**
  
@@ -247,7 +247,7 @@ GRATIS! Majalah Martabak Mini Rainbow yang berisi strategi penjualan, mitra terb
 
 * Khusus untuk mitra Martabak Mini Rainbow
 
-### PERBANDINGAN DENGAN PRODUK LAIN
+##### PERBANDINGAN DENGAN PRODUK LAIN
 
 **MARTABAK MINI RAINBOW**
 
@@ -264,7 +264,7 @@ GRATIS! Majalah Martabak Mini Rainbow yang berisi strategi penjualan, mitra terb
 * Masih mengambil tender dari pabrik yang masih dijual umum
 * Tidak ada inovasi dan pengembangan untuk mitra
 
-### MENU PALING BEST SELLER
+##### MENU PALING BEST SELLER
 
 ![menu1](../martabak-mini-rainbow/menu1.jpg)
 
@@ -313,13 +313,13 @@ Coklat chips warna warni terasa sangat lezat dengan paduan martabak mini yang gu
 
 Gurihnya paduan martabak mini dengan kacang terasa lumer saat dimakan semakin tinggi terbang melayang-layang
 
-### CARA BUAT SANGAT MUDAH
+##### CARA BUAT SANGAT MUDAH
 
 Tidak perlu bingung dengan cara membuat Martabak Mini Rainbow karena kami mempunyai CD yang berisi file video cara pembuatan yang sangat mudah sekali untuk dipelajari & dipahami.
 
 SANGAT MUDAH & SIMPEL BUKAN?
 
-### RETURN OF INVESTMENT
+##### RETURN OF INVESTMENT
 
 **HARGA BAHAN BAKU**
 
@@ -399,7 +399,7 @@ B.E.P : 1-2 bulan
   
 * Penggunaan Telur : 1/2 tepung untuk 1 butir telur
 
-### FRANCHISE NO ROYALTY FEE
+##### FRANCHISE NO ROYALTY FEE
 
 SEMUA KEUNTUNGAN HASIL PENJUALAN SEPENUHNYA MILIK ANDA, TIDAK ADA SISTEM BAGI HASIL DENGAN PUSAT. MENGUNTUNGKAN BUKAN?
 
@@ -408,7 +408,7 @@ SEMUA KEUNTUNGAN HASIL PENJUALAN SEPENUHNYA MILIK ANDA, TIDAK ADA SISTEM BAGI HA
 * No Franchise Fee
 * No Advertising Fee
 
-### FREQUENTLY ASKED QUESTION
+##### FREQUENTLY ASKED QUESTION
 
 Apa saja sih pertanyaan yang sering muncul?
 Berikut penjelasannya
@@ -458,7 +458,7 @@ M  = Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
 MR = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 5.000 s/d Rp 10.000 disesuaikan dengan daya beli disekitar outlet
 
 
-### CARA GABUNG SANGAT MUDAH
+##### CARA GABUNG SANGAT MUDAH
 
 Kami bantu memberikan pelayanan dan kemudahan terbaik bagi Anda
 
@@ -482,7 +482,7 @@ SANGAT MUDAHKAN?
 
 Hubungi kami & gabung jadi mitra segera, kesempatan sukses tidak hanya datang sekali.Jadilah salah satu mitra sukses kami & raih omzet puluhan juta tiap bulannya.
 
-### SYARAT & KETENTUAN
+##### SYARAT & KETENTUAN
 
 1. Memiliki modal yang cukup untuk investasi sesuai harga paket franchise
 2. Memiliki komitmen terhadap bisnis ini untuk maju dan berkembang bersama
@@ -491,7 +491,7 @@ Hubungi kami & gabung jadi mitra segera, kesempatan sukses tidak hanya datang se
 5. Bersedia menaati peraturan yang ada dalam surat kerja sama
 6. Wajib membeli bahan baku dari pusat
 
-### FASILITAS YANG DIPERLUKAN
+##### FASILITAS YANG DIPERLUKAN
 
 1. Lokasi berada di tempat strategis : didepan pusat keramaian /didepan sekolah - sekolah menengah keatas, kampus atau mini market
 
@@ -503,10 +503,10 @@ Hubungi kami & gabung jadi mitra segera, kesempatan sukses tidak hanya datang se
 
 ![workshop martabak](../martabak-mini-rainbow/workshop-martabak.jpg)
 
-### WORKSHOP MARTABAK MINI RAINBOW
+##### WORKSHOP MARTABAK MINI RAINBOW
 Kami mempunyai space workshop sendiri demi menunjang kebutuhan mitra kami
 
-### COBAIN PAKET SAMPLENYA
+##### COBAIN PAKET SAMPLENYA
 
 ![sample](../martabak-mini-rainbow/sample.jpg)
 

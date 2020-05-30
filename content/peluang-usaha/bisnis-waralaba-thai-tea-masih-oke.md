@@ -12,7 +12,7 @@ tagar:
 - bisnis waralaba
 ---
 
-#### Bagaimana Peluang Usaha Thai Tea Di Tahun 2019?
+##### Bagaimana Peluang Usaha Thai Tea Di Tahun 2019?
 
 Mulai menjamur sejak tahun 2016 silam, gerai thai tea saat ini telah sangat populer di berbagai daerah di Indonesia. Diawali oleh tren minuman milk tea dan bubble tea, ternyata minuman thai tea juga tidak kalah digemari oleh masyarakat. Bahkan saat ini, gembar-gembor bisnis thai tea lebih terasa dibandingkan dengan minuman kekinian pendahulunya.
 
@@ -22,7 +22,7 @@ Apabila dilihat dari popularitasnya yang terus menanjak dan promosi penyedia [wa
 
 Efek dari popularitas minuman thai tea ini akan sangat menguntungkan bagi pemilik waralaba minuman thai tea dalam jangka panjang. Karena mungkin saja sampai dengan saat ini masih banyak orang yang belum mencoba jenis minuman kekinian yang baru dari negeri gajah ini. Sehingga potensi [peluang bisnis thai tea](./) bisa dibilang masih sangat besar.
 
-#### Mengapa Harus Ikutan Meraih Peluang Usaha Thai Tea?
+##### Mengapa Harus Ikutan Meraih Peluang Usaha Thai Tea?
 
 Karena animo masyarakat yang masih cukup tinggi untuk mencoba varian minuman kekinian ini. Thai tea masih tergolong baru apabila dibandingkan dengan minuman seperti cappucino cincau, milk tea, bubble tea dan es kepal milo. Dan tidak seperti peluang usaha minuman kekinian seperti es kepal milo dan cappucino cincau, nama thai tea tidak meredup dan tidak hanya menjadi sensasi 1-2 bulan saja.
 

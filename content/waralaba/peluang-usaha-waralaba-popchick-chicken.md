@@ -14,7 +14,7 @@ tagar:
 - peluang usaha kuliner
 - peluang bisnis kuliner
 ---
-### POPCHICK CHICKEN
+##### POPCHICK CHICKEN
 
 ![logo](../popchick-chicken/logo.jpg)
 
@@ -42,7 +42,7 @@ Sudah lebih dari 350 mitra telah bergabung dengan Popchick Chicken, kini saatnya
 
 100% MENGUNTUNGKAN
 
-### POPCHICK CHICKEN KEMASAN BARU
+##### POPCHICK CHICKEN KEMASAN BARU
 
 ![intro 3](../popchick-chicken/intro3.jpg)
 
@@ -55,7 +55,7 @@ Kini Popchick Chicken hadir dengan desain kemasan box baru. Dapatkan Segera!
  
 JADILAH  SALAH SATU MITRA SUKSES KAMI
 
-### LUNAS KIRIM HARI INI
+##### LUNAS KIRIM HARI INI
 
 ![kirim](../popchick-chicken/kirim.jpg)
 
@@ -63,17 +63,17 @@ PAKET AKAN KAMI KIRIMKAN DI HARI YANG SAMA
 
 Semua paket franchise akan kami kirimkan lewat team ekspedisi kami sendiri dan pastinya sudah terpercaya, semua sudah terbukti cepat & tepat.
 
-### TERBUKTI 100% UNTUNG
+##### TERBUKTI 100% UNTUNG
 
 ![terbukti](../popchick-chicken/terbukti.jpg)
 
-### TESTIMONI CHAT MITRA POPCHICK CHICKEN
+##### TESTIMONI CHAT MITRA POPCHICK CHICKEN
 
 ![testimoni](../popchick-chicken/testi.jpg)
 
 **Popchick Chicken**
 
-### PROMO PAKET FRANCHISE
+##### PROMO PAKET FRANCHISE
 
 SPECIAL BULAN INI!
 
@@ -86,7 +86,7 @@ Harga promo paket mulai dari 7,9jt saja.
 "Sudah lengkap langsung jualan"
 Gratis 100 bahan baku
 
-### BERBAGAI KEUNGGULAN
+##### BERBAGAI KEUNGGULAN
 
 **1.Franchise Paling Lengkap**
 
@@ -116,7 +116,7 @@ JADILAH MITRA SUKSES DI KOTA ANDA! LEBIH DARI 400 MITRA TELAH BERGABUNG.
 
 YUK SHARE FOTO KAMU BARENG POPCHICK DI INSTAGRAM DENGAN HASTAG #POPCHICKCHICKEN
 
-### PILIHAN PAKET USAHA 
+##### PILIHAN PAKET USAHA 
 
 ![paket premium](../popchick-chicken/paket-premium.jpg)
 
@@ -154,25 +154,25 @@ DARI HARGA 12JT DISKON JADI 7,9JT SAJA
 
 ![best service](../popchick-chicken/best-service.jpg)
 
-### JANGAN KHAWATIR!
+##### JANGAN KHAWATIR!
 
-### SEMUA SUDAH KAMI SEDIAKAN LENGKAP SIAP JUALAN.
+##### SEMUA SUDAH KAMI SEDIAKAN LENGKAP SIAP JUALAN.
 
 Mulai dari perlengkapan masak sampai dengan kelengkapan booth semua sudah kami siapkan untuk Anda demi menunjang kelancaran penjualan dan sebagai tambahannya lagi kami juga memberikan 100 bahan baku secara cuma-cuma alias GRATIS pada saat awal mula Anda berjualan. 
 
-### GRATIS LAYANAN DESAIN
+##### GRATIS LAYANAN DESAIN
 
 ![layanan desain](../popchick-chicken/layanan-desain.jpg)
 
 Kami mempunyai team desain yang siap untuk melayani mitra kami secara maksimal guna menunjang penjualan mitra. Kami siap membantu Anda melalui koridor desain berupa desain banner, booth, brosur, konten, dll.
 
-### LAYANAN CUSTOMER SERVICE
+##### LAYANAN CUSTOMER SERVICE
 
 ![layanan cs](../popchick-chicken/layanan-cs.jpg)
 
 Team CS yang siap melayani Anda kapanpun selama 24 jam, memberikan solusi dan strategi demi mencapai penjualan tertinggi mitra kami serta selalu siap sedia melayani pembelian bahan baku mitra.
 
-### BOOTH BERKUALITAS
+##### BOOTH BERKUALITAS
 
 ![booth](../popchick-chicken/booth.jpg)
 
@@ -189,7 +189,7 @@ Dengan bahan besi pada tiang penyangga, booth semakin kuat dan tidak goyah.
 Desain booth yang menarik dan eyecatching, mempunyai daya tarik tersendiri dan bisa menunjang penjualan Anda 
 
 
-### MANAGEMENT SUPPORT
+##### MANAGEMENT SUPPORT
 
 ![team](../popchick-chicken/team.jpg)
 
@@ -226,7 +226,7 @@ Siap mengirim ke seluruh wilayah Indonesia segala jenis pesanan mitra secara tep
 "TEAM YANG SIAP MEMFOLLOW UP SECARA INTENTS GUNA MENCAPAI PENJUALAN SECARA MAKSIMAL" MELAYANI DENGAN SEPENUH HATI KARENA ANDA ADALAH PRIORITAS KAMI
 
 
-### RAHASIA SUKSES
+##### RAHASIA SUKSES
 
 ![buku](../popchick-chicken/buku.jpg)
 
@@ -238,7 +238,7 @@ Selain resep bahan baku rahasia, kami memiliki RESEP RAHASIA SUKSES
 * Mingkatkan keuntungan 50% tiap bulannya
 * Penempatan lokasi paling stategis
 
-### MENU BEST SELLER
+##### MENU BEST SELLER
 
 ![menu](../popchick-chicken/menu.jpg)
 
@@ -272,7 +272,7 @@ Dibuat dengan racikan bumbu rahasia dari negri gajah putih membuat sensasi rasa 
 * POPCHICK SAPI PANGGANG
 * POPCHICK BALADO
 
-### BANDINGKAN SAJA! TENTU KAMI YANG TEBAIK
+##### BANDINGKAN SAJA! TENTU KAMI YANG TEBAIK
 
 Sudah terbukti Popchic Chicken paling berkualitas & beda dari yang lain
 Berikut ini adalah perbandingan kami dengan produk yang lain
@@ -290,7 +290,7 @@ PRODUK LAIN
 * Masih mengambil tender dari pabrik yang masih dijual umum
 * Tidak ada inovasi dan pengembangan untuk mitra
 
-### BAHAN BAKU PALING MURAH
+##### BAHAN BAKU PALING MURAH
 
 ![bahan baku](../popchick-chicken/bahan.jpg)
 
@@ -311,7 +311,7 @@ Harga Bahan Baku : ( Harga per tahun 2018 )
 * HPP 1 porsi : Rp 7.100,- (kemasan box)
 * HPP 1 porsi : Rp 7.600,- (kemasan bowl)
 
-### RETURN OF INVESTMENT
+##### RETURN OF INVESTMENT
 
 ![return of investment](../popchick-chicken/roi.jpg)
 
@@ -329,7 +329,7 @@ Harga Bahan Baku : ( Harga per tahun 2018 )
 
 **B.E.P HANYA 1-2 BULAN SAJA!**
 
-### MENGUNTUNGKAN BUKAN?
+##### MENGUNTUNGKAN BUKAN?
 
 **1. HARGA FRANCHISE TERJANGKAU**
 
@@ -360,7 +360,7 @@ Kami menyediakan agen pengiriman demi kelancaran distribusi bahan baku maupun pa
 
 Kami selalu siap dalam 24 jam dalam melayani dan membantu Anda.
 
-### 100% KEUNTUNGAN MILIK ANDA
+##### 100% KEUNTUNGAN MILIK ANDA
 
 NO ROYALTY FEE 
 
@@ -370,7 +370,7 @@ Semua keuntungan hasil jualan sepenuhnya milik mitra, tidak ada sistem bagi hasi
 * NO FRANCHISE FEE
 * NO ADVERTISING FEE
 
-### TANYA JAWAB/ FAQ
+##### TANYA JAWAB/ FAQ
 
 ![frequently asked question](../popchick-chicken/faq.jpg)
 
@@ -421,7 +421,7 @@ M  = Apakah mitra diperbolehkan dalam mengubah harga jual per porsi?
 PC = Kami tidak mematok harga per porsi, kami hanya menyarankan untuk harga jual per porsi kisaran Rp 10.000 s/d Rp 20.000 disesuaikan dengan daya beli disekitar outlet
 
 
-### CARA GABUNG SANGAT MUDAH
+##### CARA GABUNG SANGAT MUDAH
 
 Kami bantu memberikan pelayanan dan kemudahan terbaik bagi Anda
 
@@ -439,7 +439,7 @@ Paket tiba di lokasi tepat waktu & mitra bisa lagsung berjualan
 
 **MUDAHKAN? AYO GABUNG SEGERA**
 
-### SYARAT & KETENTUAN
+##### SYARAT & KETENTUAN
 
 **SYARAT**
 
@@ -463,19 +463,19 @@ Paket tiba di lokasi tepat waktu & mitra bisa lagsung berjualan
 
 * 3. Karyawan/ staff
 
-### PAKET SAMPEL
+##### PAKET SAMPEL
 
 ![paket sampel](../popchick-chicken/sampel.jpg)
 
 **Masih ragu dengan kelezatan POPCHICK CHICKEN?**
 
-### COBAIN PAKET SAMPELNYA!
+##### COBAIN PAKET SAMPELNYA!
 
 Hanya Rp 90.000,-
 
 * Sudah termasuk CD SOP, tepung popchick, saus variant rasa, kemasan, dll disalamnya
 
-### GABUNG JADI MITRA KAMI SEGERA!
+##### GABUNG JADI MITRA KAMI SEGERA!
 
  
 

@@ -22,7 +22,7 @@ Mungkin banyak dari anda yang belum tau bahwa Nokia 8.1 sebenarnya merupakan ver
 
 ![Huawei Nova 3](../nokia8.1-vs-meizu16-vs-huawei-nova3/huawei-nova-3.jpg)
 
-#### Dimensi Dan Berat
+##### Dimensi Dan Berat
 
 **Nokia 8.1:** 154.8 x 75.8 x 8 mm (180 gram)
 
@@ -34,7 +34,7 @@ Dari sini dapat dilihat Nokia 8.1 memiliki bobot paling berat diantara ketiganya
 
 Desain Meizu 16 terkesan paling original dan futuristik karena tidak meniru notch yang dipopulerkan oleh iPhone. Nokia 8.1 terasa lebih tebal dibandingkan 2 pesaingnya, namun terasa kokoh dalam genggaman.
 
-#### Display
+##### Display
 
 **Nokia 8.1:** 6.18 inches, 1080 x 2280p (Full HD+), 408 ppi, IPS LCD
 
@@ -44,7 +44,7 @@ Desain Meizu 16 terkesan paling original dan futuristik karena tidak meniru notc
 
 Walaupun luas layar Meizu 16 paling kecil, namun pabrikan ini menawarkan layar AMOLED yang tentu saja paling unggul dibandingkan dengan 2 kompetitor lainnya. Ditambah lagi dengan adanya fitur fingerprint reader pada layarnya, Meizu 16 terkesan paling cangging diantara kedua kompetitor lainnya. Apabila kamu adalah seorang penikmat visual, disarankan untuk memilih Meizu 16.
 
-#### Processor
+##### Processor
 
 **Nokia 8.1:** Qualcomm Snapdragon 710, octa-core 2.2 GHz
 
@@ -54,7 +54,7 @@ Walaupun luas layar Meizu 16 paling kecil, namun pabrikan ini menawarkan layar A
 
 Untuk processor, smartphone yang menawarkan performa paling tinggi adalah Meizu 16 dengan Snapdragon 845.
 
-#### Memori
+##### Memori
 
 **Nokia 8.1:** 4 GB RAM, 64 GB – micro SD slot
 
@@ -64,7 +64,7 @@ Untuk processor, smartphone yang menawarkan performa paling tinggi adalah Meizu 
 
 Dalam hal memori, Nokia tidak menawarkan banyak pilihan selain RAM 4GB dan ROM 64GB sehingga calon pembeli yang ingin smartphone dengan ROM 128 GB terpaksa harus memilih antara Meizu 16 atau Huawei Hova 3.
 
-#### Kamera
+##### Kamera
 
 **Nokia 8.1:** Dual 12 + 13 MP f/1.8
 20 MP f/2.0 front camera
@@ -81,7 +81,7 @@ Yang unik dari ketiga smartphone diatas, Huawei Nova 3 memiliki  kamera depan ga
 
 Kabarnya kamera Nokia 8.1 dapat menghasilkan foto yang baik walaupun dengan kondisi pencahayaan kurang. Sedangkan kamera Meizu 16 unggul pada auto fokus yang baik dan fitur OIS yang sangat membantu untuk menghasilkan jepretan foto yang tajam.
 
-#### Kapasitas Baterai
+##### Kapasitas Baterai
 
 **Nokia 8.1:** 3500 mAh, Fast charging 18W
 
@@ -91,7 +91,7 @@ Kabarnya kamera Nokia 8.1 dapat menghasilkan foto yang baik walaupun dengan kond
 
 Huawei Nova 3 memenangkan perbandingan kapasitas baterai dengan menawarkan 3750 mAh. Bisa jadi ini pilihan yang sangat baik bagi anda yang butuh hape android yang dapat diandalkan seharian tanpa harus sering mengisi ulang daya. Nokia 8.1 juga tidak kalah jauh sebenarnya dengan 3500 mAh, sedangkan Meizu dengan 3010 mAh jelas tertinggal walaupun ada kompensasi fitur Quick Charge 4.0 dari SnapDragon 845.
 
-#### Software
+##### Software
 
 **Nokia 8.1:** Android 9 Pie, Android One
 
