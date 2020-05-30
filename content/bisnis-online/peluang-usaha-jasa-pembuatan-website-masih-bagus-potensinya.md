@@ -15,7 +15,7 @@ Di zaman yang sudah serba canggih sekarang ini, ada banyak hal yang bisa dijadik
 
 Namun, bagaimana nantinya anda akan mengenalkan bisnis tersebut ke masyarakat? Apa saja metode yang memungkinkan untuk mendapatkan perhatian publik dengan bisnis yang sedang anda kembangkan? Selain mengenalkan secara langsung, anda bisa menggunakan cara yang labih mudah yaitu menggunakan website.
 
-### Apa itu Website?
+##### Apa itu Website?
 
 Sebagian orang mungkin sudah akan familiar dengan istilah “website”. Karena sudah tidak asing lagi bagi seseorang untuk menggunakan dan mengakses sebuah website. Website atau yang dikenal dengan istilah situs ini adalah sekumpulan dari “page” atau halaman yang bisa di akses melalui internet. Halaman ini nantinya akan berisi beragam data berupa informasi tertulis, gambar, video atau yang lainnya.
 
@@ -27,7 +27,7 @@ Anda akan memudahkan siapapun yang ingin mencari dan terhubung dengan bisnis yan
 
 Orang-orang sekarang sudah banyak yang beralih menggunakan metode pencarian maupun pembelian online ketimbang metode konvensional. Bukan berarti bisnis yang masih menggunakan layanan konvensional tidak layak digunakan. Tapi kombinasi akan kedua jenis metode pemasaran bisnis ini tentunya akan lebih akurat dan membantu perkembangan bisnis tersebut.
 
-### Apa Saja Keuntungan Menggunakan Website Pribadi Untuk Sebuah Bisnis?
+##### Apa Saja Keuntungan Menggunakan Website Pribadi Untuk Sebuah Bisnis?
 
 Tidak diragukan lagi bahwa anda dan banyak orang lainnya akan menanyakan dan ingin mengetahui masalah ini. Di era modern ini, orang-orang dan beragam perusahaan ada di internet untuk mendapatkan dan memberikan informasi. Menurut Anda, mengapa orang mengunjungi sebuah situs website? Hal yang paling utama adalah untuk mencari informasi. Dan jika Anda berada di dunia bisnis, informasi tersebut sangatlah penting. Anda harus memiliki situs website untuk pelanggan Anda. Perlu berisi informasi tentang apa yang dapat Anda lakukan untuk mereka. Berikut akan dirincikan apa saja keuntungan dari menggunakan website untuk sebuah bisnis:
 
@@ -138,7 +138,7 @@ Tanpa dipungkiri lagi bahwa peluang untuk menjadi seorang pebisinis yang berhubu
 
 Para pemilik bisnis baik dalam skala besar maupun kecil kerap kali akan membutuhkan layanan dalam pembuatan website ini. Dan para pembuat website profesiional akan terus diburu. Hal yang paling penting dalam persaingan pembuatan website adalah tentang kecepatan, portofolio dan tentu saja masalah harga. Karena akan ada keberagaman yang diberikan oleh penyedia jasa pembuatan website tersebut.
 
-### Bagaimana Memilih Jasa Pembuatan Website Terbaik?
+##### Bagaimana Memilih Jasa Pembuatan Website Terbaik?
 
 Ini adalah salah satu pertanyaan dasar yang harus diketahui jawabannya oleh para pencari layanan ini. Karena sekarang, jika anda mencari layanan jasa pembuatan website, maka akan banyak sekali yang bisa ditemukan. Nah, bagaimana menentukan dan memilih salah satu yang terbaik? Pertimbangkan beberapa poin penting berikut saat anda memilih salah satu penyedia layanan jasa pembuatan website tersebut :
 

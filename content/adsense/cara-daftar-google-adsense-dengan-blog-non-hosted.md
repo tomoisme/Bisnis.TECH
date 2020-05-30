@@ -16,7 +16,7 @@ tagar:
 - beda adsense hosted dan non hosted
 ---
 
-### Apa Sih Bedanya Akun AdSense Non hosted dan Hosted?
+#### Apa Sih Bedanya Akun AdSense Non hosted dan Hosted?
 
 **AdSense non hosted** adalah akun Google AdSense yang didaftarkan dengan menggunakan blog/website yang memiliki domain berbayar (.com/.net/.org, dll). Biasanya melewati proses review yang lebih lama dan kemungkinan untuk diterima lebih kecil dibandingkan dengan mendaftarkan AdSense hosted. Dengan akun **AdSense non hosted**, sobat bisnis **dapat menaruh iklan AdSense di blog apapun tanpa perlu proses review lagi**. Sedangkan jika menggunakan akun **AdSense hosted**, sobat bisnis **hanya dapat menampilkan iklan di blogger maupun youtube**.
 
@@ -24,7 +24,7 @@ Ada yang bilang bahwa AdSense non hosted mendapatkan pembagian penghasilan lebih
 
 Buat sobat yang sudah mendaftar AdSense hosted dan ingin menampilkan iklan di website/blog dengan domain berbayar, jangan putus asa dulu. Karena akun AdSense hosted juga dapat ditingkatkan menjadi non hosted setelah melewati proses review.
 
-### Langkah Pertama Mendaftarkan AdSense Non Hosted
+#### Langkah Pertama Mendaftarkan AdSense Non Hosted
 
 Pahami dahulu kriteria blog/website yang disukai oleh Google, seperti misalnya: 
 
@@ -40,7 +40,7 @@ Buatlah blog yang memiliki kriteria seperti diatas. Apabila sobat merasa kesulit
 
 Prosesnya memang tidak mudah, namun saya yakin usaha dan kesabaran sobat bisnis tidak akan terbuang sia-sia. Dengan ketekunan dan kerja keras sobat, saya yakin sobat bisnis juga dapat menghasilkan uang dari internet lewat blogging dengan pendapatan hingga mencapai puluhan juta per bulannya.
 
-### Langkah Kedua Mendaftarkan AdSense Non Hosted
+#### Langkah Kedua Mendaftarkan AdSense Non Hosted
 
 Setelah membangun blog yang sesuai dengan kriteria AdSense, sekarang saatnya sobat mengajukan permohonan akun Google AdSense. Langsung saja kunjungi www.google.com/adsense lalu klik pada tombol sign up/daftar. 
 
@@ -48,7 +48,7 @@ Untuk mendaftar, tentu saja sobat perlu memiliki akun Google terlebih dahulu. Se
 
 Sesudah itu, sobat akan diminta untuk verifikasi via telpon atau text message. Dan jika proses verifikasi sudah selesai, sobat dapat menyalin kode javascript AdSense ke dalam website/blog sobat lalu tinggal menunggu proses review tim AdSense lebih lanjut.
 
-### Langkah Ketiga Mendaftarkan AdSense Non Hosted
+#### Langkah Ketiga Mendaftarkan AdSense Non Hosted
 
 Belum lengkap AdSense sobat jika belum bisa menerima pembayaran. Nah tetapi sebelum sobat dapat menerima pembayaran, ada satu lagi verifikasi yang perlu diselesaikan, yaitu verifikasi PIN.
 

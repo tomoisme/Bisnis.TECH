@@ -15,7 +15,7 @@ tagar:
 - cara mendapatkan uang dari internet
 ---
 
-#### Mencari Penghasilan Dari Internet Tidak Semudah Yang Dibayangkan
+##### Mencari Penghasilan Dari Internet Tidak Semudah Yang Dibayangkan
 
 Banyak blogger yang ingin mendapatkan penghasilan pasif dari internet lewat AdSense, sehingga mereka berupaya keras untuk membangun blog semaksimal mungkin. Pada kenyataannya tidak banyak blogger yang berhasil mendulang dollar AdSense ini. 
 
@@ -27,7 +27,7 @@ Bagi blogger yang ingin penghasilannya meningkat, silahkan coba cara di bawah in
 
 Langsung aja simak "Cara Mendapatkan Uang Rp 5 Juta Per Bulan Dari AdSense" di bawah ini:
 
-### 1. Jumlah Pengunjung Merupakan Kunci Utama
+##### 1. Jumlah Pengunjung Merupakan Kunci Utama
 
 Jika anda menargetkan untuk dapat Rp 5 juta per bulan dari AdSense. Itu artinya blog anda harus menghasilkan sekitar Rp 168.000 per harinya (Rp 5 juta dibagi 30 hari).
 
@@ -45,7 +45,7 @@ Jadi untuk mendapatkan Rp 168.000, anda harus mendapatkan 168 klik (1 klik = Rp 
 
 Nah, selanjutnya hal yang perlu anda fokuskan dalam blogging adalah bagaimana caranya mendatangkan 8.400 pengunjung tiap harinya agar blog anda berpotensi menghasilkan Rp 5 juta per bulan. Simak terus caranya di bawah ini.
 
-### 2. Diversifikasi Blog
+##### 2. Diversifikasi Blog
 
 Siapa bilang anda harus mendapatkan 8.400 pengunjung sehari dari satu blog saja, anda juga boleh membuat lebih dari 1 blog kok.
 
@@ -53,7 +53,7 @@ Dengan membuat 2 atau 3 blog dengan niche/topik yang berbeda, tentu saja mendapa
 
 Misalkan blog A mengulas tentang keuangan bisa mendapatkan traffic sebesar 5 ribu orang per hari, sedangkan blog B yang mengulas tentang travelling bisa mendatangkan 3.400 orang dalam sehari. Dengan begitu target traffic 8.400 orang sehari sudah tercapai bukan?
 
-### 3. Perbanyak Konten Blog
+##### 3. Perbanyak Konten Blog
 
 Semakin banyak postingan berkualitas dalam blog anda, maka jumlah pengunjung akan semakin banyak pula.
 
@@ -69,7 +69,7 @@ Bayangkan jika anda memiliki 100 atau bahkan 1.000 posting di blog anda, mendata
 
 Pada saat anda share postingan blog anda di sosial media, kemungkinan untuk viral juga lebih besar dengan semakin banyak artikel menarik yang anda share.
 
-### Kesimpulan
+##### Kesimpulan
 
 Kesimpulannya dari cara-cara untuk menghasilkan uang Rp 5 juta sebulan dari AdSense ini adalah:
 
