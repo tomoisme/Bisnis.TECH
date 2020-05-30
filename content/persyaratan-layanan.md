@@ -6,8 +6,6 @@ layout: "single"
 description: ""
 ---
 
-### Persyaratan Layanan Bisnis.TECH
-
 Syarat dan Ketentuan Penggunaan Situs Web
 
 **1. Ketentuan**

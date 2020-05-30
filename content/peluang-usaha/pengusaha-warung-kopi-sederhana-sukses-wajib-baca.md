@@ -9,8 +9,6 @@ tagar:
 - warung kopi sederhana
 ---
 
-{{<adsense-responsive>}}
-
 Baca disini bagi kamu yang ingin terjun di usaha kopi.
 
 Sebelum melihat lebih dalam mari kita melihat beberapa potensi dari usaha ini.
@@ -24,8 +22,6 @@ Dilihat dari potensi bisnis ini memang sangat besar.
 Tapi tentu kamu harus melihat beberapa aspek terlebih dahulu sebelum terjeun ke bidang usaha tersebut.
 
 Saya disini akan menjelaskan langkah-langkah agar kamu tidak salah kaprah dalam berbisnis.
-
-### Resiko Bisnis
 
 Dalam berbisnis tentu memiliki resiko dan harus ada yang di korbankan, entah itu waktu atau uang.
 
@@ -57,8 +53,6 @@ Fitur tambahan lannya dengan menjual gorengan apalagi tersedia alat musik sepert
 
 Carilah tempat yang memiliki daya beli masyarakat banyak seperti di dekat Wisata, PT, Kampus/Sekolah dll.
 
-{{<adsense-responsive>}}
-
 ### Kualitas
 
 Berbicara soal kualitas tentu berkaitan dengan kebersihan tempat dan pelayanan.
@@ -76,8 +70,6 @@ Warung kopi memang memiliki kelemahan tapi jika sekali berhasil tentu untung yan
 Selain itu bisnis ini berdurasi jangka panjang.
 
 Jika memang pelanggan sudah nyaman ngopi di tempat kamu tentu mereka akan balik lagi dan lagi.
-
-{{<adsense-responsive>}}
 
 ### Memilih Karyawan
 

@@ -13,8 +13,6 @@ tagar:
 - hobi gundam
 ---
 
-{{<adsense-responsive>}}
-
 Nilai bisnis action figure saat ini sudah mencapai angka yang luar biasa besar, buktinya marak sekali terjadi pembajakan mainan action figure oleh pelaku bisnis yang tak beretika. Mereka ingin meraup keuntungan dengan memalsukan produk action figure asli kemudian menjualnya dengan harga yang jauh lebih rendah dibandingkan dengan aslinya. Misalnya saja, salah satu bisnis action figure yang sering dibajak adalah Gundam dari Bandai (Jepang). 
 
 Dimana pembajakan action figure Gundam paling besar terjadi? Dimana lagi kalo bukan di China, negeri tirai bambu yang memang sejak jaman dulu terkenal dengan barang-barang imitasi, mulai dari smartphone hingga produk ecek-ecek ada semua tiruannya. 

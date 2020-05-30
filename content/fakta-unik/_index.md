@@ -1,11 +1,9 @@
 ---
-title: "Kumpulan Berbagai Fakta Unik Di Dunia Bisnis"
+title: "Kumpulan Berbagai Fakta Unik"
 date: 2018-07-01T12:49:33+07:00
 draft: false
 layout: "single"
 ---
-
-### Kumpulan Fakta Unik Di Dunia Bisnis Dari Seantero Dunia
 
 1. Perusahaan minyak raksasa, Shell berawal dari sebuah toko barang antik yang menjual cangkang kerang (shell). Pada tahun 1833 Marcus Samuel (pendiri Shell), melakukan perjalanan bisnis ke Jepang dengan tujuan untuk mencari cangkang kerang oriental untuk diimport, namun di tengah perjalanan dia kemudian tertarik pada bisnis ekspor minyak mentah.
 
