@@ -13,7 +13,7 @@ tagar:
 - panduan instagram
 ---
 
-### Follow-Unfollow
+##### Follow-Unfollow
 
 Mem-follow orang-orang dengan niche yang sama adalah cara terbaik untuk mulai mengembangkan follower akun kamu. Jika kamu memposting konten yang bermanfaat dan kamu mem-follow orang yang mungkin saja tertarik dengan konten kamu, kemungkinan besar orang tersebut akan mem-follow kamu juga (follback).
 
@@ -39,7 +39,7 @@ Untuk mendapatkan follow back dari orang yang sudah kamu folow, idealnya kamu ha
 
 Hal ini akan membuat kamu terlihat natural sebagai orang yang menyukai konten mereka dan bukan hanya sekedar bot saja. Dengan nge-like foto-foto target kamu, kemungkinan besar target kamu akan percaya bahwa kamu tertarik dengan konten mereka sehingga potensi mendapatkan follback akan lebih besar.
 
-### Komentar
+##### Komentar
 
 Memberikan komentar merupakan hal yang sangat penting untuk meningkatkan "presence" kamu di instagram. Jika diperhatikan lebih seksama, berkomentar sebenarnya lebih penting dari sekedar follow orang lain karena kamu akan dapat menarik lebih dari 1 orang saja dengan komentar kamu.
 

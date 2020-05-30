@@ -17,7 +17,7 @@ Namun jangan khawatir, saya akan menjelaskan semudah mungkin.
 
 Tanpa banyak basa-basi mari kita langsung bahas ke inti dari artikel ini.
 
-### Data Terstruktur
+##### Data Terstruktur
 
 Tampilan sudah menarik dan tidak ada menu yang error.
 
@@ -25,7 +25,7 @@ Namun ternyata struktur blog memiliki eror.
 
 Silahkan perbaiki menggunakan Alat Pengujian Data Terstruktur Google.
 
-### Menyediakan Konten Yang Bermanfaat
+##### Menyediakan Konten Yang Bermanfaat
 
 Apalah arti sebuah blog jika ternyata isi konten tidaklah bermanfaat.
 
@@ -33,7 +33,7 @@ Banyak teknik, untuk Optimasi SEO.
 
 Namun hal paling utama adalah konten kamu bermanfaat atau tidak.
 
-### Social Bookmark
+##### Social Bookmark
 
 Sosial Bookmark cukup penting apa lagi blog baru.
 
@@ -45,7 +45,7 @@ Penting atau tidak penting menurut saya sangat penting.
 
 Jika blog kamu memiliki sosial media, pasti orang akan lebih mudah mendapatkan informasi terbaru dari sosial media yang telah di buat. 
 
-### Internal Backlinks
+##### Internal Backlinks
 
 Internal backlink cukup gunakan sewajarnya jangan berlebihan.
 
@@ -57,7 +57,7 @@ Tidak ada larangan semua sesuai keinginan kalian.
 
 Saya hanya memberikan gambaran besar bahwa internal backlinks cukup penting.
 
-### External Backlinks
+##### External Backlinks
 
 Sebenarnya saya sendiri kurang memahami soal external backlink.
 
@@ -71,7 +71,7 @@ Simple dan sangat sederhana saya sendiri menggunakan jasa.
 
 Karena blog dengan DA/PA tinggi sulit untuk di dapatkan.
 
-### Membuat Judul Menarik
+##### Membuat Judul Menarik
 
 Bayangkan saat kamu bermain facebook melihat judul artikel di bawah ini.
 
@@ -83,7 +83,7 @@ Kalau kamu memilih yang kedua, Kamu tidak beda dengan manusia normal lainnya.
 
 Dengan kata lain Judul sangat berpengaruh besar untuk meningkatkan trafik.
 
-### Membuat Konten Kumpulan "Tidak Wajib"
+##### Membuat Konten Kumpulan "Tidak Wajib"
 
 Sebuah artikel yang kaya dengan isi konten, bisa kamu pilih untuk dongkrak trafik.
 
@@ -99,7 +99,7 @@ Contoh:
 
 Kumpulan konten bisa menarik klik di mesin pencarian sekaligus bagus untuk SEO.
 
-### Riset Keyword
+##### Riset Keyword
 
 Riset Keyword sangatlah penting.
 
@@ -111,7 +111,7 @@ Hal ini sangat penting jika kamu ingin nangkring di Page-One Google Search.
 
 Blog Baru nembak keyword HPK, pasti sangat kesulitan untuk naik Ke Top Page Google Search.
 
-### Buat Konten Unggulan Yang Bisa Mendatangkan Backlink Organik
+##### Buat Konten Unggulan Yang Bisa Mendatangkan Backlink Organik
 
 Kalian pasti pernah dengar istilah bibit unggul?
 
@@ -158,7 +158,7 @@ Paling tidak jika pengunjung terkesan pasti akan membagikan di Sosial Media mere
 
 Maka dari itu mendapatkan backlink organik dengan DA/PA tinggi cukup sulit.
 
-### Hati-hati membuat Backlinks Sendiri
+##### Hati-hati membuat Backlinks Sendiri
 
 Teknik Backlink yang berjibun pada tahun belakangan ini memang cukup efektif untuk SEO.
 

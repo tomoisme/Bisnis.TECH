@@ -25,7 +25,7 @@ tagar:
 - investasi online
 ---
 
-### Cara Yang Telah Dibuktikan Berhasil Bahkan Oleh Anak SMA Sekalipun
+##### Cara Yang Telah Dibuktikan Berhasil Bahkan Oleh Anak SMA Sekalipun
 
 Jumpa lagi guys di Bisnis.TECH, kali ini saya akan menjelaskan dengan detail langkah demi langkah cara dapetin duit jutaan dari bisnis online. Selain itu juga kamu akan bisa mendapatkan pasif income/penghasilan pasif dari internet dengan cara ini.
 
@@ -48,7 +48,7 @@ Oh iya, mungkin ada sebagian dari kamu yang bertanya-tanya seperti ini:
 
 Sebelum masuk ke dalam pembahasan cara mendapatkan jutaan hingga puluhan juta dari bisnis online, ada 3 hal penting yang perlu kamu siapkan terlebih dahulu, antara lain:
 
-#### Modal Awal Yang Paling Penting: Mindset
+##### Modal Awal Yang Paling Penting: Mindset
 
 Menyiapkan mindset (pola pikir) kamu merupakan modal awal yang sangat penting bagi siapapun yang ingin menghasilkan uang dari internet maupun yang ingin mendapatkan pasif income dari bisnis online. 
 
@@ -58,7 +58,7 @@ Hal terpenting yang harus kamu lakukan adalah membuat diri kamu yakin bahwa kamu
 
 Jika kamu tidak yakin dengan diri kamu sendiri bahkan setelah melihat banyak bukti penghasilan bisnis online oleh para senior-senior yang telah lebih dahulu meraih kesuksesan di bisnis online, maka lebih baik kamu mencari bidang bisnis lain saja atau bekerja normal. Karena mindset ini sangat penting, jika kamu tidak memiliki mindset yang benar, biasanya kamu akan menyerah di tengah perjalanan bisnis online.
 
-#### Disiplin Dan Fokus
+##### Disiplin Dan Fokus
 
 Setelah memiliki mindset yang tepat dan keyakinan yang kuat, kamu harus menyiapkan diri kamu untuk disiplin dalam melakukan setiap pekerjaan online yang harus kamu lakukan.
 
@@ -72,7 +72,7 @@ Disiplin juga berarti apabila kamu telah berkomitmen untuk meluangkan waktu 2 ja
 
 Apabila siang hari kamu padat dengan pekerjaan kantoran pada siang hari, maka kamu harus berkomitmen pada malam hari kamu menyiapkan waktu tersebut dan menghindari gangguan demi mengerjakan setiap pekerjaan yang akan menumbuhkan penghasilan pasif kamu dari internet.
 
-### Bisnis Online Tanpa Jualan, Penghasilan Jutaan
+##### Bisnis Online Tanpa Jualan, Penghasilan Jutaan
 
 Pada panduan ini saya akan menjabarkan tentang salah satu bidang bisnis online tanpa harus jualan, tidak perlu stok barang, tidak perlu jadi reseller dan bukan bisnis dropshipping. 
 

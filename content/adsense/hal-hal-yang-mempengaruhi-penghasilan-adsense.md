@@ -13,7 +13,7 @@ tagar:
 
 Menghasilkan uang dari internet lewat AdSense memerlukan pengetahuan khusus seperti membuat konten berupa artikel maupun video. Selain hal tersebut ada juga hal yang ngga kalah penting untuk dapat meraih penghasilan AdSense secara optimal. Simak faktor-faktor yang berpengaruh pada penghasilan AdSense sebuah blog.
 
-### 1. Jumlah Traffic Yang Masuk
+##### 1. Jumlah Traffic Yang Masuk
 
 Sudah tak perlu ditanyakan lagi kenapa hal ini bisa mempengaruhi pendapatan AdSense sebuah blog.
 
@@ -21,7 +21,7 @@ Blogger mendapatkan klik dari pengunjung blognya, baik dari hasil pencarian orga
 
 Semakin besar jumlah pengunjung yang masuk ke blog anda, maka semakin besar potensi pendapatan anda dari iklan AdSense.
 
-### 2. Pemilihan Niche (Topik) Blog
+##### 2. Pemilihan Niche (Topik) Blog
 
 Tidak semua topik yang diulas oleh blog akan menghasilkan nominal per klik yang besar.
 
@@ -31,13 +31,13 @@ Jika anda memilih niche dimana ada banyak advertiser yang berani membayar mahal 
 
 Bagi blogger pemula disarankan untuk memilih niche yang disukai tanpa terlalu memikirkan nilai pendapatan per klik iklannya.
 
-### 3. Bahasa Yang Digunakan Dalam Blog
+##### 3. Bahasa Yang Digunakan Dalam Blog
 
 Google AdSense akan menampilkan iklan yang relevan dengan isi blog si publisher. Oleh karena itu, blog dengan bahasa Inggris akan berpeluang besar menampilkan iklan dari advertiser yang menggunakan bahasa Inggris.
 
 Kaitannya dengan penghasilan AdSense adalah: iklan yang menggunakan bahasa Inggris memasang bayaran yang lebih besar ketimbang bahasa Indonesia atau malah bahasa Sunda.
 
-### 4. Letak Geografis Pengunjung Blog
+##### 4. Letak Geografis Pengunjung Blog
 
 Selain dapat mendeteksi penggunaan bahasa, Google juga akan membaca posisi pengunjung blog yang sedang melihat iklan.
 
@@ -45,7 +45,7 @@ Hal ini bertujuan untuk dapat menampilkan iklan yang paling sesuai dan diminati 
 
 Yang menjadikan hal ini berpengaruh terhadap pendapatan blog mirip dengan alasan bahasa. Kebanyakan advertiser yang memasang iklan untuk target market negara maju seperti Amerika, Inggris, Australia, Jerman, dll berani membayar lebih mahal dibandingkan pemasang iklan untuk target lokasi seperti Indonesia, India, Sri Lanka, dll.
 
-### 5. Jenis Traffic Yang Masuk
+##### 5. Jenis Traffic Yang Masuk
 
 Pengunjung yang datang ke website anda dari search engine (organic traffic) dinilai berpotensi menghasilkan nilai klik yang lebih tinggi dibandingkan dengan pengunjung dari sosial media maupun dari website lain (referral traffic).
 
@@ -57,7 +57,7 @@ Sehingga iklan AdSense akan dengan mudah menyesuaikan iklan yang tampil dengan k
 
 Apabila pengunjung datang dari sosial media, kemungkinan mereka datang karena meng-klik iklan yang anda tampilkan disana. Iklan yang akan dimunculkan oleh AdSense kemungkinan adalah iklan re-targeting yang biasanya bernilai rendah.
 
-### 6. Jenis Iklan Dan Jumlah Iklan
+##### 6. Jenis Iklan Dan Jumlah Iklan
 
 Sebenarnya mengenai hubungan jumlah iklan dengan seberapa besar nilai kliknya masih berupa dugaan oleh para publisher AdSense.
 

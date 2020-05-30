@@ -32,7 +32,7 @@ AdSense adalah program periklanan dari Google dimana kamu dapat mendaftar sebaga
 
     Lain lagi jika kamu adalah seorang developer mobile apps (iOS atau Android), sobat akan dibayar ketika iklan pada aplikasi sobat mendapatkan tayangan atau klik.
 
-### Langkah 1 - Wajib Punya Akun AdSense!
+#### Langkah 1 - Wajib Punya Akun AdSense!
 
 Apapun jalan yang kamu pilih untuk menghasilkan uang dari AdSense, kamu harus memiliki sebuah akun AdSense yang aktif untuk mendapatkan penghasilan dari AdSense. Silahkan ikuti panduan cara mendaftarkan akun AdSense di bawah ini apabila kamu belum memilikinya. Atau kamu juga dapat membeli akun AdSense yang saat ini sudah mulai marak diperdagangkan oleh banyak pelaku bisnis online di Indonesia.
 
@@ -40,13 +40,13 @@ Apapun jalan yang kamu pilih untuk menghasilkan uang dari AdSense, kamu harus me
 - [Cara Daftar Google AdSense lewat blogger](./cara-daftar-google-adsense-lewat-blogger)
 - [Cara Daftar Google AdSense Dengan Blog Non Hosted](./cara-daftar-google-adsense-dengan-blog-non-hosted)
 
-###  Langkah 2 - Fokus Isi Konten Yang Berkualitas
+####  Langkah 2 - Fokus Isi Konten Yang Berkualitas
 
 Setelah kamu memiliki akun AdSense sekarang yang perlu kamu lakukan adalah membuat konten yang berkualitas, kemudian menguploadnya/posting. Kalo kamu ingin fokus blogging, maka buatlah artikel yang berkualitas sehingga dapat menarik banyak orang untuk membaca. Lain lagi kalo kamu ingin menjadi vlogger, maka buatlah video yang menarik dan dicari orang. Untuk kamu yang memilih jalan menjadi developer Android, kamu bisa mencoba membuat aplikasi yang berguna untuk banyak orang.
 
 Konten merupakan hal yang sangat penting kalo kamu ingin mendapatkan uang lewat AdSense. Semakin menarik dan bernilai konten yang kamu buat, pengunjung yang melihat konten kamu maka akan semakin banyak. Selain kualitas, usahakan juga membuat banyak konten secara teratur karena ini akan membantu mendongkrak penghasilan kamu () Pastikan konten yang kamu buat tidak melanggar TOS AdSense (bisa dilihat dibawah).
 
-### Langkah 3 - Tingkatkan Pengunjung Atau Pengguna Konten Kamu
+#### Langkah 3 - Tingkatkan Pengunjung Atau Pengguna Konten Kamu
 
 Kalo kamu udah bikin konten dan sudah dirasa berkualitas dan dapat bersaing di jagat internet, untuk meningkatkan penghasilan dari AdSense, kamu harus mempromosikan konten yang kamu buat tadi agar banyak dilihat orang. Cara untuk meningkatkan pengunjung ke blog maupun youtube channel ada bermacam-macam, terlalu luas apabila dijabarkan disini, karena itu kamu bisa googling dan cari trik-triknya.
 
@@ -64,7 +64,7 @@ Simak tips dibawah ini untuk meningkatkan penghasilan AdSense kamu.
 
 [**Cara Mendapatkan Uang Rp 5 Juta Per Bulan Dari AdSense**](./cara-mendapatkan-uang-5-juta-per-bulan-dari-adsense)
 
-### Langkah-langkah Mendapatkan Uang Dari AdSense Dengan Blogging
+#### Langkah-langkah Mendapatkan Uang Dari AdSense Dengan Blogging
 
 1. Buat blog
     
@@ -92,7 +92,7 @@ Simak tips dibawah ini untuk meningkatkan penghasilan AdSense kamu.
 8. Tingkatkan penghasilan AdSense kamu dengan menambahkan konten-konten baru di blog kamu atau dengan  meningkatkan traffic (pengunjung) blog kamu.
 9. Apabila saldo AdSense kamu telah menyentuh ambang batas pembayaran, kamu dapat mencairkannya lewat metode pembayaran yang telah kamu pilih sebelumnya (bisa via transfer bank, atau via Western Union jika kamu ingin cara pembayaran yang instan)
 
-### Langkah-Langkah Mendapatkan Uang Dari Internet Lewat YouTube (Vlogging)
+#### Langkah-Langkah Mendapatkan Uang Dari Internet Lewat YouTube (Vlogging)
 
 1. Buat akun Google, buat channel YouTube,
 2. Buat konten sesuai dengan niche/topik vlog yang kamu pilih kemudian upload ke channel kamu.
@@ -101,7 +101,7 @@ Simak tips dibawah ini untuk meningkatkan penghasilan AdSense kamu.
 5. Setelah mencapai persyaratan monetisasi, daftarkan channel kamu di program AdSense for YouTube.
 6. Cairkan saldo setelah mencapai ambang batas pembayaran
 
-### Langkah-Langkah Mendapatkan Uang Dari Internet Lewat AdMob (AdSense untuk aplikasi Android)
+#### Langkah-Langkah Mendapatkan Uang Dari Internet Lewat AdMob (AdSense untuk aplikasi Android)
 
 1. Jika sudah memiliki akun AdSense, kamu hanya perlu mengaktifkan akun AdMob dan menghubungkannya ke akun AdSense kamu.
 2. Masukkan kode iklan kamu pada aplikasi Android kamu.

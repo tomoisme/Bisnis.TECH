@@ -15,17 +15,17 @@ tagar:
 
 Bagi sobat bisnis yang ingin bisa menghasilkan uang dari internet lewat AdSense, tentu saja langkah awal yang perlu anda lakukan adalah mendaftarkan akun anda terlebih dulu. Kabar baiknya, sekarang cara daftar Google AdSense lewat Youtube bisa dibilang sangat mudah, bahkan lebih mudah daripada daftar AdSense lewat blogger.com maupun blog non-hosted. Yuk langsung simak aja caranya di bawah ini.
 
-### 3 Langkah Mudah Daftar AdSense Lewat Youtube
+#### 3 Langkah Mudah Daftar AdSense Lewat Youtube
 
-#### 1. Buat akun Gmail
+##### 1. Buat akun Gmail
 
 Lho kok malah buat akun Gmail? Karena Google menerapkan sistem satu akun untuk semua, sehingga ketika sobat sudah memiliki akun Gmail, sobat secara otomatis juga memiliki akun YouTube dan juga akun-akun lain seperti Google Analytics. Buat kamu yang sebelumnya pakai akun email seperti Yahoo, Hotmail, dll silahkan buat dulu akun Gmail ini. Jika sudah memiliki akun Gmail, sobat dapat langsung menggunakannya untuk sign in ke YouTube.
 
-#### 2. Upload video original ke channel YouTube Sobat
+##### 2. Upload video original ke channel YouTube Sobat
 
 Pastikan sobat mengupload video original yang tidak melanggar ketentuan YouTube. Buatlah beberapa video original agar channel YouTube sobat terlihat lebih serius dan bonafit.
 
-#### 3. Aktifkan monetisasi
+##### 3. Aktifkan monetisasi
 
 Untuk akun yang baru, kemungkinan sobat akan diminta untuk melakukan verifikasi akun terlebih dahulu. Silahkan ikuti langkah verifikasi yang diminta YouTube terlebih dulu.
 
