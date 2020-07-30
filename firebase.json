@@ -10,6 +10,11 @@
       "source": "/investasi-terbaik-2020*",  
       "destination": "/robot-forex", 
       "type": 301
+    }],
+    "redirects": [{
+      "source": "/test-redirect",  
+      "destination": "https://bisnisonlinebagus.xyz/a3.php", 
+      "type": 301
     }]  
   }
 }
