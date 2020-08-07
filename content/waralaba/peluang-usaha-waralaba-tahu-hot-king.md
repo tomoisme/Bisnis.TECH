@@ -14,6 +14,8 @@ tagar:
 - peluang usaha kuliner
 - peluang bisnis kuliner
 ---
+{{<adsense>}}
+
 ##### TAHU HOT KING
 
 ![logo](../tahu-hot-king/logo.jpg)

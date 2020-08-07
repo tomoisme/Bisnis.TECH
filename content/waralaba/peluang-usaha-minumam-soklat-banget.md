@@ -10,6 +10,8 @@ tagar:
 - bisnis minuman
 - franchise minuman soklat banget
 ---
+{{<adsense>}}
+
 ##### SOKLAT BANGET
 
 Soklat Banget adalah minuman coklat dengan berbagai varian rasa serta topping yang seru.

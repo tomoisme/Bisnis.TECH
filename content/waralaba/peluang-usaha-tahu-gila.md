@@ -10,8 +10,12 @@ tagar:
 - waralaba kuliner
 - franchise makanan
 ---
+{{<adsense>}}
+
 ![logo tahu gila](../tahu-gila/logo-tahu-gila.jpg)
+
 ##### TAHU GILA
+
 Siapa sih di negri Ibu pertiwi Indonesia ini yang tidak suka makan tahu. Tahu sudah menjadi makanan yang sangat merakyat dan dicintai oleh berbagai kalangan masyarakat, mulai dari kalangan bawah hingga kalangan atas.
 Sudah coba belum racikan Tahu yang kekinian, tahu yang satu ini bukan sembarang tahu, tapi GILA enaknya juga GILA banget bisnisnya!
 

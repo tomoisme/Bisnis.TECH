@@ -14,6 +14,7 @@ tagar:
 - peluang usaha kuliner
 - peluang bisnis kuliner
 ---
+{{<adsense>}}
 
 ##### NYOT NYOT THAI TEA
 
