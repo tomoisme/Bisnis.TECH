@@ -1,0 +1,13 @@
+[debug] [2021-02-27T15:52:00.326Z] ----------------------------------------------------------------------
+[debug] [2021-02-27T15:52:00.329Z] Command:       C:\Program Files\nodejs\node.exe C:\Users\HP\AppData\Roaming\npm\node_modules\firebase-tools\lib\bin\firebase.js deploy
+[debug] [2021-02-27T15:52:00.329Z] CLI Version:   9.5.0
+[debug] [2021-02-27T15:52:00.329Z] Platform:      win32
+[debug] [2021-02-27T15:52:00.329Z] Node Version:  v12.15.0
+[debug] [2021-02-27T15:52:00.331Z] Time:          Sat Feb 27 2021 22:52:00 GMT+0700 (Western Indonesia Time)
+[debug] [2021-02-27T15:52:00.331Z] ----------------------------------------------------------------------
+[debug] [2021-02-27T15:52:00.331Z] 
+[debug] [2021-02-27T15:52:00.342Z] > command requires scopes: ["email","openid","https://www.googleapis.com/auth/cloudplatformprojects.readonly","https://www.googleapis.com/auth/firebase","https://www.googleapis.com/auth/cloud-platform"]
+[debug] [2021-02-27T15:52:00.343Z] > authorizing via signed-in user
+[debug] [2021-02-27T15:52:00.343Z] [iam] checking project bisnistech-1518695560609 for permissions ["firebase.projects.get","firebasehosting.sites.update"]
+[debug] [2021-02-27T15:52:00.346Z] >>> HTTP REQUEST POST https://cloudresourcemanager.googleapis.com/v1/projects/bisnistech-1518695560609:testIamPermissions  
+ {"permissions":["firebase.projects.get","firebasehosting.sites.update"]}
