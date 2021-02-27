@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <!-- META -->
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="author" content="KontraktorWeb - Jasa Pembuatan Website" />
+    <meta name="robots" content="allow" />
+    <meta name="description" content="{{ .Description }}" />
+
+    {{partial "favicon" .}}
+
+    <!-- PAGE TITLE HERE -->
+    <title>{{ .Title }}</title>
+
+    <!-- MOBILE SPECIFIC -->
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+
+    <!-- [if lt IE 9]>
+        <script src="{{ .Site.BaseURL }}js/html5shiv.min.js"></script>
+        <script src="{{ .Site.BaseURL }}js/respond.min.js"></script>
+	<![endif] -->
+
+    <!-- BOOTSTRAP STYLE SHEET -->
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/bootstrap.min.css">
+
+    <!-- FONTAWESOME STYLE SHEET -->
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/fontawesome/css/font-awesome.min.css" />
+
+    <!-- LOADER STYLE SHEET -->
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/loader.min.css">
+
+    <!-- FLATICON STYLE SHEET -->
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/flaticon.min.css">
+
+    <!-- MAIN STYLE SHEET -->
+    <link rel="stylesheet" type="text/css" href="{{ .Site.BaseURL }}/css/style.css">
+
+    <!-- Color Theme Change Css -->
+    <link rel="stylesheet" class="skin" type="text/css" href="{{ .Site.BaseURL }}/css/skin/skin-1.css">
+
+    <!-- Google Fonts -->
+    <link href="https://fonts.googleapis.com/css?family=Roboto:100,100i,300,300i,400,400i,500,500i,700,700i,900,900i"
+        rel="stylesheet">
+    <link
+        href="https://fonts.googleapis.com/css?family=Poppins:200,200i,300,300i,400,400i,500,500i,600,600i,700,700i,800,800i,900,900i"
+        rel="stylesheet">
+
+</head>
+
+<body>
+    <div class="page-wraper">
+        <!-- HEADER START -->
+        <header class="site-header header-style-1">
+            <div class="sticky-header main-bar-wraper">
+                <div class="main-bar bg-white">
+                    <div class="container">
+                        {{partial "logo" .}}
+
+                        <!-- NAV Toggle Button -->
+                        <button data-target=".header-nav" data-toggle="collapse" type="button"
+                            class="navbar-toggle collapsed">
+                            <span class="sr-only">Toggle navigation</span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                            <span class="icon-bar"></span>
+                        </button>
+
+                        {{partial "main-nav" .}}
+
+                    </div>
+                </div>
+            </div>
+        </header>
+        <!-- HEADER END -->

@@ -10,7 +10,6 @@ tagar:
 - bisnis minuman
 - franchise minuman soklat banget
 ---
-{{<adsense>}}
 
 ##### SOKLAT BANGET
 

@@ -1,0 +1,23 @@
+{{ partial "header" . }}
+
+<div class="section-full p-tb50 inner-page-padding">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 col-md-12">
+                <!-- CONTENT START -->
+                <div class="blog-post date-style-3 blog-detail text-black">
+                    <div class="mt-post-title ">
+                        <h2 class="post-title">{{.Title}}</h2>
+                    </div>
+
+                    <div class="mt-post-text font-16">
+                        {{.Content}}
+                    </div>
+                </div>
+                <!-- CONTENT END -->              
+            </div>
+        </div>
+    </div>
+</div>
+
+{{ partial "footer" . }}

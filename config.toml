@@ -2,8 +2,9 @@ baseURL = "https://www.bisnis.tech/"
 languageCode = "en-us"
 title = "Bisnis.TECH"
 disableKinds = ["RSS"]
-theme = "gromart"
-paginate = 5
+theme = "v1"
+paginate = 9
+summaryLength = 25
 
 [taxonomies]
     tag = "tagar"

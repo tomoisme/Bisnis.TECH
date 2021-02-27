@@ -10,7 +10,6 @@ tagar:
 - bisnis minuman
 - franchise minuman nyoklat super
 ---
-{{<adsense>}}
 
 ##### NYOKLAT SUPER
 
